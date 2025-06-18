@@ -1,0 +1,2780 @@
+1
+00:00:08,980 --> 00:00:10,773
+Previously on
+
+2
+00:00:08,980 --> 00:00:10,773
+The Big Bang Theory...
+
+3
+00:00:10,815 --> 00:00:12,442
+Actually, I-I need to talk to
+
+4
+00:00:10,815 --> 00:00:12,442
+both of you about your paper.
+
+5
+00:00:12,484 --> 00:00:15,195
+Oh, right, how are
+
+6
+00:00:12,484 --> 00:00:15,195
+the citations coming?
+
+7
+00:00:12,484 --> 00:00:15,195
+Um...
+
+8
+00:00:15,236 --> 00:00:18,739
+We came a-across
+
+9
+00:00:15,236 --> 00:00:18,739
+a-a Russian paper
+
+10
+00:00:18,781 --> 00:00:21,159
+that seems to disprove
+
+11
+00:00:18,781 --> 00:00:21,159
+super-asymmetry.
+
+12
+00:00:25,497 --> 00:00:27,081
+(screams)
+
+13
+00:00:29,625 --> 00:00:32,003
+Okay, Sheldon and Amy
+
+14
+00:00:29,625 --> 00:00:32,003
+are still pretty upset
+
+15
+00:00:32,045 --> 00:00:33,671
+about their theory
+
+16
+00:00:32,045 --> 00:00:33,671
+being disproved.
+
+17
+00:00:33,713 --> 00:00:36,341
+So we have made
+
+18
+00:00:33,713 --> 00:00:36,341
+a list of subjects
+
+19
+00:00:36,383 --> 00:00:37,633
+for everyone
+
+20
+00:00:36,383 --> 00:00:37,633
+to avoid.
+
+21
+00:00:37,675 --> 00:00:39,302
+Symmetry.
+
+22
+00:00:37,675 --> 00:00:39,302
+Asymmetry.
+
+23
+00:00:39,344 --> 00:00:40,553
+Uh, SimCity—
+
+24
+00:00:40,594 --> 00:00:42,055
+sounds too much like symmetry.
+
+25
+00:00:42,096 --> 00:00:43,931
+LEONARD:
+
+26
+00:00:42,096 --> 00:00:43,931
+That also applies
+
+27
+00:00:43,973 --> 00:00:45,933
+to The Simpsons,
+
+28
+00:00:43,973 --> 00:00:45,933
+Simba from The Lion King,
+
+29
+00:00:45,975 --> 00:00:47,185
+and cymbals.
+
+30
+00:00:47,227 --> 00:00:50,146
+Russia or Russian
+
+31
+00:00:47,227 --> 00:00:50,146
+in any context.
+
+32
+00:00:50,188 --> 00:00:52,564
+The country, the dressing,
+
+33
+00:00:50,188 --> 00:00:52,564
+the roulette.
+
+34
+00:00:53,816 --> 00:00:56,236
+Uh, also no talk of Rocky IV.
+
+35
+00:00:56,277 --> 00:00:57,904
+Why Rocky IV?
+
+36
+00:00:57,945 --> 00:00:59,239
+Because he fights
+
+37
+00:00:57,945 --> 00:00:59,239
+a Russian.
+
+38
+00:00:59,280 --> 00:01:02,909
+I'm sorry about her.
+
+39
+00:00:59,280 --> 00:01:02,909
+(chuckles)
+
+40
+00:01:02,950 --> 00:01:04,994
+We should just try and avoid
+
+41
+00:01:02,950 --> 00:01:04,994
+anything that makes them think
+
+42
+00:01:05,036 --> 00:01:06,871
+of their project
+
+43
+00:01:05,036 --> 00:01:06,871
+or science
+
+44
+00:01:06,913 --> 00:01:09,790
+or Nobel Prizes
+
+45
+00:01:06,913 --> 00:01:09,790
+or successes or failures.
+
+46
+00:01:09,832 --> 00:01:12,126
+Hi.
+
+47
+00:01:09,832 --> 00:01:12,126
+ALL: Hi!
+
+48
+00:01:12,168 --> 00:01:13,836
+Hey, guys.
+
+49
+00:01:12,168 --> 00:01:13,836
+Hey-a!
+
+50
+00:01:13,878 --> 00:01:15,255
+What are you guys doing?
+
+51
+00:01:16,130 --> 00:01:17,340
+Nothing.
+
+52
+00:01:17,382 --> 00:01:18,716
+Nothing?
+
+53
+00:01:18,758 --> 00:01:22,595
+Like what my career
+
+54
+00:01:18,758 --> 00:01:22,595
+has come to? Thanks a lot.
+
+55
+00:01:25,014 --> 00:01:26,766
+Nice going.
+
+56
+00:01:28,351 --> 00:01:31,479
+♪ Our whole universe
+
+57
+00:01:28,351 --> 00:01:31,479
+was in a hot, dense state ♪
+
+58
+00:01:31,521 --> 00:01:34,857
+♪ Then nearly 14 billion years
+
+59
+00:01:31,521 --> 00:01:34,857
+ago expansion started... Wait! ♪
+
+60
+00:01:34,899 --> 00:01:36,817
+♪ The Earth began to cool ♪
+
+61
+00:01:36,859 --> 00:01:39,362
+♪ The autotrophs began to drool,
+
+62
+00:01:36,859 --> 00:01:39,362
+Neanderthals developed tools ♪
+
+63
+00:01:39,404 --> 00:01:41,906
+♪ We built the Wall ♪
+
+64
+00:01:39,404 --> 00:01:41,906
+♪ We built the pyramids ♪
+
+65
+00:01:41,948 --> 00:01:44,576
+♪ Math, Science, History,
+
+66
+00:01:41,948 --> 00:01:44,576
+unraveling the mystery ♪
+
+67
+00:01:44,616 --> 00:01:46,536
+♪ That all started
+
+68
+00:01:44,616 --> 00:01:46,536
+with a big bang ♪
+
+69
+00:01:46,578 --> 00:01:48,288
+♪ Bang! ♪
+
+70
+00:01:52,375 --> 00:01:54,419
+(music playing)
+
+71
+00:02:05,555 --> 00:02:07,140
+What are you doing?
+
+72
+00:02:07,181 --> 00:02:08,682
+Eating, reading,
+
+73
+00:02:08,724 --> 00:02:09,976
+watching television,
+
+74
+00:02:08,724 --> 00:02:09,976
+listening to the radio.
+
+75
+00:02:10,017 --> 00:02:11,644
+What does it look
+
+76
+00:02:10,017 --> 00:02:11,644
+like I'm doing?
+
+77
+00:02:13,521 --> 00:02:16,065
+Is that asparagus? I thought
+
+78
+00:02:13,521 --> 00:02:16,065
+you hate asparagus.
+
+79
+00:02:16,107 --> 00:02:18,276
+I thought so, too, but I also
+
+80
+00:02:16,107 --> 00:02:18,276
+thought super-asymmetry
+
+81
+00:02:18,318 --> 00:02:20,487
+was a good idea,
+
+82
+00:02:18,318 --> 00:02:20,487
+so what else am I wrong about?
+
+83
+00:02:20,528 --> 00:02:23,739
+Oh, so now you're
+
+84
+00:02:20,528 --> 00:02:23,739
+reevaluating
+
+85
+00:02:23,781 --> 00:02:25,533
+every opinion you've ever had?
+
+86
+00:02:25,575 --> 00:02:27,701
+Yes. I am following the example
+
+87
+00:02:27,743 --> 00:02:29,829
+of 17th century philosopher
+
+88
+00:02:27,743 --> 00:02:29,829
+René Descartes.
+
+89
+00:02:29,870 --> 00:02:31,539
+He subjected
+
+90
+00:02:29,870 --> 00:02:31,539
+all his beliefs
+
+91
+00:02:31,581 --> 00:02:34,083
+to radical doubt so that he
+
+92
+00:02:31,581 --> 00:02:34,083
+could build a bedrock belief
+
+93
+00:02:34,125 --> 00:02:37,545
+and build his cognitive life
+
+94
+00:02:34,125 --> 00:02:37,545
+back up on firm principles.
+
+95
+00:02:37,587 --> 00:02:39,964
+Ugh! Still yucky, still yucky.
+
+96
+00:02:41,715 --> 00:02:43,259
+(music stops)
+
+97
+00:02:43,301 --> 00:02:45,761
+Sheldon, I know you're upset
+
+98
+00:02:43,301 --> 00:02:45,761
+about the paper, okay.
+
+99
+00:02:45,803 --> 00:02:47,054
+I'm upset, too.
+
+100
+00:02:47,096 --> 00:02:48,973
+I mean, I was so sure
+
+101
+00:02:47,096 --> 00:02:48,973
+we were right.
+
+102
+00:02:49,015 --> 00:02:51,309
+Every fiber of my being
+
+103
+00:02:49,015 --> 00:02:51,309
+felt like this was it.
+
+104
+00:02:51,351 --> 00:02:54,270
+This was the one. How can I
+
+105
+00:02:51,351 --> 00:02:54,270
+trust my instincts anymore?
+
+106
+00:02:54,312 --> 00:02:56,022
+Well, just because
+
+107
+00:02:54,312 --> 00:02:56,022
+our theory was wrong,
+
+108
+00:02:56,063 --> 00:02:58,191
+that doesn't mean you're wrong
+
+109
+00:02:56,063 --> 00:02:58,191
+about everything.
+
+110
+00:02:58,232 --> 00:03:01,319
+Doesn't it? I've always thought
+
+111
+00:02:58,232 --> 00:03:01,319
+I hated jazz, maybe I was wrong.
+
+112
+00:03:01,361 --> 00:03:03,530
+Maybe it's great to hear
+
+113
+00:03:01,361 --> 00:03:03,530
+all the notes at once.
+
+114
+00:03:03,571 --> 00:03:05,615
+(music playing)
+
+115
+00:03:07,992 --> 00:03:11,078
+I'm trying,
+
+116
+00:03:07,992 --> 00:03:11,078
+I'm really trying!
+
+117
+00:03:14,457 --> 00:03:16,792
+What you eating?
+
+118
+00:03:14,457 --> 00:03:16,792
+Chicken fried steak.
+
+119
+00:03:16,834 --> 00:03:19,295
+What? You can't have
+
+120
+00:03:16,834 --> 00:03:19,295
+chicken fried steak
+
+121
+00:03:19,337 --> 00:03:21,047
+first thing in the morning.
+
+122
+00:03:19,337 --> 00:03:21,047
+Hey,
+
+123
+00:03:21,088 --> 00:03:23,966
+you knew I was a bad boy
+
+124
+00:03:21,088 --> 00:03:23,966
+when you married me.
+
+125
+00:03:24,008 --> 00:03:26,678
+Come on, you want
+
+126
+00:03:24,008 --> 00:03:26,678
+a piece of this?
+
+127
+00:03:26,718 --> 00:03:29,138
+You or the steak?
+
+128
+00:03:29,180 --> 00:03:30,806
+Me.
+
+129
+00:03:29,180 --> 00:03:30,806
+I'm not sharing the steak.
+
+130
+00:03:30,848 --> 00:03:32,058
+(knocking)
+
+131
+00:03:32,099 --> 00:03:34,268
+Hey, you guys busy?
+
+132
+00:03:34,310 --> 00:03:35,645
+No, what's going on?
+
+133
+00:03:35,687 --> 00:03:38,439
+I'm really worried
+
+134
+00:03:35,687 --> 00:03:38,439
+about Sheldon.
+
+135
+00:03:38,481 --> 00:03:40,149
+I've never seen him this down.
+
+136
+00:03:40,191 --> 00:03:42,151
+Have you tried making him
+
+137
+00:03:40,191 --> 00:03:42,151
+a cup of tea?
+
+138
+00:03:42,193 --> 00:03:45,446
+He's reevaluated tea.
+
+139
+00:03:46,822 --> 00:03:49,617
+Now he thinks it's nothing
+
+140
+00:03:46,822 --> 00:03:49,617
+but leaf soup.
+
+141
+00:03:49,659 --> 00:03:51,327
+That's a good point.
+
+142
+00:03:51,369 --> 00:03:53,413
+No, it's not.
+
+143
+00:03:51,369 --> 00:03:53,413
+No, it's not.
+
+144
+00:03:53,454 --> 00:03:55,373
+He's rethinking everything.
+
+145
+00:03:55,415 --> 00:03:57,584
+How long is it gonna be
+
+146
+00:03:55,415 --> 00:03:57,584
+before he gets to me?
+
+147
+00:03:57,625 --> 00:03:59,960
+Oh.
+
+148
+00:03:57,625 --> 00:03:59,960
+It's that bad, huh?
+
+149
+00:04:00,002 --> 00:04:02,672
+I'm afraid so. I just...
+
+150
+00:04:00,002 --> 00:04:02,672
+I don't know what to do.
+
+151
+00:04:02,714 --> 00:04:05,508
+I have something
+
+152
+00:04:02,714 --> 00:04:05,508
+that might help.
+
+153
+00:04:05,550 --> 00:04:08,595
+It's-it's a recording
+
+154
+00:04:05,550 --> 00:04:08,595
+of the only person
+
+155
+00:04:08,636 --> 00:04:11,805
+whose opinion Sheldon
+
+156
+00:04:08,636 --> 00:04:11,805
+actually respects.
+
+157
+00:04:11,847 --> 00:04:13,057
+Hawking?
+
+158
+00:04:13,099 --> 00:04:14,267
+Feynman?
+
+159
+00:04:14,308 --> 00:04:16,269
+No, himself.
+
+160
+00:04:17,770 --> 00:04:19,980
+It's a pep talk he made
+
+161
+00:04:17,770 --> 00:04:19,980
+when he was a kid.
+
+162
+00:04:20,022 --> 00:04:22,816
+He gave it to me years ago
+
+163
+00:04:20,022 --> 00:04:22,816
+and told me to save it
+
+164
+00:04:22,858 --> 00:04:24,360
+for a real emergency.
+
+165
+00:04:24,402 --> 00:04:26,112
+What?
+
+166
+00:04:24,402 --> 00:04:26,112
+You didn't break it out
+
+167
+00:04:26,153 --> 00:04:28,155
+when he declared his room
+
+168
+00:04:26,153 --> 00:04:28,155
+a sovereign nation
+
+169
+00:04:28,197 --> 00:04:31,033
+and waged a trade war
+
+170
+00:04:28,197 --> 00:04:31,033
+against us?
+
+171
+00:04:31,075 --> 00:04:35,037
+His major export is talking.
+
+172
+00:04:31,075 --> 00:04:35,037
+I didn't want that anyway.
+
+173
+00:04:40,042 --> 00:04:41,419
+Is that a VCR?
+
+174
+00:04:41,461 --> 00:04:43,879
+Yeah, Amy asked if we
+
+175
+00:04:41,461 --> 00:04:43,879
+had one she could borrow
+
+176
+00:04:43,921 --> 00:04:45,757
+and I just want to make sure
+
+177
+00:04:43,921 --> 00:04:45,757
+it still works.
+
+178
+00:04:45,798 --> 00:04:47,675
+What's on the tape?
+
+179
+00:04:47,717 --> 00:04:50,595
+Not sure. I used to record
+
+180
+00:04:47,717 --> 00:04:50,595
+a lot of Jeopardy! for my mom,
+
+181
+00:04:50,637 --> 00:04:52,388
+but if I push play
+
+182
+00:04:50,637 --> 00:04:52,388
+and you see some naked people...
+
+183
+00:04:52,430 --> 00:04:54,932
+Got it.
+
+184
+00:04:52,430 --> 00:04:54,932
+What is porn?
+
+185
+00:04:54,974 --> 00:04:57,685
+Ooh, we were looking
+
+186
+00:04:54,974 --> 00:04:57,685
+for "vintage '80s erotica,"
+
+187
+00:04:57,727 --> 00:04:59,103
+but I'll accept it.
+
+188
+00:04:59,145 --> 00:05:01,314
+WOLOWITZ:
+
+189
+00:04:59,145 --> 00:05:01,314
+Hello, everybody.
+
+190
+00:05:03,733 --> 00:05:07,111
+I am The Great Howdini.
+
+191
+00:05:07,153 --> 00:05:10,323
+(coughing)
+
+192
+00:05:10,364 --> 00:05:13,534
+Put it back on.
+
+193
+00:05:10,364 --> 00:05:13,534
+You look adorable.
+
+194
+00:05:13,576 --> 00:05:15,369
+It's just a practice tape
+
+195
+00:05:15,411 --> 00:05:18,539
+from when I was trying to become
+
+196
+00:05:15,411 --> 00:05:18,539
+a member of the Magic Castle.
+
+197
+00:05:18,581 --> 00:05:20,416
+I didn't know
+
+198
+00:05:18,581 --> 00:05:20,416
+you auditioned there.
+
+199
+00:05:20,458 --> 00:05:22,168
+Oh, I never went
+
+200
+00:05:20,458 --> 00:05:22,168
+through with it.
+
+201
+00:05:22,209 --> 00:05:24,837
+I watched the tape and realized
+
+202
+00:05:22,209 --> 00:05:24,837
+I wasn't good enough.
+
+203
+00:05:24,878 --> 00:05:28,048
+You know that trick where
+
+204
+00:05:24,878 --> 00:05:28,048
+you saw a mannequin in half?
+
+205
+00:05:28,090 --> 00:05:30,884
+Don't you mean a lady?
+
+206
+00:05:28,090 --> 00:05:30,884
+Thank God it was not a lady.
+
+207
+00:05:30,926 --> 00:05:32,970
+I'd just be getting
+
+208
+00:05:30,926 --> 00:05:32,970
+out of jail.
+
+209
+00:05:34,054 --> 00:05:36,766
+Come on, you're
+
+210
+00:05:34,054 --> 00:05:36,766
+a good magician.
+
+211
+00:05:36,808 --> 00:05:40,019
+Really? You always
+
+212
+00:05:36,808 --> 00:05:40,019
+called magic dumb.
+
+213
+00:05:40,060 --> 00:05:41,979
+You can be good
+
+214
+00:05:40,060 --> 00:05:41,979
+at something dumb.
+
+215
+00:05:43,564 --> 00:05:45,650
+You know what, you should
+
+216
+00:05:43,564 --> 00:05:45,650
+audition now.
+
+217
+00:05:43,564 --> 00:05:45,650
+It's fine.
+
+218
+00:05:45,692 --> 00:05:49,320
+I don't need to be a member of
+
+219
+00:05:45,692 --> 00:05:49,320
+the most elite magical society
+
+220
+00:05:49,362 --> 00:05:52,239
+on the face
+
+221
+00:05:49,362 --> 00:05:52,239
+of the earth.
+
+222
+00:05:52,281 --> 00:05:54,116
+Sounds like you still want it.
+
+223
+00:05:54,158 --> 00:05:55,951
+And I don't want our kids
+
+224
+00:05:55,993 --> 00:05:58,371
+to watch this tape one day and
+
+225
+00:05:55,993 --> 00:05:58,371
+think their dad is a quitter.
+
+226
+00:05:58,412 --> 00:06:00,665
+Oh, we don't have to
+
+227
+00:05:58,412 --> 00:06:00,665
+show it to them.
+
+228
+00:06:00,707 --> 00:06:03,167
+Oh, I'm definitely
+
+229
+00:06:00,707 --> 00:06:03,167
+showing it to them.
+
+230
+00:06:05,628 --> 00:06:07,421
+Hey.
+
+231
+00:06:07,463 --> 00:06:08,880
+Hello.
+
+232
+00:06:10,633 --> 00:06:12,385
+"Fine with flags"?
+
+233
+00:06:14,637 --> 00:06:16,681
+Yes, flags—
+
+234
+00:06:16,723 --> 00:06:19,099
+up there flapping around
+
+235
+00:06:16,723 --> 00:06:19,099
+on poles.
+
+236
+00:06:19,141 --> 00:06:21,101
+If you think about it,
+
+237
+00:06:19,141 --> 00:06:21,101
+they're just the strippers
+
+238
+00:06:21,143 --> 00:06:23,270
+of the emblem world.
+
+239
+00:06:23,312 --> 00:06:25,565
+Well, I got something
+
+240
+00:06:25,606 --> 00:06:27,817
+that I think
+
+241
+00:06:25,606 --> 00:06:27,817
+might cheer you up.
+
+242
+00:06:27,859 --> 00:06:31,111
+It is the emergency pep talk
+
+243
+00:06:27,859 --> 00:06:31,111
+you made when you were a kid.
+
+244
+00:06:31,153 --> 00:06:33,781
+Oh, that.
+
+245
+00:06:33,823 --> 00:06:37,368
+I was saving it for the day they
+
+246
+00:06:33,823 --> 00:06:37,368
+stop making Star Wars movies.
+
+247
+00:06:38,745 --> 00:06:41,247
+I don't think that's
+
+248
+00:06:38,745 --> 00:06:41,247
+ever gonna happen.
+
+249
+00:06:41,288 --> 00:06:45,125
+How long has it been
+
+250
+00:06:41,288 --> 00:06:45,125
+since you've seen it?
+
+251
+00:06:45,167 --> 00:06:46,960
+Not since the day I recorded it.
+
+252
+00:06:47,002 --> 00:06:49,129
+No, I had just watched
+
+253
+00:06:47,002 --> 00:06:49,129
+Back to the Future II,
+
+254
+00:06:49,171 --> 00:06:51,923
+where Marty McFly gets a glimpse
+
+255
+00:06:49,171 --> 00:06:51,923
+of his future self
+
+256
+00:06:51,965 --> 00:06:53,300
+and that got me thinking,
+
+257
+00:06:53,342 --> 00:06:56,011
+the day may come
+
+258
+00:06:53,342 --> 00:06:56,011
+where I needed my help,
+
+259
+00:06:56,053 --> 00:06:59,139
+like they did with that movie.
+
+260
+00:06:56,053 --> 00:06:59,139
+That was not great.
+
+261
+00:06:59,181 --> 00:07:02,602
+Okay, all hooked up.
+
+262
+00:07:02,643 --> 00:07:05,187
+Here we go.
+
+263
+00:07:08,023 --> 00:07:10,276
+Oh, look how cute you were.
+
+264
+00:07:10,317 --> 00:07:13,987
+Amy please, of course I was
+
+265
+00:07:10,317 --> 00:07:13,987
+cute. Look how I turned out.
+
+266
+00:07:14,029 --> 00:07:15,656
+Hello, Sheldon.
+
+267
+00:07:15,698 --> 00:07:17,366
+Hello, Sheldon.
+
+268
+00:07:17,408 --> 00:07:18,618
+If you're watching this,
+
+269
+00:07:18,659 --> 00:07:21,245
+I assume something bad
+
+270
+00:07:18,659 --> 00:07:21,245
+has happened.
+
+271
+00:07:21,287 --> 00:07:22,914
+Something unfortunate
+
+272
+00:07:21,287 --> 00:07:22,914
+and unforeseen.
+
+273
+00:07:22,955 --> 00:07:26,375
+Something that's making you
+
+274
+00:07:26,417 --> 00:07:27,960
+question everything.
+
+275
+00:07:28,001 --> 00:07:31,213
+I'm so smart.
+
+276
+00:07:31,255 --> 00:07:33,591
+Now just to make sure
+
+277
+00:07:31,255 --> 00:07:33,591
+it's really you watching this
+
+278
+00:07:33,633 --> 00:07:37,219
+and not an imposter,
+
+279
+00:07:33,633 --> 00:07:37,219
+what am I thinking of?
+
+280
+00:07:37,261 --> 00:07:38,888
+On the count of three.
+
+281
+00:07:38,930 --> 00:07:41,641
+One, two, three.
+
+282
+00:07:41,682 --> 00:07:45,018
+Robot monkey butler.
+
+283
+00:07:41,682 --> 00:07:45,018
+Robot monkey butler.
+
+284
+00:07:45,060 --> 00:07:46,854
+Okay, good.
+
+285
+00:07:46,896 --> 00:07:50,190
+Should I leave
+
+286
+00:07:46,896 --> 00:07:50,190
+you two alone?
+
+287
+00:07:50,232 --> 00:07:53,694
+No, this is gonna be inspiring.
+
+288
+00:07:50,232 --> 00:07:53,694
+You should watch.
+
+289
+00:07:53,736 --> 00:07:56,489
+Sheldon, never forget,
+
+290
+00:07:56,530 --> 00:07:58,699
+no matter how bad things seem,
+
+291
+00:07:58,741 --> 00:08:00,117
+you can al...
+
+292
+00:08:03,203 --> 00:08:06,332
+What? What...
+
+293
+00:08:03,203 --> 00:08:06,332
+No. N... (scoffs)
+
+294
+00:08:06,373 --> 00:08:07,875
+My dad taped over it
+
+295
+00:08:07,917 --> 00:08:10,336
+with one of his stupid
+
+296
+00:08:07,917 --> 00:08:10,336
+high school football games.
+
+297
+00:08:10,377 --> 00:08:11,796
+Sorry.
+
+298
+00:08:11,838 --> 00:08:13,464
+You know, it doesn't matter,
+
+299
+00:08:11,838 --> 00:08:13,464
+nothing matters.
+
+300
+00:08:13,506 --> 00:08:15,174
+Is there anything
+
+301
+00:08:13,506 --> 00:08:15,174
+I can do?
+
+302
+00:08:15,215 --> 00:08:17,259
+Yes. You can build me
+
+303
+00:08:15,215 --> 00:08:17,259
+a time machine
+
+304
+00:08:17,301 --> 00:08:20,012
+so I can go back and tell my
+
+305
+00:08:17,301 --> 00:08:20,012
+younger self to give up, because
+
+306
+00:08:20,053 --> 00:08:21,931
+nothing's gonna work out
+
+307
+00:08:20,053 --> 00:08:21,931
+the way he wants.
+
+308
+00:08:25,768 --> 00:08:27,937
+I was thinking a nice cup
+
+309
+00:08:25,768 --> 00:08:27,937
+of leaf soup.
+
+310
+00:08:34,234 --> 00:08:36,737
+What's all this?
+
+311
+00:08:36,779 --> 00:08:38,781
+Your magic tricks
+
+312
+00:08:36,779 --> 00:08:38,781
+from the garage.
+
+313
+00:08:38,823 --> 00:08:42,618
+Your wands, your top hat
+
+314
+00:08:38,823 --> 00:08:42,618
+with the stuffed mouse inside.
+
+315
+00:08:42,660 --> 00:08:44,411
+I never had a stuffed mouse.
+
+316
+00:08:44,453 --> 00:08:46,747
+Okay, do not wear this hat.
+
+317
+00:08:46,789 --> 00:08:50,167
+Why is it all
+
+318
+00:08:46,789 --> 00:08:50,167
+in the living room?
+
+319
+00:08:50,209 --> 00:08:52,044
+Because I think
+
+320
+00:08:50,209 --> 00:08:52,044
+The Great Howdini
+
+321
+00:08:52,085 --> 00:08:54,213
+deserves to be a member
+
+322
+00:08:52,085 --> 00:08:54,213
+of the Magic Castle.
+
+323
+00:08:54,254 --> 00:08:57,758
+That's sweet, but I'm
+
+324
+00:08:54,254 --> 00:08:57,758
+not that guy anymore.
+
+325
+00:08:57,800 --> 00:08:59,927
+I've outgrown it.
+
+326
+00:09:01,470 --> 00:09:03,597
+Have you?
+
+327
+00:09:05,057 --> 00:09:08,143
+Look, I know you still
+
+328
+00:09:05,057 --> 00:09:08,143
+want this, and I can help you.
+
+329
+00:09:08,185 --> 00:09:10,021
+All those pageants
+
+330
+00:09:08,185 --> 00:09:10,021
+I did as a kid—
+
+331
+00:09:10,062 --> 00:09:12,023
+I could teach you
+
+332
+00:09:10,062 --> 00:09:12,023
+how to present yourself,
+
+333
+00:09:12,064 --> 00:09:14,441
+connect with the judges,
+
+334
+00:09:12,064 --> 00:09:14,441
+sabotage the competition.
+
+335
+00:09:14,483 --> 00:09:16,861
+Whoa, whoa, no one's
+
+336
+00:09:14,483 --> 00:09:16,861
+sabotaging anybody.
+
+337
+00:09:16,903 --> 00:09:18,195
+Of course not.
+
+338
+00:09:18,237 --> 00:09:21,782
+Little girls in ball gowns
+
+339
+00:09:18,237 --> 00:09:21,782
+trip, it happens.
+
+340
+00:09:21,824 --> 00:09:25,244
+Trust me, I'm gonna be
+
+341
+00:09:21,824 --> 00:09:25,244
+the pageant mom to you
+
+342
+00:09:25,285 --> 00:09:26,787
+that my mom was to me.
+
+343
+00:09:26,829 --> 00:09:29,289
+I thought you hated your mom
+
+344
+00:09:26,829 --> 00:09:29,289
+for making you do that.
+
+345
+00:09:29,331 --> 00:09:32,209
+More talk like that and
+
+346
+00:09:29,331 --> 00:09:32,209
+you're not getting any dinner.
+
+347
+00:09:32,251 --> 00:09:34,962
+Amazing how it all comes back.
+
+348
+00:09:37,464 --> 00:09:39,508
+(Skype ringing)
+
+349
+00:09:41,427 --> 00:09:42,678
+Yes?
+
+350
+00:09:42,720 --> 00:09:45,222
+Hello, Mother.
+
+351
+00:09:42,720 --> 00:09:45,222
+Hey, Beverly.
+
+352
+00:09:45,264 --> 00:09:46,974
+Hello, Leonard.
+
+353
+00:09:45,264 --> 00:09:46,974
+Hello, Penny.
+
+354
+00:09:47,016 --> 00:09:49,018
+To what do I owe this call?
+
+355
+00:09:49,060 --> 00:09:50,352
+I need your
+
+356
+00:09:49,060 --> 00:09:50,352
+professional advice.
+
+357
+00:09:50,394 --> 00:09:52,104
+Well, I'd love
+
+358
+00:09:50,394 --> 00:09:52,104
+to help you out, dear,
+
+359
+00:09:52,145 --> 00:09:53,981
+but I'm very busy at the moment.
+
+360
+00:09:54,023 --> 00:09:56,149
+Perhaps we can schedule
+
+361
+00:09:54,023 --> 00:09:56,149
+a time next week.
+
+362
+00:09:56,191 --> 00:09:57,443
+It's about Sheldon.
+
+363
+00:09:57,484 --> 00:09:58,986
+Oh, well, I-I suppose
+
+364
+00:09:59,028 --> 00:10:00,821
+I can spare a minute or two.
+
+365
+00:10:00,863 --> 00:10:03,449
+Wh-Why did you just say
+
+366
+00:10:00,863 --> 00:10:03,449
+you're too busy, but...
+
+367
+00:10:03,490 --> 00:10:06,786
+Leonard, please,
+
+368
+00:10:03,490 --> 00:10:06,786
+not everything is about you.
+
+369
+00:10:08,913 --> 00:10:10,205
+Penny, go on.
+
+370
+00:10:10,247 --> 00:10:12,583
+Well, ever since his
+
+371
+00:10:10,247 --> 00:10:12,583
+paper got disproven,
+
+372
+00:10:12,625 --> 00:10:13,918
+he's been a wreck.
+
+373
+00:10:13,960 --> 00:10:16,587
+He's been sad
+
+374
+00:10:13,960 --> 00:10:16,587
+and... and angry.
+
+375
+00:10:16,629 --> 00:10:18,714
+He just seems
+
+376
+00:10:16,629 --> 00:10:18,714
+kind of broken.
+
+377
+00:10:18,756 --> 00:10:20,215
+Well, it sounds
+
+378
+00:10:18,756 --> 00:10:20,215
+like he may be grieving.
+
+379
+00:10:20,257 --> 00:10:21,341
+Really?
+
+380
+00:10:21,383 --> 00:10:23,094
+Over a theory?
+
+381
+00:10:21,383 --> 00:10:23,094
+Of course.
+
+382
+00:10:23,135 --> 00:10:25,220
+You can grieve
+
+383
+00:10:23,135 --> 00:10:25,220
+over any emotional loss.
+
+384
+00:10:25,262 --> 00:10:26,806
+The more you care
+
+385
+00:10:25,262 --> 00:10:26,806
+about something,
+
+386
+00:10:26,847 --> 00:10:29,058
+the greater the trauma
+
+387
+00:10:26,847 --> 00:10:29,058
+of losing it.
+
+388
+00:10:29,100 --> 00:10:31,060
+Oh, boy.
+
+389
+00:10:29,100 --> 00:10:31,060
+He cared about this a lot.
+
+390
+00:10:31,102 --> 00:10:33,228
+Yeah. What can we do
+
+391
+00:10:31,102 --> 00:10:33,228
+to help him?
+
+392
+00:10:33,270 --> 00:10:35,314
+Well, grieving is a process.
+
+393
+00:10:35,355 --> 00:10:38,442
+Every culture has its own
+
+394
+00:10:35,355 --> 00:10:38,442
+rituals and traditions
+
+395
+00:10:38,484 --> 00:10:40,360
+to facilitate mourning.
+
+396
+00:10:40,402 --> 00:10:43,363
+The ancient Egyptians
+
+397
+00:10:40,402 --> 00:10:43,363
+had their mummification,
+
+398
+00:10:43,405 --> 00:10:46,325
+the Tibetans had
+
+399
+00:10:43,405 --> 00:10:46,325
+their sky funerals...
+
+400
+00:10:46,366 --> 00:10:48,535
+And when I was little and my dog
+
+401
+00:10:46,366 --> 00:10:48,535
+died, my mom sat me down
+
+402
+00:10:48,577 --> 00:10:50,913
+and very gently told me
+
+403
+00:10:48,577 --> 00:10:50,913
+that she wished the truck
+
+404
+00:10:50,955 --> 00:10:53,206
+had hit my dad instead.
+
+405
+00:10:55,001 --> 00:10:56,919
+I was trying
+
+406
+00:10:55,001 --> 00:10:56,919
+to lighten the mood.
+
+407
+00:10:56,961 --> 00:10:59,421
+Your dog had just died.
+
+408
+00:11:02,466 --> 00:11:05,594
+Howard and I have been working
+
+409
+00:11:02,466 --> 00:11:05,594
+really hard on his audition,
+
+410
+00:11:05,636 --> 00:11:07,763
+so it'll be helpful to get
+
+411
+00:11:05,636 --> 00:11:07,763
+another set of eyes on it.
+
+412
+00:11:07,805 --> 00:11:09,598
+Well, as someone who has
+
+413
+00:11:07,805 --> 00:11:09,598
+watched every episode
+
+414
+00:11:09,640 --> 00:11:10,850
+of America's Got Talent,
+
+415
+00:11:10,891 --> 00:11:12,267
+I'm getting pretty good
+
+416
+00:11:10,891 --> 00:11:12,267
+at telling
+
+417
+00:11:12,309 --> 00:11:14,311
+when some American's got talent.
+
+418
+00:11:14,353 --> 00:11:15,855
+Seriously,
+
+419
+00:11:15,896 --> 00:11:18,315
+Heidi and I agree,
+
+420
+00:11:15,896 --> 00:11:18,315
+like, 90% of the time.
+
+421
+00:11:18,357 --> 00:11:19,900
+All right.
+
+422
+00:11:19,942 --> 00:11:22,444
+Don't be afraid to be
+
+423
+00:11:19,942 --> 00:11:22,444
+brutally honest.
+
+424
+00:11:22,486 --> 00:11:24,864
+Like my mom used to say
+
+425
+00:11:22,486 --> 00:11:24,864
+when I was doing pageants,
+
+426
+00:11:24,905 --> 00:11:27,950
+"Tears only make your eyes
+
+427
+00:11:24,905 --> 00:11:27,950
+sparkle brighter."
+
+428
+00:11:27,992 --> 00:11:30,201
+That is both sad and true.
+
+429
+00:11:30,243 --> 00:11:32,788
+Half my Instagram
+
+430
+00:11:30,243 --> 00:11:32,788
+is after a good cry.
+
+431
+00:11:32,830 --> 00:11:35,082
+Howie, you ready?
+
+432
+00:11:35,124 --> 00:11:36,834
+WOLOWITZ (flat):
+
+433
+00:11:35,124 --> 00:11:36,834
+Yeah.
+
+434
+00:11:36,876 --> 00:11:41,212
+I now present The Great Howdini.
+
+435
+00:11:41,254 --> 00:11:42,965
+(music playing)
+
+436
+00:11:48,428 --> 00:11:52,474
+♪ I've got magic to do,
+
+437
+00:11:48,428 --> 00:11:52,474
+just for you ♪
+
+438
+00:11:52,516 --> 00:11:55,602
+♪ I've got miracle plays
+
+439
+00:11:52,516 --> 00:11:55,602
+to play ♪
+
+440
+00:11:55,644 --> 00:12:00,399
+♪ I've got parts to perform,
+
+441
+00:11:55,644 --> 00:12:00,399
+hearts to warm ♪
+
+442
+00:12:00,440 --> 00:12:04,987
+♪ Kings and things
+
+443
+00:12:00,440 --> 00:12:04,987
+to take by storm ♪
+
+444
+00:12:05,029 --> 00:12:07,907
+♪ As we go along our ♪
+
+445
+00:12:07,948 --> 00:12:13,662
+♪ Way. ♪
+
+446
+00:12:17,457 --> 00:12:21,879
+Hello. I'm The Great Howdini
+
+447
+00:12:17,457 --> 00:12:21,879
+from Altadena, California.
+
+448
+00:12:21,921 --> 00:12:23,756
+I have no brothers or sisters
+
+449
+00:12:23,797 --> 00:12:28,552
+and my favorite thing to eat
+
+450
+00:12:23,797 --> 00:12:28,552
+is grilled cheese.
+
+451
+00:12:28,594 --> 00:12:30,012
+When does the magic start?
+
+452
+00:12:30,054 --> 00:12:33,599
+It already started.
+
+453
+00:12:34,934 --> 00:12:36,602
+Hey.
+
+454
+00:12:36,643 --> 00:12:38,854
+Hi. How are
+
+455
+00:12:36,643 --> 00:12:38,854
+you guys doing?
+
+456
+00:12:38,896 --> 00:12:40,647
+A little better,
+
+457
+00:12:38,896 --> 00:12:40,647
+if you can believe it.
+
+458
+00:12:47,278 --> 00:12:48,405
+Sheldon?
+
+459
+00:12:48,447 --> 00:12:50,657
+(muffled):
+
+460
+00:12:48,447 --> 00:12:50,657
+Go away.
+
+461
+00:12:50,699 --> 00:12:52,659
+Buddy, come on, let us help you.
+
+462
+00:12:52,701 --> 00:12:54,703
+The only person
+
+463
+00:12:52,701 --> 00:12:54,703
+who could help me was erased
+
+464
+00:12:54,745 --> 00:12:56,747
+by the Medford High Wolves.
+
+465
+00:12:56,789 --> 00:12:59,458
+Oh, that's funny. My high
+
+466
+00:12:56,789 --> 00:12:59,458
+school was also the wolves.
+
+467
+00:12:59,499 --> 00:13:01,835
+No? Not now? Okay.
+
+468
+00:13:01,877 --> 00:13:03,921
+LEONARD: Look,
+
+469
+00:13:01,877 --> 00:13:03,921
+t-this might
+
+470
+00:13:03,963 --> 00:13:05,756
+seem strange, but, uh,
+
+471
+00:13:05,798 --> 00:13:08,217
+we thought it might help you get
+
+472
+00:13:05,798 --> 00:13:08,217
+some closure if you had a chance
+
+473
+00:13:08,259 --> 00:13:10,052
+to properly say good-bye
+
+474
+00:13:08,259 --> 00:13:10,052
+to your paper.
+
+475
+00:13:10,094 --> 00:13:11,720
+Yeah, you know, we
+
+476
+00:13:10,094 --> 00:13:11,720
+could say a few words,
+
+477
+00:13:11,762 --> 00:13:13,180
+you could talk about
+
+478
+00:13:11,762 --> 00:13:13,180
+what it meant to you
+
+479
+00:13:13,222 --> 00:13:15,266
+and-and we could
+
+480
+00:13:13,222 --> 00:13:15,266
+bury it somewhere.
+
+481
+00:13:15,306 --> 00:13:17,643
+You mean have a funeral
+
+482
+00:13:15,306 --> 00:13:17,643
+for our theory?
+
+483
+00:13:17,684 --> 00:13:18,852
+Yeah.
+
+484
+00:13:18,894 --> 00:13:20,437
+That's ridiculous.
+
+485
+00:13:20,479 --> 00:13:22,689
+I thought so, too, but my mom
+
+486
+00:13:20,479 --> 00:13:22,689
+thought it might work.
+
+487
+00:13:22,731 --> 00:13:25,609
+Beverly thought it would help?
+
+488
+00:13:22,731 --> 00:13:25,609
+We should try it.
+
+489
+00:13:25,651 --> 00:13:28,070
+Wha— How come when you thought
+
+490
+00:13:25,651 --> 00:13:28,070
+it was my idea...
+
+491
+00:13:28,112 --> 00:13:29,404
+SHELDON:
+
+492
+00:13:28,112 --> 00:13:29,404
+(stammers) Leonard,
+
+493
+00:13:29,446 --> 00:13:31,322
+please, this is not about you.
+
+494
+00:13:33,284 --> 00:13:35,368
+I guess we could bury it
+
+495
+00:13:33,284 --> 00:13:35,368
+in the park.
+
+496
+00:13:35,410 --> 00:13:37,370
+Yeah, where dogs do their
+
+497
+00:13:35,410 --> 00:13:37,370
+business and other dogs
+
+498
+00:13:37,412 --> 00:13:39,539
+sniff that business?
+
+499
+00:13:37,412 --> 00:13:39,539
+I don't think so.
+
+500
+00:13:39,581 --> 00:13:42,209
+What would you
+
+501
+00:13:39,581 --> 00:13:42,209
+like to do, Sheldon?
+
+502
+00:13:44,170 --> 00:13:46,922
+The only fitting send-off:
+
+503
+00:13:46,964 --> 00:13:48,174
+a Viking funeral.
+
+504
+00:13:48,215 --> 00:13:50,009
+You mean, like,
+
+505
+00:13:48,215 --> 00:13:50,009
+push it out into a lake
+
+506
+00:13:50,050 --> 00:13:51,593
+and shoot it
+
+507
+00:13:50,050 --> 00:13:51,593
+with a flaming arrow?
+
+508
+00:13:51,635 --> 00:13:54,596
+This guy gets it.
+
+509
+00:13:54,638 --> 00:13:56,473
+How about a bathtub
+
+510
+00:13:54,638 --> 00:13:56,473
+and a match?
+
+511
+00:13:56,515 --> 00:13:59,226
+How about a bathtub
+
+512
+00:13:56,515 --> 00:13:59,226
+and a flaming arrow?
+
+513
+00:13:59,268 --> 00:14:02,604
+How about a bathtub, a match
+
+514
+00:13:59,268 --> 00:14:02,604
+and an ice-cold Yoo-hoo after?
+
+515
+00:14:02,646 --> 00:14:05,398
+Sold.
+
+516
+00:14:06,692 --> 00:14:08,819
+(sighs)
+
+517
+00:14:08,861 --> 00:14:11,446
+Would you like to say something?
+
+518
+00:14:11,488 --> 00:14:13,406
+Y-Yes, thank you.
+
+519
+00:14:13,448 --> 00:14:17,786
+I know this is just
+
+520
+00:14:13,448 --> 00:14:17,786
+a scientific theory,
+
+521
+00:14:17,828 --> 00:14:19,746
+but to me, it was
+
+522
+00:14:17,828 --> 00:14:19,746
+more than that.
+
+523
+00:14:19,788 --> 00:14:23,292
+It described the universe
+
+524
+00:14:19,788 --> 00:14:23,292
+in a new and beautiful way.
+
+525
+00:14:23,334 --> 00:14:26,628
+I want that to be the
+
+526
+00:14:23,334 --> 00:14:26,628
+universe we live in,
+
+527
+00:14:26,670 --> 00:14:29,048
+but I guess it's not.
+
+528
+00:14:29,089 --> 00:14:33,219
+Amy, would you like
+
+529
+00:14:29,089 --> 00:14:33,219
+to shoot the arrow?
+
+530
+00:14:46,815 --> 00:14:48,984
+It's kind of beautiful,
+
+531
+00:14:46,815 --> 00:14:48,984
+isn't it?
+
+532
+00:14:49,026 --> 00:14:51,904
+Yeah, it is.
+
+533
+00:14:55,615 --> 00:14:57,659
+It's getting kind of
+
+534
+00:14:55,615 --> 00:14:57,659
+close to the curtain.
+
+535
+00:14:57,701 --> 00:14:58,869
+It's in water, it's fine.
+
+536
+00:14:58,911 --> 00:15:01,205
+Oh!
+
+537
+00:14:58,911 --> 00:15:01,205
+Oh!
+
+538
+00:15:01,247 --> 00:15:03,290
+Oh!
+
+539
+00:15:03,332 --> 00:15:05,625
+Looks like we both had theories
+
+540
+00:15:03,332 --> 00:15:05,625
+that were wrong.
+
+541
+00:15:03,332 --> 00:15:05,625
+PENNY: Okay...
+
+542
+00:15:10,463 --> 00:15:11,924
+Are you getting sick?
+
+543
+00:15:11,965 --> 00:15:15,261
+No, I have glitter in my nose.
+
+544
+00:15:15,302 --> 00:15:17,263
+Just your nose?
+
+545
+00:15:17,304 --> 00:15:19,139
+Consider yourself lucky.
+
+546
+00:15:19,181 --> 00:15:20,933
+Hey, I'm gonna
+
+547
+00:15:20,974 --> 00:15:22,393
+take tomorrow off
+
+548
+00:15:22,434 --> 00:15:24,311
+so we can spend the whole day
+
+549
+00:15:22,434 --> 00:15:24,311
+running the act.
+
+550
+00:15:24,353 --> 00:15:28,982
+You know what, it has been
+
+551
+00:15:24,353 --> 00:15:28,982
+so much fun working on this
+
+552
+00:15:29,024 --> 00:15:30,650
+with you, but...
+
+553
+00:15:29,024 --> 00:15:30,650
+But what?
+
+554
+00:15:30,692 --> 00:15:32,361
+It hasn't.
+
+555
+00:15:33,404 --> 00:15:35,155
+I'm not gonna audition.
+
+556
+00:15:35,197 --> 00:15:36,990
+Hey, I didn't raise a quitter.
+
+557
+00:15:37,032 --> 00:15:38,742
+You didn't raise me at all.
+
+558
+00:15:38,784 --> 00:15:41,036
+Look,
+
+559
+00:15:41,078 --> 00:15:43,663
+I get that you're scared, but
+
+560
+00:15:41,078 --> 00:15:43,663
+we just have to push past that.
+
+561
+00:15:43,705 --> 00:15:45,791
+I'm not scared.
+
+562
+00:15:43,705 --> 00:15:45,791
+I don't like the act.
+
+563
+00:15:45,832 --> 00:15:47,251
+It's over-the-top
+
+564
+00:15:47,293 --> 00:15:51,088
+and weird and has more
+
+565
+00:15:47,293 --> 00:15:51,088
+jazz hands than magic.
+
+566
+00:15:51,130 --> 00:15:53,215
+Why didn't you say
+
+567
+00:15:51,130 --> 00:15:53,215
+something earlier?
+
+568
+00:15:53,257 --> 00:15:55,801
+You seemed like
+
+569
+00:15:53,257 --> 00:15:55,801
+you were so happy,
+
+570
+00:15:55,842 --> 00:15:57,177
+and then when I tried
+
+571
+00:15:55,842 --> 00:15:57,177
+to say something,
+
+572
+00:15:57,219 --> 00:15:59,930
+you seemed like you were so mad.
+
+573
+00:15:59,972 --> 00:16:01,848
+Hey, this isn't about me.
+
+574
+00:16:01,890 --> 00:16:03,309
+I just wanted you
+
+575
+00:16:01,890 --> 00:16:03,309
+to have your dream,
+
+576
+00:16:03,350 --> 00:16:05,144
+and I wanted
+
+577
+00:16:03,350 --> 00:16:05,144
+to control everything
+
+578
+00:16:05,185 --> 00:16:08,772
+about how you looked and acted
+
+579
+00:16:05,185 --> 00:16:08,772
+so that your victory was mine.
+
+580
+00:16:08,814 --> 00:16:12,734
+Well, that's honest.
+
+581
+00:16:12,776 --> 00:16:15,321
+But if I'm gonna
+
+582
+00:16:12,776 --> 00:16:15,321
+go through with this,
+
+583
+00:16:15,362 --> 00:16:17,156
+I have to do it my own way.
+
+584
+00:16:17,197 --> 00:16:19,032
+I respect that,
+
+585
+00:16:19,074 --> 00:16:21,118
+and I'm glad that I helped
+
+586
+00:16:19,074 --> 00:16:21,118
+lead you to this moment.
+
+587
+00:16:21,160 --> 00:16:23,703
+Stop trying to make this
+
+588
+00:16:21,160 --> 00:16:23,703
+your victory!
+
+589
+00:16:24,997 --> 00:16:27,082
+(crowd cheering, whistle blowing
+
+590
+00:16:24,997 --> 00:16:27,082
+over TV)
+
+591
+00:16:36,883 --> 00:16:39,136
+Why are you watching that?
+
+592
+00:16:39,178 --> 00:16:40,512
+I'm just looking to see
+
+593
+00:16:40,553 --> 00:16:42,473
+if there's anything left
+
+594
+00:16:40,553 --> 00:16:42,473
+of your speech.
+
+595
+00:16:42,514 --> 00:16:45,351
+It's not important.
+
+596
+00:16:42,514 --> 00:16:45,351
+I remember everything I said.
+
+597
+00:16:45,392 --> 00:16:47,102
+And?
+
+598
+00:16:47,144 --> 00:16:51,148
+It was good, it just would've
+
+599
+00:16:47,144 --> 00:16:51,148
+meant more coming from me.
+
+600
+00:16:52,899 --> 00:16:55,486
+All right, bring it in.
+
+601
+00:16:55,527 --> 00:16:56,778
+Is that your dad?
+
+602
+00:16:56,820 --> 00:16:58,322
+It is.
+
+603
+00:16:58,364 --> 00:17:00,573
+I've only seen pictures of him.
+
+604
+00:17:00,615 --> 00:17:03,494
+I know we're down, by a lot.
+
+605
+00:17:03,535 --> 00:17:05,829
+And if I'm being
+
+606
+00:17:03,535 --> 00:17:05,829
+honest with you,
+
+607
+00:17:05,871 --> 00:17:07,914
+we're probably not
+
+608
+00:17:05,871 --> 00:17:07,914
+gonna win this one.
+
+609
+00:17:07,956 --> 00:17:12,585
+In fact, we're definitely not
+
+610
+00:17:07,956 --> 00:17:12,585
+gonna win this one.
+
+611
+00:17:12,627 --> 00:17:15,172
+Do you want me to turn it off?
+
+612
+00:17:15,214 --> 00:17:17,674
+But we're not
+
+613
+00:17:15,214 --> 00:17:17,674
+gonna quit, either.
+
+614
+00:17:17,716 --> 00:17:19,176
+And if we do lose,
+
+615
+00:17:19,218 --> 00:17:22,262
+you need to know
+
+616
+00:17:19,218 --> 00:17:22,262
+that doesn't make you losers.
+
+617
+00:17:22,304 --> 00:17:26,266
+You learn as much about who you
+
+618
+00:17:22,304 --> 00:17:26,266
+are and what you're made of
+
+619
+00:17:26,308 --> 00:17:29,811
+from failing as you do
+
+620
+00:17:26,308 --> 00:17:29,811
+from success.
+
+621
+00:17:29,853 --> 00:17:32,731
+Maybe more.
+
+622
+00:17:32,772 --> 00:17:36,109
+So you can spend the next half
+
+623
+00:17:32,772 --> 00:17:36,109
+feeling sorry for yourselves,
+
+624
+00:17:36,151 --> 00:17:38,778
+or you can get out there
+
+625
+00:17:36,151 --> 00:17:38,778
+and give them hell.
+
+626
+00:17:38,820 --> 00:17:40,572
+Yeah! Let's give them hell!
+
+627
+00:17:40,613 --> 00:17:43,867
+Oh— watch your mouth,
+
+628
+00:17:40,613 --> 00:17:43,867
+your mom might...
+
+629
+00:17:43,909 --> 00:17:46,245
+I remember that game.
+
+630
+00:17:46,286 --> 00:17:48,788
+Did they win?
+
+631
+00:17:48,830 --> 00:17:50,374
+Oh, no.
+
+632
+00:17:50,416 --> 00:17:52,167
+No, they lost so bad,
+
+633
+00:17:50,416 --> 00:17:52,167
+the other team
+
+634
+00:17:52,209 --> 00:17:56,171
+let one of their cheerleaders
+
+635
+00:17:52,209 --> 00:17:56,171
+try to kick a field goal.
+
+636
+00:17:56,213 --> 00:17:59,674
+Well, that was a nice speech.
+
+637
+00:17:56,213 --> 00:17:59,674
+Too bad it didn't work.
+
+638
+00:17:59,716 --> 00:18:02,094
+Maybe it did.
+
+639
+00:18:02,135 --> 00:18:04,596
+What do you mean?
+
+640
+00:18:04,637 --> 00:18:06,390
+I've been acting
+
+641
+00:18:04,637 --> 00:18:06,390
+like the game is over,
+
+642
+00:18:06,432 --> 00:18:08,892
+but it's only halftime.
+
+643
+00:18:08,934 --> 00:18:11,811
+And there's a lot more physics
+
+644
+00:18:08,934 --> 00:18:11,811
+left to play.
+
+645
+00:18:11,853 --> 00:18:16,775
+Wow, was that your first ever
+
+646
+00:18:11,853 --> 00:18:16,775
+sports metaphor?
+
+647
+00:18:16,816 --> 00:18:19,819
+It was.
+
+648
+00:18:19,861 --> 00:18:22,281
+And I think it was a home run.
+
+649
+00:18:25,242 --> 00:18:27,494
+That's two.
+
+650
+00:18:27,536 --> 00:18:30,163
+It's interesting.
+
+651
+00:18:30,205 --> 00:18:33,708
+I've always thought that
+
+652
+00:18:30,205 --> 00:18:33,708
+my father's journey and my own
+
+653
+00:18:33,750 --> 00:18:39,005
+were so different, but he also
+
+654
+00:18:33,750 --> 00:18:39,005
+faced failure and setbacks.
+
+655
+00:18:39,047 --> 00:18:43,635
+Maybe our lives mirrored each
+
+656
+00:18:39,047 --> 00:18:43,635
+other more than I thought.
+
+657
+00:18:43,676 --> 00:18:48,014
+So, from one viewpoint,
+
+658
+00:18:48,056 --> 00:18:51,393
+you and your father's lives
+
+659
+00:18:48,056 --> 00:18:51,393
+are asymmetrical,
+
+660
+00:18:51,435 --> 00:18:56,648
+but from another vantage point,
+
+661
+00:18:51,435 --> 00:18:56,648
+they're symmetrical.
+
+662
+00:18:56,689 --> 00:18:58,233
+Sheldon,
+
+663
+00:18:58,275 --> 00:19:02,571
+what if symmetry and asymmetry
+
+664
+00:18:58,275 --> 00:19:02,571
+are observer-relative?
+
+665
+00:19:02,613 --> 00:19:05,991
+That would mean that
+
+666
+00:19:02,613 --> 00:19:05,991
+the Russian paper was right...
+
+667
+00:19:06,032 --> 00:19:08,868
+But only from one perspective.
+
+668
+00:19:08,910 --> 00:19:11,955
+If we look at it from a deeper
+
+669
+00:19:08,910 --> 00:19:11,955
+view in more dimensions,
+
+670
+00:19:11,997 --> 00:19:13,748
+our theory still stands.
+
+671
+00:19:13,790 --> 00:19:17,127
+Not only stands, i-it might be
+
+672
+00:19:13,790 --> 00:19:17,127
+an even bigger idea
+
+673
+00:19:17,169 --> 00:19:19,463
+than the one we were
+
+674
+00:19:17,169 --> 00:19:19,463
+originally proposing.
+
+675
+00:19:19,505 --> 00:19:21,381
+Go get your laptop.
+
+676
+00:19:19,505 --> 00:19:21,381
+We have a paper to fix.
+
+677
+00:19:21,423 --> 00:19:22,757
+(chuckles):
+
+678
+00:19:21,423 --> 00:19:22,757
+Okay.
+
+679
+00:19:27,513 --> 00:19:31,057
+Thanks, Dad.
+
+680
+00:19:31,099 --> 00:19:32,725
+We're gonna give them hell.
+
+681
+00:19:38,898 --> 00:19:41,026
+Hi, I'm The Great Howdini,
+
+682
+00:19:41,067 --> 00:19:43,612
+and it's an honor to be
+
+683
+00:19:41,067 --> 00:19:43,612
+auditioning at the Magic Castle.
+
+684
+00:19:43,654 --> 00:19:45,405
+Could I borrow your watch, sir?
+
+685
+00:19:45,447 --> 00:19:47,282
+Sure.
+
+686
+00:19:45,447 --> 00:19:47,282
+Thank you.
+
+687
+00:19:47,324 --> 00:19:51,036
+Ooh, Rolex, fancy.
+
+688
+00:19:47,324 --> 00:19:51,036
+I'll get it right back to you.
+
+689
+00:19:51,077 --> 00:19:55,457
+Observe:
+
+690
+00:19:51,077 --> 00:19:55,457
+one very expensive watch,
+
+691
+00:19:55,499 --> 00:19:58,210
+one wooden mallet.
+
+692
+00:20:00,420 --> 00:20:02,797
+Do I dare? I do.
+
+693
+00:20:06,718 --> 00:20:10,514
+Would you be amazed if your
+
+694
+00:20:06,718 --> 00:20:10,514
+watch survived that pounding?
+
+695
+00:20:10,556 --> 00:20:13,684
+I think you would— behold.
+

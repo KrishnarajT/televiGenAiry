@@ -1,0 +1,1473 @@
+1
+00:00:02,829 --> 00:00:05,459
+C'est facile, tu l'adores.
+
+2
+00:00:05,584 --> 00:00:06,585
+Moi.
+
+3
+00:00:08,440 --> 00:00:11,720
+Un génie qui n'est pas apprécié
+à sa juste valeur.
+
+4
+00:00:12,216 --> 00:00:13,296
+Toujours moi.
+
+5
+00:00:14,890 --> 00:00:15,987
+C'est pas toi.
+
+6
+00:00:16,112 --> 00:00:18,519
+Réfléchis, une voiture porte son nom.
+
+7
+00:00:18,685 --> 00:00:19,850
+Évidemment,
+
+8
+00:00:19,975 --> 00:00:21,689
+la Mini Cooper !
+
+9
+00:00:24,561 --> 00:00:25,598
+{\pos(192,205)}Écoute ça.
+
+10
+00:00:26,644 --> 00:00:29,044
+{\pos(192,205)}- C'est un ersatz de Shelon Cooper.
+- Tesla !
+
+11
+00:00:31,823 --> 00:00:33,200
+- Alors ?
+- Pas génial.
+
+12
+00:00:33,366 --> 00:00:36,370
+{\pos(192,230)}Le docteur a mis une caméra
+dans mes sinus.
+
+13
+00:00:36,536 --> 00:00:39,816
+On aurait dit le tunnel à bateaux
+de Willy Wonka.
+
+14
+00:00:42,083 --> 00:00:44,733
+{\pos(192,230)}- Ils savent ce qui cloche ?
+- Un septum dévié.
+
+15
+00:00:44,858 --> 00:00:47,214
+{\pos(192,230)}L'opération est simple,
+ce sera dans une semaine.
+
+16
+00:00:47,622 --> 00:00:49,133
+Pourquoi une opération ?
+
+17
+00:00:49,299 --> 00:00:51,038
+{\pos(192,230)}Je peux pas respirer.
+
+18
+00:00:51,163 --> 00:00:53,429
+{\pos(192,230)}Je ronfle, mes sinus s'infectent...
+
+19
+00:00:53,595 --> 00:00:55,153
+Pas touche, il est à moi.
+
+20
+00:00:56,326 --> 00:01:00,019
+{\pos(192,230)}Tu n'es pas en danger de mort,
+pourquoi prendre ce risque ?
+
+21
+00:01:00,185 --> 00:01:02,021
+C'est une procédure simple.
+
+22
+00:01:02,146 --> 00:01:03,981
+Tu te plaignais de ses ronflements.
+
+23
+00:01:04,147 --> 00:01:07,860
+{\pos(192,230)}Oui, les cinq ou six premières années,
+mais je m'y suis habitué.
+
+24
+00:01:08,818 --> 00:01:09,836
+{\pos(192,230)}Ça m'endort.
+
+25
+00:01:10,219 --> 00:01:12,531
+{\pos(192,230)}C'est ma machine muqueuse
+à bruit blanc.
+
+26
+00:01:14,314 --> 00:01:17,036
+Je vais me faire opérer.
+C'est rien, fin de l'histoire.
+
+27
+00:01:17,202 --> 00:01:19,665
+- Bien, je n'en parlerai plus.
+- Merci.
+
+28
+00:01:20,121 --> 00:01:21,352
+C'était à ton tour.
+
+29
+00:01:24,044 --> 00:01:25,169
+Voyons...
+
+30
+00:01:25,335 --> 00:01:28,021
+Cette personne est surtout connue
+
+31
+00:01:28,146 --> 00:01:32,092
+pour n'avoir jamais eu le nez mutilé
+lors d'une opération facultative
+
+32
+00:01:32,258 --> 00:01:34,873
+et n'avoir jamais vécu
+sa vie dans l'ombre,
+
+33
+00:01:34,998 --> 00:01:36,764
+tel un monstre hideux et défiguré.
+
+34
+00:01:38,236 --> 00:01:39,934
+T'as pas un meilleur indice ?
+
+35
+00:01:40,100 --> 00:01:41,101
+Non.
+
+36
+00:01:41,538 --> 00:01:43,618
+Je ne sais même pas
+si c'est un vrai nom.
+
+37
+00:01:46,322 --> 00:01:47,943
+Giggity Team
+
+38
+00:01:48,615 --> 00:01:51,202
+www.u-sub.net
+www.giggityteam.fr
+
+39
+00:01:53,822 --> 00:01:57,564
+benji1000, Berenice1, BJAM1M, hemhel
+
+40
+00:02:08,684 --> 00:02:12,800
+{\pub}{\fad(400,400)}Saison 8 - Épisode 9
+<i>The Septum Deviation</i>
+
+41
+00:02:28,519 --> 00:02:29,582
+Pourquoi ?
+
+42
+00:02:31,234 --> 00:02:33,028
+Je t'écoute ronfler.
+
+43
+00:02:34,036 --> 00:02:35,784
+Comment vais-je dormir sans ça ?
+
+44
+00:02:37,807 --> 00:02:41,064
+{\pos(192,205)}Si ça t'endort,
+pourquoi t'es là à me regarder,
+
+45
+00:02:41,189 --> 00:02:43,247
+comme un Croque-Mitaine albinos ?
+
+46
+00:02:45,129 --> 00:02:46,572
+{\pos(192,205)}Vraiment, des insultes ?
+
+47
+00:02:46,697 --> 00:02:49,545
+Après deux heures dans ton armoire,
+à attendre que tu dormes ?
+
+48
+00:02:53,149 --> 00:02:54,174
+Tu veux quoi ?
+
+49
+00:02:54,711 --> 00:02:58,137
+{\pos(192,205)}Si l'opération réussit,
+les ronflements disparaîtront.
+
+50
+00:02:58,536 --> 00:03:00,556
+Si tu meurs pendant...
+
+51
+00:03:02,052 --> 00:03:03,268
+ils disparaîtront.
+
+52
+00:03:05,449 --> 00:03:07,798
+{\pos(192,205)}Dans les deux cas, j'aurai la paix.
+
+53
+00:03:09,093 --> 00:03:12,151
+{\pos(192,205)}Je dois être honnête,
+je suis vraiment inquiet.
+
+54
+00:03:12,317 --> 00:03:15,029
+{\pos(192,205)}Je te l'ai déjà dit,
+il n'y a rien d'inquiétant.
+
+55
+00:03:15,195 --> 00:03:16,887
+{\pos(192,205)}J'ai fait des recherches,
+
+56
+00:03:17,012 --> 00:03:19,595
+{\pos(192,50)}et j'ai trouvé
+qu'on a une chance sur 700 000
+
+57
+00:03:19,720 --> 00:03:21,410
+{\pos(192,50)}de mourir d'anesthésie générale.
+
+58
+00:03:22,185 --> 00:03:24,480
+{\pos(192,50)}Tu te rends compte
+que ça signifie aussi
+
+59
+00:03:24,605 --> 00:03:28,088
+{\pos(192,50)}qu'on a 699 999 chances
+de ne pas mourir ?
+
+60
+00:03:30,414 --> 00:03:31,629
+C'est juste.
+
+61
+00:03:33,534 --> 00:03:36,114
+{\pos(192,205)}Tu es du genre
+à voir le verre à moitié plein.
+
+62
+00:03:38,171 --> 00:03:39,521
+Ça va me manquer.
+
+63
+00:03:43,327 --> 00:03:46,268
+L'anniversaire des 40 ans de mariage
+de mes parents arrive,
+
+64
+00:03:46,434 --> 00:03:48,395
+je sais pas quoi leur offrir.
+
+65
+00:03:48,893 --> 00:03:52,904
+T'imagines,
+être marié pendant 40 ans ?
+
+66
+00:03:56,565 --> 00:03:57,782
+Plus maintenant.
+
+67
+00:04:03,180 --> 00:04:04,995
+Des idées de cadeaux ?
+
+68
+00:04:05,300 --> 00:04:07,164
+Qu'est-ce qu'ils aiment ?
+
+69
+00:04:07,742 --> 00:04:10,238
+Ils aimaient l'orchestre de Bombay,
+mais maman pense
+
+70
+00:04:10,363 --> 00:04:11,794
+que c'est plus comme avant.
+
+71
+00:04:12,249 --> 00:04:15,513
+Et papa a dit que leur relation aussi
+n'était plus comme avant.
+
+72
+00:04:17,757 --> 00:04:18,842
+Il lui a dit ça ?
+
+73
+00:04:19,008 --> 00:04:21,197
+Ils se parlaient pas,
+un domestique lui a dit.
+
+74
+00:04:22,590 --> 00:04:24,956
+Je devrais peut-être
+fabriquer le cadeau.
+
+75
+00:04:25,081 --> 00:04:28,144
+Je sais à quel point vous aimez
+mes dessous de verre.
+
+76
+00:04:31,230 --> 00:04:32,940
+Ils sont à toi au divorce.
+
+77
+00:04:38,048 --> 00:04:39,279
+Tu fais quoi ?
+
+78
+00:04:39,445 --> 00:04:42,090
+Tu te rappelles
+qu'avec ton opération,
+
+79
+00:04:42,215 --> 00:04:44,702
+tu as une chance sur 700 000
+de mourir ?
+
+80
+00:04:47,120 --> 00:04:49,101
+J'ai fait mes calculs,
+
+81
+00:04:49,226 --> 00:04:53,910
+ta probabilité de mort est désormais
+serrée comme un sphincter,
+
+82
+00:04:54,035 --> 00:04:55,161
+une sur 300.
+
+83
+00:04:58,473 --> 00:05:01,404
+Super timing, mon voyant de sphincter
+vient de s'allumer.
+
+84
+00:05:03,694 --> 00:05:07,141
+Et si tu avais une réaction allergique
+aux gants en latex du chirurgien ?
+
+85
+00:05:07,307 --> 00:05:08,434
+Pas allergique.
+
+86
+00:05:08,600 --> 00:05:11,729
+Alors pourquoi tu ne portes pas
+les gants pour la vaisselle ?
+
+87
+00:05:11,895 --> 00:05:14,321
+La même raison
+que pour le tablier et la résille.
+
+88
+00:05:15,638 --> 00:05:18,110
+Bien.
+Et l'épilepsie ?
+
+89
+00:05:18,276 --> 00:05:19,945
+Je fais pas d'épilepsie.
+
+90
+00:05:20,111 --> 00:05:21,744
+Toi non, mais le chirurgien ?
+
+91
+00:05:23,406 --> 00:05:27,904
+Ta carotide est à un scalpel tremblant
+de la fontaine dansante de Disney Land.
+
+92
+00:05:29,579 --> 00:05:32,791
+Tu réalises que conduire
+est plus dangereux qu'une opération ?
+
+93
+00:05:32,957 --> 00:05:35,557
+Je sais, la route pour l'hôpital
+est juste ici.
+
+94
+00:05:36,573 --> 00:05:39,647
+Si tu arrives à la voiture
+sans tomber dans les escaliers.
+
+95
+00:05:40,423 --> 00:05:43,010
+Et je ne te porterai pas,
+je l'ai assez fait.
+
+96
+00:05:44,473 --> 00:05:49,057
+Je comprends ton inquiétude,
+et j'apprécie, mais je vais pas mourir.
+
+97
+00:05:49,223 --> 00:05:50,642
+Tu n'en sais rien.
+
+98
+00:05:50,808 --> 00:05:53,541
+Je sais que ce sera pas
+d'une pluie d'astéroïdes.
+
+99
+00:05:55,624 --> 00:05:57,047
+Tu sais qui a dit ça ?
+
+100
+00:05:57,172 --> 00:06:00,321
+Tous les T-Rex arrogants qui nagent
+dans le réservoir de ta voiture.
+
+101
+00:06:02,155 --> 00:06:04,948
+S'il y avait une pluie d'astéroïdes,
+tu mourrais pas aussi ?
+
+102
+00:06:05,114 --> 00:06:08,235
+Je suis intelligent et futé,
+je pense que je trouverais une solution.
+
+103
+00:06:11,117 --> 00:06:13,999
+L'opération est dans une semaine,
+je vais y penser.
+
+104
+00:06:14,165 --> 00:06:14,973
+Merci.
+
+105
+00:06:15,740 --> 00:06:17,277
+Pendant que tu y es,
+
+106
+00:06:17,402 --> 00:06:19,917
+si tu te fais opérer au Nicaragua
+pendant la mousson,
+
+107
+00:06:20,042 --> 00:06:21,715
+je peux presque garantir ta mort.
+
+108
+00:06:30,076 --> 00:06:31,077
+Je comprends.
+
+109
+00:06:32,135 --> 00:06:33,935
+Oui, bien sûr, je t'appelle demain.
+
+110
+00:06:36,896 --> 00:06:39,999
+J'ai trouvé une école d'escrime
+à Burbank,
+
+111
+00:06:40,124 --> 00:06:42,313
+ils ont un cours de Jedi.
+
+112
+00:06:44,487 --> 00:06:47,094
+Et ça les dérange pas
+qu'on soit les seuls adultes.
+
+113
+00:06:49,369 --> 00:06:50,910
+Mes parents se sont séparés.
+
+114
+00:06:51,869 --> 00:06:53,705
+J'ai eu mon père au téléphone.
+
+115
+00:06:53,871 --> 00:06:54,954
+Il a déménagé.
+
+116
+00:06:56,081 --> 00:06:58,693
+Mince, je suis vraiment désolé.
+
+117
+00:06:59,557 --> 00:07:02,961
+Si t'as pas la tête à ça,
+on peut rester ici.
+
+118
+00:07:03,631 --> 00:07:05,779
+Ça ira, ce n'est rien.
+
+119
+00:07:05,904 --> 00:07:08,602
+Si ça les rend heureux,
+j'en suis heureux.
+
+120
+00:07:08,727 --> 00:07:12,326
+Et quand je rentrerai pour les vacances,
+je fêterai Diwali deux fois.
+
+121
+00:07:12,451 --> 00:07:13,683
+Chez chacun d'eux.
+
+122
+00:07:16,311 --> 00:07:18,134
+Deux fois plus de Diwali.
+
+123
+00:07:19,787 --> 00:07:21,608
+- T'es sûr que ça va ?
+- Oui.
+
+124
+00:07:21,774 --> 00:07:22,942
+Ça a pas l'air.
+
+125
+00:07:23,109 --> 00:07:25,236
+Évidemment que non,
+mon foyer est brisé !
+
+126
+00:07:28,770 --> 00:07:31,086
+Je devrais sortir du bloc vers 10 h.
+
+127
+00:07:32,498 --> 00:07:35,658
+Sheldon croit vraiment
+qu'on est à la piscine ?
+
+128
+00:07:37,606 --> 00:07:39,417
+Il était trop absorbé à calculer
+
+129
+00:07:39,542 --> 00:07:42,757
+les parties par million d'urine
+qui allaient nous entourer.
+
+130
+00:07:44,464 --> 00:07:46,414
+Dix-huit parties par million.
+
+131
+00:07:48,770 --> 00:07:50,320
+Et ça le dérange pas.
+
+132
+00:07:51,012 --> 00:07:53,473
+Ne t'inquiète pas pour ça.
+Je suis contente de t'emmener.
+
+133
+00:07:53,878 --> 00:07:54,933
+Merci.
+
+134
+00:07:55,099 --> 00:07:58,295
+Et Leonard m'interdit de manger
+du pain perdu dans la voiture.
+
+135
+00:07:58,839 --> 00:08:00,805
+Je dois pas avoir
+les doigts collants,
+
+136
+00:08:00,930 --> 00:08:03,831
+mais il peut nager le dos crawlé
+dans la cuvette des toilettes.
+
+137
+00:08:05,365 --> 00:08:07,028
+C'est bien qu'ils fassent du sport.
+
+138
+00:08:08,462 --> 00:08:10,170
+Maintenant que j'y pense,
+
+139
+00:08:10,893 --> 00:08:14,725
+Leonard n'irait jamais nager en public
+sans sa combinaison.
+
+140
+00:08:16,215 --> 00:08:17,455
+Il a dû la prendre.
+
+141
+00:08:17,959 --> 00:08:19,890
+L'année dernière, au Magic Mountain,
+
+142
+00:08:20,015 --> 00:08:23,086
+il a pris un tel coup de soleil
+qu'on a dû la déchirer.
+
+143
+00:08:25,071 --> 00:08:27,215
+Il a dû s'en racheter une.
+Finis de manger.
+
+144
+00:08:27,381 --> 00:08:31,091
+Regarde, il reste toute une zone
+qui n'est pas couverte de sirop.
+
+145
+00:08:32,554 --> 00:08:34,722
+Tu te conduis bizarrement.
+Pourquoi ?
+
+146
+00:08:35,774 --> 00:08:37,767
+Tout le monde sait
+que je suis étrange.
+
+147
+00:08:38,702 --> 00:08:41,747
+Hier, j'ai cherché combien de fèves
+ma bouche pouvait contenir.
+
+148
+00:08:43,934 --> 00:08:45,108
+Dis-moi la vérité.
+
+149
+00:08:45,274 --> 00:08:46,068
+28.
+
+150
+00:08:47,214 --> 00:08:49,428
+- Allez.
+- 56...
+
+151
+00:08:52,293 --> 00:08:53,519
+Qu'y a-t-il ?
+
+152
+00:08:56,285 --> 00:08:57,287
+Te fâche pas.
+
+153
+00:08:58,746 --> 00:09:01,544
+Leonard a eu son rendez-vous
+plus tôt que prévu.
+
+154
+00:09:01,669 --> 00:09:03,738
+Il est en train de se faire opérer.
+
+155
+00:09:07,956 --> 00:09:09,043
+Je vois.
+
+156
+00:09:15,287 --> 00:09:16,556
+Emmènes-y moi.
+
+157
+00:09:17,045 --> 00:09:18,822
+Va au boulot, tout ira bien.
+
+158
+00:09:18,947 --> 00:09:22,649
+C'est mon meilleur ami.
+Sinon, j'irai tout seul.
+
+159
+00:09:24,156 --> 00:09:25,157
+Bon.
+
+160
+00:09:26,342 --> 00:09:28,735
+C'est sympa de te voir
+t'inquiéter pour lui.
+
+161
+00:09:28,901 --> 00:09:29,951
+C'est vrai.
+
+162
+00:09:30,383 --> 00:09:33,156
+Je ne me le pardonnerais pas
+s'il lui arrivait quelque chose
+
+163
+00:09:33,281 --> 00:09:36,034
+et que je n'étais pas là
+pour lui dire "Je te l'avais dit".
+
+164
+00:09:55,347 --> 00:09:56,679
+{\pub}On a bien nagé.
+
+165
+00:09:56,846 --> 00:09:57,972
+Oh, ça va.
+
+166
+00:09:59,932 --> 00:10:04,101
+J'imagine qu'on t'a déjà examinée
+pour ton élongation nasale.
+
+167
+00:10:06,613 --> 00:10:09,776
+- Parce que je suis une menteuse ?
+- Ça, c'est au docteur de voir.
+
+168
+00:10:12,069 --> 00:10:14,604
+- Il a fallu que tu lui dises.
+- Il a fait une crise.
+
+169
+00:10:15,018 --> 00:10:18,143
+Et j'étais distraite, il a mis
+plus de talc que d'habitude.
+
+170
+00:10:20,087 --> 00:10:22,446
+- Comment va-t-il ?
+- Toujours au bloc.
+
+171
+00:10:23,880 --> 00:10:24,961
+Très bien.
+
+172
+00:10:25,328 --> 00:10:27,394
+Tout se passera bien.
+
+173
+00:10:27,949 --> 00:10:29,295
+Ça colle.
+
+174
+00:10:32,173 --> 00:10:34,842
+Allez, parlons d'autre chose.
+
+175
+00:10:35,009 --> 00:10:36,469
+Bonne idée.
+
+176
+00:10:37,241 --> 00:10:40,598
+As-tu discuté avec Leonard
+de l'organisation de ses funérailles ?
+
+177
+00:10:42,379 --> 00:10:44,811
+Elle voulait parler
+d'un truc plus gai.
+
+178
+00:10:46,095 --> 00:10:48,501
+Je pourrais essayer
+d'en faire une fête,
+
+179
+00:10:49,357 --> 00:10:51,359
+mais il est mort si jeune.
+
+180
+00:10:55,446 --> 00:10:57,865
+- Salut.
+- Qu'est-ce qui vous amène ?
+
+181
+00:10:59,957 --> 00:11:01,712
+Cake-chose de bon.
+
+182
+00:11:03,797 --> 00:11:05,691
+Je t'avais dit que c'était pas drôle.
+
+183
+00:11:06,422 --> 00:11:07,643
+Il ne rit pas
+
+184
+00:11:07,768 --> 00:11:10,916
+car il se choco-lamente.
+
+185
+00:11:13,492 --> 00:11:14,919
+Public difficile.
+
+186
+00:11:17,217 --> 00:11:19,721
+Désolé, c'est adorable.
+Merci.
+
+187
+00:11:19,887 --> 00:11:21,518
+- Comment ça va ?
+- Mieux.
+
+188
+00:11:21,643 --> 00:11:24,392
+La nouvelle m'a plus choqué
+que je ne l'imaginais.
+
+189
+00:11:25,217 --> 00:11:28,424
+C'est normal, je serais anéantie
+si mes parents se séparaient.
+
+190
+00:11:28,549 --> 00:11:31,649
+Ton père parle rarement à ta mère.
+
+191
+00:11:31,816 --> 00:11:34,986
+Au moins, il reste près d'elle,
+il s'est pas barré comme le tien.
+
+192
+00:11:35,562 --> 00:11:37,699
+Bref, on est venus
+te remonter le moral !
+
+193
+00:11:39,751 --> 00:11:40,859
+Désolée.
+
+194
+00:11:40,984 --> 00:11:42,660
+Tu as eu plus de détails ?
+
+195
+00:11:43,441 --> 00:11:46,623
+Je pense qu'avec le temps,
+ils ont accumulé de la rancune,
+
+196
+00:11:46,789 --> 00:11:50,003
+et au lieu d'en parler,
+ils ont tout gardé pour eux
+
+197
+00:11:50,569 --> 00:11:52,128
+et ils se sont haïs pour ça.
+
+198
+00:11:52,295 --> 00:11:54,759
+Ils ont passé tout ce temps
+en étant malheureux...
+
+199
+00:11:55,562 --> 00:11:59,191
+Parfois, rien ne vaut un gâteau,
+au mu-final.
+
+200
+00:12:02,114 --> 00:12:03,473
+Tu comprends, non ?
+
+201
+00:12:08,079 --> 00:12:09,604
+C'est sympa, la peluche.
+
+202
+00:12:09,770 --> 00:12:11,382
+C'est pas pour Leonard.
+
+203
+00:12:11,507 --> 00:12:13,144
+Amy me l'a achetée.
+
+204
+00:12:16,372 --> 00:12:19,155
+Il s'est cogné l'orteil
+dans la porte tournante à l'entrée.
+
+205
+00:12:19,322 --> 00:12:21,908
+Tu sais que ces maudites portes
+me donnent le tournis.
+
+206
+00:12:22,074 --> 00:12:24,001
+Pourquoi t'as continué à tourner ?
+
+207
+00:12:25,244 --> 00:12:28,790
+Il y avait une grosse plante,
+j'ai cru que c'était l'extérieur.
+
+208
+00:12:30,472 --> 00:12:32,937
+Bon, quand il va sortir,
+il sera pas en bon état.
+
+209
+00:12:33,062 --> 00:12:35,051
+Donc arrange-toi pour pas l'embêter.
+
+210
+00:12:35,504 --> 00:12:36,554
+Elle a raison.
+
+211
+00:12:36,679 --> 00:12:40,006
+Comme pour cet homme au goitre,
+au supermarché.
+
+212
+00:12:40,131 --> 00:12:42,548
+Quoi que tu en penses,
+garde-le pour toi.
+
+213
+00:12:44,011 --> 00:12:46,115
+On aurait dit un pamplemousse.
+
+214
+00:12:46,976 --> 00:12:50,661
+Il le savait sûrement déjà,
+avant que t'en tiennes un à côté de lui.
+
+215
+00:12:51,976 --> 00:12:53,748
+Je ne vous promets rien.
+
+216
+00:12:53,873 --> 00:12:56,345
+Il a non seulement pris
+un risque inutile,
+
+217
+00:12:56,470 --> 00:12:57,657
+il m'a aussi déçu.
+
+218
+00:12:57,782 --> 00:13:00,697
+C'est parce que t'étais trop chiant.
+
+219
+00:13:00,863 --> 00:13:05,159
+J'étais trop "riant"
+parce que je m'inquiétais pour lui.
+
+220
+00:13:05,326 --> 00:13:08,145
+- Tu peux pas dire "chiant" ?
+- Un peu, mon neveu.
+
+221
+00:13:09,718 --> 00:13:13,084
+Moi aussi, je m'inquiète pour lui.
+On va passer notre vie ensemble.
+
+222
+00:13:13,250 --> 00:13:14,878
+Et moi pas ?
+
+223
+00:13:18,391 --> 00:13:19,427
+Un séisme.
+
+224
+00:13:19,552 --> 00:13:20,806
+J'en étais sûr.
+
+225
+00:13:20,931 --> 00:13:22,649
+C'était une petite secousse.
+
+226
+00:13:23,344 --> 00:13:25,512
+Qui transforme
+une opération de routine
+
+227
+00:13:25,637 --> 00:13:27,124
+en lobotomie frontale.
+
+228
+00:13:31,048 --> 00:13:32,895
+Ça ne me plaît pas du tout.
+
+229
+00:13:33,062 --> 00:13:35,032
+Je dois m'assurer qu'il va bien.
+
+230
+00:13:35,157 --> 00:13:38,151
+- Tu peux pas y aller.
+- Essaye de m'en empêcher !
+
+231
+00:13:41,438 --> 00:13:42,648
+Ça va ?
+
+232
+00:13:43,239 --> 00:13:45,032
+Pourquoi tu m'en as pas empêché ?
+
+233
+00:13:48,327 --> 00:13:49,621
+Je peux te parler ?
+
+234
+00:13:50,153 --> 00:13:52,513
+Toute cette histoire
+avec les parents de Raj
+
+235
+00:13:52,638 --> 00:13:54,542
+m'a fait réfléchir sur nous.
+
+236
+00:13:54,708 --> 00:13:57,044
+Comment ça ?
+On est bien.
+
+237
+00:13:57,211 --> 00:14:00,436
+Ses parents
+se séparent sûrement à cause de Raj.
+
+238
+00:14:01,959 --> 00:14:02,759
+Quoi ?
+
+239
+00:14:02,925 --> 00:14:05,353
+On dit toujours
+que c'est pas la faute des enfants,
+
+240
+00:14:05,819 --> 00:14:07,146
+mais, enfin...
+
+241
+00:14:11,515 --> 00:14:14,437
+Je ne plaisante pas.
+T'as entendu ce qu'il a dit.
+
+242
+00:14:14,603 --> 00:14:16,815
+C'est à cause
+de leurs petites rancœurs.
+
+243
+00:14:17,191 --> 00:14:19,025
+Je veux pas de ça pour nous.
+
+244
+00:14:19,496 --> 00:14:21,235
+Comment te convaincre ?
+
+245
+00:14:22,335 --> 00:14:24,823
+Quelque chose en moi te déplaît ?
+
+246
+00:14:25,865 --> 00:14:28,032
+Je refuse de répondre,
+c'est un piège.
+
+247
+00:14:31,713 --> 00:14:33,247
+Donc il y en a.
+
+248
+00:14:34,050 --> 00:14:36,042
+Me voilà pris au piège.
+
+249
+00:14:38,656 --> 00:14:41,027
+Continue de parler.
+Je vais ronger ma jambe.
+
+250
+00:14:42,819 --> 00:14:45,927
+Dis-moi une chose qui te gêne,
+je te promets de ne pas me fâcher.
+
+251
+00:14:47,710 --> 00:14:49,111
+Pour être honnête,
+
+252
+00:14:49,236 --> 00:14:51,481
+parfois, tu es trop...
+
+253
+00:14:51,606 --> 00:14:52,742
+belle.
+
+254
+00:14:55,886 --> 00:14:57,230
+Sois sérieux.
+
+255
+00:15:00,382 --> 00:15:02,030
+Je n'aime vraiment pas
+
+256
+00:15:02,155 --> 00:15:04,237
+tes coups d'aile quand on dort,
+
+257
+00:15:04,362 --> 00:15:05,633
+car tu es un ange.
+
+258
+00:15:08,991 --> 00:15:11,244
+D'accord, c'était pas une bonne idée.
+
+259
+00:15:11,410 --> 00:15:12,995
+Le secret d'un mariage heureux,
+
+260
+00:15:13,162 --> 00:15:15,933
+c'est pas de passer son temps
+à se critiquer.
+
+261
+00:15:16,058 --> 00:15:20,065
+Il existe cependant des moyens
+d'améliorer la communication.
+
+262
+00:15:20,190 --> 00:15:22,964
+J'ai appris en thérapie de couple...
+
+263
+00:15:23,130 --> 00:15:24,131
+Avec qui ?
+
+264
+00:15:24,298 --> 00:15:25,519
+Peu importe.
+
+265
+00:15:27,742 --> 00:15:30,096
+- Avec ta mère ?
+- Peu importe.
+
+266
+00:15:31,024 --> 00:15:32,384
+C'était ta mère.
+
+267
+00:15:34,038 --> 00:15:36,695
+Bref, le thérapeute nous a fait dire
+
+268
+00:15:36,820 --> 00:15:38,604
+ce qu'on aimait l'un chez l'autre.
+
+269
+00:15:39,316 --> 00:15:41,983
+C'est mignon.
+J'ai envie d'essayer.
+
+270
+00:15:42,149 --> 00:15:43,364
+Très bien.
+
+271
+00:15:45,970 --> 00:15:48,281
+J'aime quand tu me fais rire.
+
+272
+00:15:51,143 --> 00:15:54,912
+J'aime que tu sois forte
+et indépendante.
+
+273
+00:15:55,079 --> 00:15:57,999
+Mais j'aime
+quand tu me tiens la porte.
+
+274
+00:15:58,165 --> 00:16:02,080
+J'aime que,
+bien que je sois bordélique,
+
+275
+00:16:02,205 --> 00:16:03,721
+ça te dérange pas.
+
+276
+00:16:11,159 --> 00:16:15,113
+J'aime que, bien que je travaille
+et fasse le ménage, ça te dérange pas.
+
+277
+00:16:17,383 --> 00:16:20,021
+Pas le moins du monde.
+C'est pas super ?
+
+278
+00:16:23,593 --> 00:16:24,616
+Souriez.
+
+279
+00:16:24,741 --> 00:16:26,360
+J'en ferai des cartes de vœux.
+
+280
+00:16:31,699 --> 00:16:33,437
+Tout ça, c'est de ta faute.
+
+281
+00:16:34,892 --> 00:16:36,533
+Comment ça ?
+
+282
+00:16:38,517 --> 00:16:40,291
+Je t'ai déconseillé l'opération.
+
+283
+00:16:41,003 --> 00:16:43,742
+L'opération s'est bien passée.
+
+284
+00:16:44,464 --> 00:16:46,172
+Et je voulais pas de toi là-bas.
+
+285
+00:16:48,736 --> 00:16:51,272
+Je sais pas où j'ai le plus mal,
+au nez ou au cœur.
+
+286
+00:16:53,304 --> 00:16:54,862
+Je te parle plus.
+
+287
+00:16:54,987 --> 00:16:57,651
+Ne faites pas ça.
+Vous devez en parler.
+
+288
+00:16:57,776 --> 00:17:00,126
+Oui, vous êtes trop drôles à écouter.
+
+289
+00:17:02,911 --> 00:17:05,456
+Je suis désolé
+de pas t'avoir parlé de l'opération,
+
+290
+00:17:05,581 --> 00:17:07,357
+mais tu t'es inquiété pour rien.
+
+291
+00:17:07,482 --> 00:17:09,473
+T'es pas encore tiré d'affaire.
+
+292
+00:17:09,598 --> 00:17:12,517
+Tu peux encore avoir une infection,
+ou un caillot.
+
+293
+00:17:12,642 --> 00:17:17,244
+Un chirurgien distrait a pu laisser
+une araignée te pondre dans le nez.
+
+294
+00:17:19,496 --> 00:17:21,662
+Si t'éternues de la toile,
+je déménage.
+
+295
+00:17:23,224 --> 00:17:26,728
+Je pensais jamais dire ça,
+mais par ici les araignées nasales !
+
+296
+00:17:28,631 --> 00:17:31,154
+Tu trompes personne.
+T'avais trop peur qu'il meure.
+
+297
+00:17:31,279 --> 00:17:32,426
+Tu partiras jamais.
+
+298
+00:17:32,593 --> 00:17:34,387
+Sheldon finira par déménager.
+
+299
+00:17:34,553 --> 00:17:36,681
+Dès qu'il saura
+se servir d'une porte.
+
+300
+00:17:38,570 --> 00:17:41,978
+J'avais pas trop peur,
+et je suis pas sur-attaché à Leonard.
+
+301
+00:17:42,144 --> 00:17:45,139
+T'étais si inquiet
+que tu t'es éclaté le nez.
+
+302
+00:17:45,264 --> 00:17:46,524
+Tu m'aimes.
+
+303
+00:17:49,401 --> 00:17:52,697
+Il parle pas comme un homme
+dévoré de l'intérieur par une araignée ?
+
+304
+00:17:54,740 --> 00:17:58,035
+T'es neurologiste.
+Ouvre-lui le crâne, mets-y du Raid.
+
+305
+00:18:01,121 --> 00:18:03,124
+J'aime ta coquetterie,
+
+306
+00:18:03,671 --> 00:18:07,609
+même si j'ai envie de faire pipi,
+et que tu te coiffes depuis une heure.
+
+307
+00:18:09,036 --> 00:18:12,004
+J'aime que tu sois trop bien
+pour pisser dans l'évier.
+
+308
+00:18:14,014 --> 00:18:17,956
+J'aime quand tu oses parler
+même si t'as pas réfléchi avant.
+
+309
+00:18:20,617 --> 00:18:22,825
+J'aime tes cheveux sur le savon.
+
+310
+00:18:22,950 --> 00:18:25,379
+J'ai l'impression de me laver
+avec un hamster.
+
+311
+00:18:28,325 --> 00:18:30,879
+Je suis désolé d'arriver si tard.
+
+312
+00:18:31,004 --> 00:18:33,029
+J'étais au téléphone avec ma mère.
+
+313
+00:18:33,195 --> 00:18:35,172
+- Comment elle va ?
+- Plutôt bien.
+
+314
+00:18:35,297 --> 00:18:37,433
+Elle a acheté le livre
+<i>Mange, prie, aime</i>.
+
+315
+00:18:37,558 --> 00:18:40,453
+Elle a mis le feu
+à la Mercedes de mon père avec.
+
+316
+00:18:43,100 --> 00:18:45,084
+Et vous, ça va ?
+
+317
+00:18:46,258 --> 00:18:48,627
+On se dit ce qui nous plaît
+l'un chez l'autre.
+
+318
+00:18:48,794 --> 00:18:51,338
+C'est ce qu'on faisait
+en thérapie de couple.
+
+319
+00:19:04,560 --> 00:19:05,563
+{\pub}C'est quoi ?
+
+320
+00:19:05,688 --> 00:19:07,855
+Je l'avais commandé
+avant ton opération.
+
+321
+00:19:08,421 --> 00:19:10,880
+C'est l'urne que je te destinais.
+
+322
+00:19:12,817 --> 00:19:15,154
+C'est morbide.
+Renvoie-la.
+
+323
+00:19:15,320 --> 00:19:18,222
+C'est impossible,
+je l'ai faite graver.
+
+324
+00:19:19,937 --> 00:19:22,938
+"Ci-gisent les cendres
+de Leonard Hofstadter.
+
+325
+00:19:23,063 --> 00:19:26,502
+"Il pensait avoir raison,
+son colocataire était mieux avisé."
+
+326
+00:19:29,410 --> 00:19:30,510
+C'est drôle.
+
+327
+00:19:31,128 --> 00:19:32,755
+Ces médocs vont me manquer.
+
+328
+00:19:34,465 --> 00:19:36,300
+Pourquoi t'en a pris deux ?
+
+329
+00:19:36,943 --> 00:19:39,303
+- "J'accompagne Simplet."
+- C'est la mienne.
+

@@ -1,0 +1,1446 @@
+1
+00:00:03,145 --> 00:00:04,146
+Bonjour.
+
+2
+00:00:04,676 --> 00:00:06,325
+Je suis le Dr Sheldon Cooper.
+
+3
+00:00:06,450 --> 00:00:09,254
+Bienvenue dans <i>Drapeaux Rigolos</i>.
+
+4
+00:00:11,321 --> 00:00:13,138
+Dernier épisode, Drapacadabrant.
+
+5
+00:00:15,482 --> 00:00:17,506
+Même si je m'y attendais,
+ça fait peur.
+
+6
+00:00:18,435 --> 00:00:21,164
+Vous vous dites sûrement
+"L'épisode final ?
+
+7
+00:00:21,289 --> 00:00:23,868
+{\pos(192,205)}"Qui nous sauvera de l'ignorance ?"
+
+8
+00:00:24,689 --> 00:00:26,401
+{\pos(192,225)}Je me le suis demandé aussi.
+
+9
+00:00:27,137 --> 00:00:29,680
+{\pos(192,225)}On parle de drapeaux
+ou de télépathie ?
+
+10
+00:00:30,967 --> 00:00:34,190
+{\pos(192,225)}Pour dire vrai, je ne peux plus assurer
+une carrière,
+
+11
+00:00:34,315 --> 00:00:36,721
+{\pos(192,225)}une émission à succès
+et une petite amie.
+
+12
+00:00:37,034 --> 00:00:39,905
+{\pos(192,225)}Et c'est une vraie,
+pour les imbéciles qui commentent.
+
+13
+00:00:42,185 --> 00:00:45,302
+{\pos(192,225)}Comme on dit,
+les meilleures choses ont une fin.
+
+14
+00:00:45,427 --> 00:00:47,833
+{\pos(192,225)}Ce n'était que le 232e épisode.
+
+15
+00:00:48,896 --> 00:00:52,765
+{\pos(192,225)}233 si on compte celui
+que quelqu'un a oublié d'enregistrer.
+
+16
+00:00:54,698 --> 00:00:57,099
+- On ne devait pas en parler.
+- Tu devais enregistrer.
+
+17
+00:01:00,109 --> 00:01:04,811
+Bref, asseyez-vous, détendez-vous,
+et joignez notre dernier tour
+
+18
+00:01:07,191 --> 00:01:09,563
+comme l'indique ce drapeau blanc.
+
+19
+00:01:09,688 --> 00:01:12,459
+Les drapeaux blancs peuvent aussi
+représenter la capitulation,
+
+20
+00:01:12,584 --> 00:01:15,385
+les Intendants du Gondor
+et le clan japonais Minamoto,
+
+21
+00:01:15,510 --> 00:01:17,994
+mais nous l'avons vu
+dans l'épisode 62,
+
+22
+00:01:18,119 --> 00:01:20,288
+"Drapeaux blancs :
+qui les agite, et pourquoi ?"
+
+23
+00:01:22,659 --> 00:01:24,585
+- Il était bien.
+- Tellement bien.
+
+24
+00:01:27,353 --> 00:01:28,901
+Giggity Team
+
+25
+00:01:29,588 --> 00:01:32,476
+www.u-sub.net
+www.giggityteam.fr
+
+26
+00:01:34,832 --> 00:01:38,545
+benji1000, Berenice1, BJAM1M, hemhel
+
+27
+00:01:49,772 --> 00:01:52,849
+{\pub}{\fad(400,400)}Saison 8 - Épisode 10
+<i>The Champagne Reflection</i>
+
+28
+00:01:56,039 --> 00:01:59,787
+Je pensais que nettoyer le bureau
+d'un professeur mort serait ennuyeux,
+
+29
+00:02:00,428 --> 00:02:02,196
+mais j'ai trouvé son dentier,
+
+30
+00:02:02,615 --> 00:02:04,921
+et en fait, c'est aussi dégoûtant.
+
+31
+00:02:07,210 --> 00:02:11,298
+- La famille du Pr. Abbot ne veut rien ?
+- Il n'a pas de famille.
+
+32
+00:02:11,464 --> 00:02:12,841
+- C'est dur.
+- Je sais.
+
+33
+00:02:13,424 --> 00:02:17,638
+{\pos(192,205)}Tu passes ta vie à travailler,
+et il ne reste que des papiers.
+
+34
+00:02:18,959 --> 00:02:20,257
+{\pos(192,205)}Ça fait réfléchir.
+
+35
+00:02:21,445 --> 00:02:22,446
+Bref.
+
+36
+00:02:24,644 --> 00:02:27,700
+On est censés vérifier avant de jeter,
+c'est peut être important.
+
+37
+00:02:27,825 --> 00:02:30,651
+{\pos(192,205)}Je l'ai fait.
+C'est soit obsolète, soit réfuté.
+
+38
+00:02:30,817 --> 00:02:33,951
+{\pos(192,205)}Je sais pas,
+ce vieux stylo prouve la gravité.
+
+39
+00:02:34,076 --> 00:02:36,448
+Quand je le penche,
+son maillot tombe.
+
+40
+00:02:38,283 --> 00:02:42,247
+{\pos(192,205)}Mon père en avait un comme ça,
+c'était ma copine de sixième.
+
+41
+00:02:44,030 --> 00:02:46,875
+{\pos(192,205)}C'est bizarre,
+de jeter son travail comme ça.
+
+42
+00:02:47,041 --> 00:02:49,998
+T'en fais pas, un jour,
+on jettera le tien aussi.
+
+43
+00:02:51,924 --> 00:02:54,374
+{\pos(192,205)}Le "on", c'était Sheldon,
+et c'était hier.
+
+44
+00:02:56,426 --> 00:02:57,566
+{\pos(192,205)}Regardez.
+
+45
+00:02:59,170 --> 00:03:01,976
+"Cher Roger, à ouvrir
+le jour de ta première découverte.
+
+46
+00:03:02,101 --> 00:03:03,125
+"Bisous, maman."
+
+47
+00:03:04,249 --> 00:03:05,637
+Regardez la date.
+
+48
+00:03:06,152 --> 00:03:08,981
+Il l'a gardée 50 ans,
+sans jamais l'ouvrir.
+
+49
+00:03:10,339 --> 00:03:11,442
+C'est émouvant.
+
+50
+00:03:12,083 --> 00:03:13,362
+{\pos(192,150)}Pauvre Roger Abbott.
+
+51
+00:03:15,242 --> 00:03:19,074
+{\pos(192,50)}Roger Abbott sonne
+comme Roger Rabbit.
+
+52
+00:03:23,594 --> 00:03:26,415
+Je sais qu'il est mort,
+mais essaie, c'est rigolo.
+
+53
+00:03:33,723 --> 00:03:35,257
+Ma grande débutante.
+
+54
+00:03:35,691 --> 00:03:39,609
+Dan, mon patron qui me voulait pas
+et fait des câlins sans arrêt.
+
+55
+00:03:40,802 --> 00:03:44,016
+Regarde ça, toute nouvelle
+et déjà dans le top 3.
+
+56
+00:03:44,182 --> 00:03:47,770
+- Viens donc à ma table.
+- J'arrive, Bernadette gare la voiture.
+
+57
+00:03:48,611 --> 00:03:49,612
+Super.
+
+58
+00:03:51,173 --> 00:03:53,255
+Bernadette, mignonne, gentille...
+
+59
+00:03:53,904 --> 00:03:55,361
+vicieuse petite Bernadette.
+
+60
+00:03:56,926 --> 00:03:58,194
+Elle est pas méchante.
+
+61
+00:03:58,319 --> 00:04:01,641
+Au pique-nique de l'entreprise,
+elle a crié sur mon petit-fils et moi
+
+62
+00:04:01,766 --> 00:04:03,369
+pour avoir perdu la course.
+
+63
+00:04:03,849 --> 00:04:07,421
+Il l'appelle encore
+"la méchante fille aux gros seins".
+
+64
+00:04:09,590 --> 00:04:13,420
+Elle est un peu dure, mais je jure
+qu'elle est gentille après le...
+
+65
+00:04:13,586 --> 00:04:14,505
+Alors ?
+
+66
+00:04:14,671 --> 00:04:17,602
+On disait à quel point
+on aime travailler avec toi.
+
+67
+00:04:18,299 --> 00:04:19,300
+Pas vrai ?
+
+68
+00:04:23,987 --> 00:04:26,199
+Ici, à travers les années,
+
+69
+00:04:26,324 --> 00:04:29,736
+nous avons pu apprendre,
+rire, se questionner...
+
+70
+00:04:29,861 --> 00:04:32,643
+Et, oui, partager quelques larmes.
+
+71
+00:04:34,255 --> 00:04:37,079
+Comme quand on fait
+un spécial 4-Juillet de deux heures,
+
+72
+00:04:37,204 --> 00:04:38,848
+et qu'il n'est pas enregistré.
+
+73
+00:04:41,136 --> 00:04:44,226
+- Combien de fois dois-je m'excuser ?
+- Environ 4000.
+
+74
+00:04:45,994 --> 00:04:48,664
+Une pour chaque domino
+qui formait le drapeau américain.
+
+75
+00:04:51,121 --> 00:04:52,696
+Voici les meilleurs moments.
+
+76
+00:04:55,061 --> 00:04:57,434
+Nom d'une pipe,
+quel est notre drapeau du jour ?
+
+77
+00:05:01,773 --> 00:05:02,982
+Australie, mon pote !
+
+78
+00:05:07,531 --> 00:05:11,276
+Il est temps pour notre quiz,
+Drapeau ou Pas drapeau.
+
+79
+00:05:11,903 --> 00:05:13,780
+Drapeau.
+Drapeau.
+
+80
+00:05:14,524 --> 00:05:16,310
+Pas drapeau.
+Drapeau.
+
+81
+00:05:16,741 --> 00:05:17,898
+Je déchire.
+
+82
+00:05:23,778 --> 00:05:26,465
+Dis, Betsy Ross, tu fais quoi ?
+
+83
+00:05:27,518 --> 00:05:29,353
+Je n'en sais rien.
+
+84
+00:05:31,122 --> 00:05:34,467
+Cette histoire de couture
+du premier drapeau américain,
+
+85
+00:05:34,592 --> 00:05:36,608
+c'est des foutaises sans preuve.
+
+86
+00:05:38,086 --> 00:05:39,452
+Qui l'a cousu, alors ?
+
+87
+00:05:40,191 --> 00:05:41,467
+Ne me demande pas.
+
+88
+00:05:41,881 --> 00:05:43,952
+Je suis une simple couturière,
+
+89
+00:05:44,077 --> 00:05:46,690
+dont les descendants profitent bien !
+
+90
+00:05:55,527 --> 00:05:58,124
+- Une trempette, ma chère ?
+- Volontiers.
+
+91
+00:06:01,264 --> 00:06:04,635
+Ce drapeau violet indique la présence
+d'animaux nuisibles,
+
+92
+00:06:04,760 --> 00:06:06,066
+comme des méduses.
+
+93
+00:06:07,398 --> 00:06:09,435
+Ce drapeau nous sauve la vie.
+
+94
+00:06:12,096 --> 00:06:13,097
+Ça, oui.
+
+95
+00:06:15,529 --> 00:06:17,175
+Arrête de regarder mes jambes.
+
+96
+00:06:19,035 --> 00:06:21,247
+Pas drapeau.
+Drapeau.
+
+97
+00:06:21,372 --> 00:06:23,672
+Drapeau.
+Pas drapeau.
+
+98
+00:06:24,235 --> 00:06:25,236
+Drapeau.
+
+99
+00:06:25,553 --> 00:06:26,554
+Merde.
+
+100
+00:06:28,930 --> 00:06:31,683
+Quand ce genre de truc me déprime,
+vous savez ce que j'aime ?
+
+101
+00:06:31,849 --> 00:06:34,171
+Chanter "Hakuna Matata"
+comme une gamine de 8 ans ?
+
+102
+00:06:35,628 --> 00:06:36,929
+Non, gros malin.
+
+103
+00:06:37,054 --> 00:06:39,222
+C'est "Everything is Awesome"
+du film <i>Lego</i>.
+
+104
+00:06:41,901 --> 00:06:45,317
+Regardez ces cahiers,
+des pages entières de données.
+
+105
+00:06:45,442 --> 00:06:47,035
+Il a dû y passer des années.
+
+106
+00:06:47,353 --> 00:06:49,829
+Juste des colonnes de chiffres,
+jette.
+
+107
+00:06:50,452 --> 00:06:53,012
+Et si c'était une grande découverte ?
+
+108
+00:06:53,137 --> 00:06:56,834
+Et si c'est ça qui lui aurait permis
+d'ouvrir le champagne ?
+
+109
+00:06:57,000 --> 00:06:59,256
+Peut-être qu'il savait pas
+avec quoi le boire.
+
+110
+00:06:59,810 --> 00:07:02,745
+Fraises, caviar, huîtres,
+que des bons choix.
+
+111
+00:07:04,700 --> 00:07:07,857
+Ce regard, c'est pour ça
+que les gens mangent avant tes fêtes.
+
+112
+00:07:10,006 --> 00:07:11,731
+Ça doit avoir un sens.
+
+113
+00:07:12,596 --> 00:07:15,868
+Il n'y a pas de logique évidente,
+
+114
+00:07:15,993 --> 00:07:18,237
+mais ça devrait pas être dur
+de vérifier.
+
+115
+00:07:18,362 --> 00:07:20,717
+On pourrait demander
+le supercalculateur.
+
+116
+00:07:20,842 --> 00:07:24,956
+On peut tenter une régression multiple
+en faisant varier les paramètres.
+
+117
+00:07:25,081 --> 00:07:27,609
+Ou utiliser un algorithme
+de reconnaissance de motifs
+
+118
+00:07:27,734 --> 00:07:29,533
+sur des problèmes connus de physique.
+
+119
+00:07:29,699 --> 00:07:33,995
+C'est peut-être un message chiffré.
+Commençons par de la cryptanalyse.
+
+120
+00:07:34,364 --> 00:07:36,840
+Ou on peut aller voir
+son ancien collègue de bureau.
+
+121
+00:07:39,505 --> 00:07:40,640
+Ouais, plutôt ça.
+
+122
+00:07:42,211 --> 00:07:44,590
+Parce que tu connais pas
+la cryptanalyse, hein ?
+
+123
+00:07:44,756 --> 00:07:46,743
+Je sais même pas
+si c'est le bon terme.
+
+124
+00:07:56,017 --> 00:07:58,604
+Dan, vous avez un petit-fils.
+Quel âge a-t-il ?
+
+125
+00:07:58,770 --> 00:07:59,855
+Sept ans.
+
+126
+00:08:00,274 --> 00:08:01,648
+Je m'en souviens.
+
+127
+00:08:03,265 --> 00:08:05,611
+Il a fait que pleurer
+comme une mauviette.
+
+128
+00:08:07,082 --> 00:08:10,157
+J'ai entendu dire
+qu'une brute l'embêtait.
+
+129
+00:08:10,323 --> 00:08:11,700
+Ça forge le caractère.
+
+130
+00:08:11,825 --> 00:08:14,055
+Papa disait que personne n'aime
+les pleurnichards,
+
+131
+00:08:14,180 --> 00:08:15,871
+sauf leurs mamans et les Démocrates.
+
+132
+00:08:17,487 --> 00:08:18,874
+J'ai besoin d'un verre.
+
+133
+00:08:20,902 --> 00:08:22,210
+Qu'est-ce qu'il a ?
+
+134
+00:08:22,760 --> 00:08:25,881
+Il a pas dû aimer que tu traites
+son petit-fils de mauviette.
+
+135
+00:08:26,047 --> 00:08:28,277
+Je croyais qu'on devait
+plus dire "fiotte" ?
+
+136
+00:08:31,323 --> 00:08:33,012
+Moi, je sais que tu es adorable.
+
+137
+00:08:33,137 --> 00:08:35,933
+Mais parfois, on a l'impression
+que tu es dure.
+
+138
+00:08:37,426 --> 00:08:39,436
+Je connais pas plus douce que moi.
+
+139
+00:08:40,812 --> 00:08:43,302
+Je ressemble à un lutin
+qui fait des gâteaux.
+
+140
+00:08:45,349 --> 00:08:47,193
+Oui, mais parfois,
+
+141
+00:08:47,668 --> 00:08:49,988
+des gens te trouvent un peu méchante.
+
+142
+00:08:51,645 --> 00:08:52,824
+T'en fais partie ?
+
+143
+00:08:55,246 --> 00:08:57,481
+Non, je pense le truc des gâteaux.
+
+144
+00:09:02,834 --> 00:09:03,835
+Action.
+
+145
+00:09:04,747 --> 00:09:05,748
+Bienvenue.
+
+146
+00:09:06,191 --> 00:09:08,983
+Notre invité d'aujourd'hui
+est déjà venu plusieurs fois.
+
+147
+00:09:09,108 --> 00:09:11,184
+Il a présenté
+l'émission <i>Reading Rainbow</i>,
+
+148
+00:09:11,309 --> 00:09:12,845
+il a joué Geordi La Forge,
+
+149
+00:09:12,970 --> 00:09:14,638
+ainsi que Kunta Kinte,
+
+150
+00:09:14,763 --> 00:09:16,063
+M. LeVar Burton.
+
+151
+00:09:21,980 --> 00:09:23,647
+Merci.
+Selon notre accord...
+
+152
+00:09:24,267 --> 00:09:27,035
+Vous faites l'émission,
+j'efface vos infos de contact.
+
+153
+00:09:28,192 --> 00:09:29,152
+Et...
+
+154
+00:09:29,318 --> 00:09:30,608
+Et vous vérifiez.
+
+155
+00:09:31,693 --> 00:09:33,309
+Très bien.
+Content d'être là.
+
+156
+00:09:33,686 --> 00:09:37,075
+Puisque vous êtes là,
+j'aimerais votre avis sur une chose.
+
+157
+00:09:37,200 --> 00:09:39,462
+Pour célébrer
+le <i>mois de l'histoire des Noirs</i>,
+
+158
+00:09:39,587 --> 00:09:41,623
+j'ai représenté
+George Washington Carver
+
+159
+00:09:41,748 --> 00:09:46,235
+pour un hommage que mon colocataire
+qualifie de "fortement raciste".
+
+160
+00:09:47,026 --> 00:09:48,316
+Qu'en pensez-vous ?
+
+161
+00:09:48,441 --> 00:09:50,757
+<i>Bonjour, je m'appelle George.</i>
+
+162
+00:09:50,882 --> 00:09:52,050
+Oh, non !
+
+163
+00:09:56,063 --> 00:09:58,813
+Tu l'as entendu, Leonard.
+"Non". C'est pas raciste.
+
+164
+00:10:09,702 --> 00:10:11,060
+{\pub}On est au bon endroit ?
+
+165
+00:10:11,185 --> 00:10:13,055
+Oui, selon le portier.
+
+166
+00:10:13,180 --> 00:10:15,785
+Je crois pas qu'un portier
+ait à remonter son pantalon.
+
+167
+00:10:17,761 --> 00:10:18,707
+<i>Qui est-ce ?</i>
+
+168
+00:10:18,832 --> 00:10:21,043
+On cherche le Professeur Sharpe.
+
+169
+00:10:21,168 --> 00:10:22,252
+<i>J'arrive.</i>
+
+170
+00:10:24,046 --> 00:10:25,292
+Puis-je vous aider ?
+
+171
+00:10:25,458 --> 00:10:28,688
+On travaille à l'université.
+On cherche des infos sur M. Abbott.
+
+172
+00:10:28,813 --> 00:10:32,243
+On a trouvé ces livres pleins de nombres
+en nettoyant son bureau.
+
+173
+00:10:32,368 --> 00:10:35,168
+- Vous savez ce que c'est ?
+- Oui, il était toujours dessus.
+
+174
+00:10:35,293 --> 00:10:38,414
+Je penche pour un système
+de coordonnées interstellaires,
+
+175
+00:10:38,539 --> 00:10:40,599
+une réactualisation
+de la loi de Hubble.
+
+176
+00:10:40,765 --> 00:10:43,028
+Je vois sans cesse le nombre 90.
+
+177
+00:10:43,153 --> 00:10:45,979
+Ça peut-être l'angle de perturbation
+d'une galaxie lointaine.
+
+178
+00:10:46,145 --> 00:10:48,607
+C'est le nombre de calories
+d'un yaourt.
+
+179
+00:10:49,810 --> 00:10:52,319
+- C'est son journal alimentaire.
+- Ah bon ?
+
+180
+00:10:52,485 --> 00:10:54,004
+Il analysait ses repas.
+
+181
+00:10:54,129 --> 00:10:57,783
+Il pensait que le contrôle des calories
+était la clé de la vie éternelle.
+
+182
+00:10:57,949 --> 00:10:59,199
+Ça fonctionne ?
+
+183
+00:11:00,069 --> 00:11:00,952
+Sérieux ?
+
+184
+00:11:01,330 --> 00:11:03,175
+Il aurait pu passer sous un bus.
+
+185
+00:11:05,628 --> 00:11:07,158
+Désolé, rien d'intéressant.
+
+186
+00:11:07,283 --> 00:11:10,983
+Vous n'avez pas eu à supporter
+35 ans de gargouillis.
+
+187
+00:11:12,046 --> 00:11:14,893
+Est-ce que le Professeur Abbott
+a travaillé sur un sujet
+
+188
+00:11:15,018 --> 00:11:17,094
+qui ait pu s'approcher
+d'une découverte ?
+
+189
+00:11:17,471 --> 00:11:18,704
+Pour être franc,
+
+190
+00:11:18,829 --> 00:11:20,639
+ses recherches n'ont mené à rien.
+
+191
+00:11:21,718 --> 00:11:23,642
+Et comment ont évolué les vôtres ?
+
+192
+00:11:23,808 --> 00:11:24,628
+Super !
+
+193
+00:11:24,753 --> 00:11:27,729
+On vous donne cet appartement
+quand vous gagnez un prix Nobel.
+
+194
+00:11:30,090 --> 00:11:33,193
+Vous pourriez vivre de peu.
+Tous ces sarcasmes me gonflent.
+
+195
+00:11:37,620 --> 00:11:39,060
+Je ne suis pas une brute.
+
+196
+00:11:39,185 --> 00:11:40,992
+Je semble peut-être dure
+
+197
+00:11:41,158 --> 00:11:44,496
+parce que mon père m'a appris
+à pas me laisser intimider.
+
+198
+00:11:44,662 --> 00:11:47,978
+Très bien, mais y a une différence
+entre pas se laisser intimider
+
+199
+00:11:48,103 --> 00:11:51,129
+et dire à ton amie que son pantalon
+ressemble à une couche géante.
+
+200
+00:11:54,214 --> 00:11:55,298
+J'ai dit ça ?
+
+201
+00:11:55,769 --> 00:11:58,710
+Oui, tu l'as fait.
+J'ai dû rendre le pantalon.
+
+202
+00:12:00,344 --> 00:12:01,932
+Où, à Babies'R'Us ?
+
+203
+00:12:03,353 --> 00:12:04,849
+Tu recommences !
+
+204
+00:12:05,433 --> 00:12:08,061
+Désolée, on peut s'en aller ?
+Tout le monde me déteste.
+
+205
+00:12:08,227 --> 00:12:10,150
+Mais non, personne te déteste.
+
+206
+00:12:10,275 --> 00:12:11,508
+Ils sont intimidés.
+
+207
+00:12:11,633 --> 00:12:14,025
+Tu dois juste leur montrer
+que tu es gentille.
+
+208
+00:12:14,191 --> 00:12:15,944
+Je préfère y aller.
+
+209
+00:12:16,110 --> 00:12:17,453
+Tu n'iras nulle part.
+
+210
+00:12:17,578 --> 00:12:19,906
+Je suis là pour toi,
+on va arranger ça ensemble.
+
+211
+00:12:20,485 --> 00:12:22,709
+- Merci.
+- Même si ta robe est moche.
+
+212
+00:12:27,035 --> 00:12:29,047
+Bien, mes chers aventuriers
+du drapeau,
+
+213
+00:12:29,511 --> 00:12:32,419
+le dernier épisode de <i>Drapeaux Rigolos</i>
+semble toucher à sa fin.
+
+214
+00:12:33,574 --> 00:12:35,076
+Si je pouvais,
+
+215
+00:12:35,201 --> 00:12:38,605
+je vous mettrais tous
+en haut d'un mât
+
+216
+00:12:38,730 --> 00:12:39,860
+pour vous saluer.
+
+217
+00:12:41,837 --> 00:12:44,140
+Et si vous touchiez le sol,
+je vous brûlerais.
+
+218
+00:12:45,464 --> 00:12:49,019
+Je prends un moment pour remercier
+le Dr Amy Farrah Fowler,
+
+219
+00:12:49,185 --> 00:12:51,062
+qui, si vous ne le savez pas,
+
+220
+00:12:51,228 --> 00:12:53,625
+est la première femme à co-présenter
+
+221
+00:12:53,750 --> 00:12:57,171
+une émission de drapeaux
+sur Internet.
+
+222
+00:12:59,275 --> 00:13:00,645
+Contre les inégalités.
+
+223
+00:13:02,908 --> 00:13:05,315
+Si je peux être sérieux un instant,
+
+224
+00:13:07,355 --> 00:13:10,021
+présenter cette émission
+
+225
+00:13:10,605 --> 00:13:12,037
+a été une folle aventure.
+
+226
+00:13:14,048 --> 00:13:16,386
+Avec ses hauts et ses bas.
+
+227
+00:13:17,091 --> 00:13:19,071
+Je ne l'arrêterais
+pour rien au monde.
+
+228
+00:13:20,640 --> 00:13:22,428
+Sauf maintenant, je l'arrête.
+
+229
+00:13:26,328 --> 00:13:28,562
+Avant de vous quitter...
+
+230
+00:13:29,233 --> 00:13:32,771
+j'aimerais vous montrer
+un autre usage du drapeau blanc.
+
+231
+00:13:34,597 --> 00:13:36,437
+Parfait pour des moments comme ça.
+
+232
+00:13:39,810 --> 00:13:40,811
+Bonsoir.
+
+233
+00:13:41,821 --> 00:13:42,697
+Coupez.
+
+234
+00:13:48,585 --> 00:13:49,579
+C'était beau.
+
+235
+00:13:49,745 --> 00:13:52,097
+- Si t'as pas cliqué...
+- Je l'ai fait !
+
+236
+00:13:58,801 --> 00:14:00,048
+Eh bien, voilà.
+
+237
+00:14:00,536 --> 00:14:02,486
+C'est la fin de Roger Abbott.
+
+238
+00:14:05,511 --> 00:14:07,679
+Et on ne sait pas
+qui voulait sa peau.
+
+239
+00:14:10,805 --> 00:14:14,437
+C'est fou comme toute une vie
+peut se réduire à presque rien.
+
+240
+00:14:15,516 --> 00:14:17,709
+La triste vérité,
+
+241
+00:14:18,251 --> 00:14:20,694
+c'est que tout le monde
+n'accomplira pas de grandes choses.
+
+242
+00:14:21,686 --> 00:14:24,728
+Certains d'entre nous devront
+trouver du sens à la vie
+
+243
+00:14:24,853 --> 00:14:27,379
+dans les petits moments
+qui la composent.
+
+244
+00:14:29,195 --> 00:14:30,870
+Une belle façon de voir les choses.
+
+245
+00:14:31,881 --> 00:14:34,521
+Pour toi, pas pour moi.
+J'ai été dans l'espace, j'ai réussi.
+
+246
+00:14:38,046 --> 00:14:39,170
+Tu sais quoi ?
+
+247
+00:14:39,336 --> 00:14:42,382
+Cette bouteille
+devait marquer une réussite.
+
+248
+00:14:42,548 --> 00:14:43,679
+Faisons un pacte.
+
+249
+00:14:43,804 --> 00:14:46,094
+Quand l'un d'entre nous
+fera une grande découverte,
+
+250
+00:14:46,260 --> 00:14:48,722
+on la fêtera en ouvrant
+cette bouteille
+
+251
+00:14:48,888 --> 00:14:51,043
+et on boira
+à la santé du Pr Abbott.
+
+252
+00:14:51,168 --> 00:14:52,934
+- Ça me plaît.
+- À moi aussi.
+
+253
+00:14:53,536 --> 00:14:56,604
+Et, bien sûr, on affichera notre succès
+devant Sheldon.
+
+254
+00:14:56,770 --> 00:14:58,159
+Évidemment.
+
+255
+00:15:00,957 --> 00:15:02,684
+Je pourrais vous parler ?
+
+256
+00:15:06,976 --> 00:15:08,176
+Oui, bien sûr.
+
+257
+00:15:09,237 --> 00:15:11,745
+Je ne voulais pas insulter
+votre petit-fils.
+
+258
+00:15:11,911 --> 00:15:13,371
+Non, c'est bon.
+
+259
+00:15:13,772 --> 00:15:16,916
+Non, pas du tout.
+Selon Penny, j'effraye tout le monde.
+
+260
+00:15:20,208 --> 00:15:22,672
+Pourquoi elle dirait ça ?
+Vous savez qu'elle boit ?
+
+261
+00:15:24,798 --> 00:15:25,941
+Elle a raison.
+
+262
+00:15:26,066 --> 00:15:28,938
+Et sachez que dorénavant,
+je serais bien plus délicate.
+
+263
+00:15:29,063 --> 00:15:31,473
+Personne ne devrait marcher
+sur des œufs en ma présence.
+
+264
+00:15:33,053 --> 00:15:36,079
+Alors, je voulais vous dire,
+
+265
+00:15:36,204 --> 00:15:38,730
+la boîte ne va plus offrir le café.
+
+266
+00:15:38,896 --> 00:15:40,607
+D'accord.
+Ça commence quand ?
+
+267
+00:15:40,773 --> 00:15:41,975
+Il y a cinq mois.
+
+268
+00:15:44,205 --> 00:15:45,737
+Qui m'a payé mon café ?
+
+269
+00:15:45,903 --> 00:15:46,821
+Nous tous.
+
+270
+00:15:46,987 --> 00:15:50,033
+Ça vient de la cagnotte à jurons,
+on y met des sous quand tu jures.
+
+271
+00:15:53,989 --> 00:15:58,041
+- Autre chose que je devrais savoir ?
+- Tu vois, tes toilettes privées ?
+
+272
+00:15:58,999 --> 00:16:00,460
+C'était pour l'étage entier.
+
+273
+00:16:01,335 --> 00:16:02,429
+Tu plaisantes.
+
+274
+00:16:02,795 --> 00:16:06,056
+C'est bon, ça ne dérangeait
+que Kathy l'handicapée,
+
+275
+00:16:06,689 --> 00:16:08,992
+et elle est à l'hôpital depuis,
+donc tout va bien.
+
+276
+00:16:11,075 --> 00:16:12,597
+Je me sens coupable.
+
+277
+00:16:12,763 --> 00:16:15,600
+T'aurais peut-être pas dû l'appeler
+"Kathy l'handicapée".
+
+278
+00:16:17,309 --> 00:16:18,889
+Mon Dieu !
+
+279
+00:16:19,014 --> 00:16:22,315
+Je pensais que tout le monde m'aimait,
+mais je suis un monstre.
+
+280
+00:16:22,481 --> 00:16:25,580
+Un monstre mignon,
+comme dans <i>Monstres & Compagnie</i>.
+
+281
+00:16:27,233 --> 00:16:30,567
+Non, c'est horrible.
+Je suis une mauvaise personne.
+
+282
+00:16:30,692 --> 00:16:32,951
+Ne pleurez pas, tout va bien.
+
+283
+00:16:33,117 --> 00:16:36,830
+Non. Comment je vais pouvoir
+continuer à travailler ici ?
+
+284
+00:16:36,996 --> 00:16:40,125
+- L'entreprise a besoin de toi.
+- Ça nous dérange pas de payer le café.
+
+285
+00:16:40,858 --> 00:16:42,544
+C'est impossible.
+
+286
+00:16:42,956 --> 00:16:46,464
+On pourrait acheter
+une cafetière pour votre bureau.
+
+287
+00:16:47,423 --> 00:16:49,693
+Ce serait pas mal.
+
+288
+00:16:51,921 --> 00:16:54,514
+Tu vois ? Pas besoin d'être méchante
+pour avoir ce que tu veux.
+
+289
+00:16:55,043 --> 00:16:56,193
+Tu as raison.
+
+290
+00:16:56,833 --> 00:16:59,185
+Vous allez faire quoi
+pour mes toilettes ?
+
+291
+00:17:06,859 --> 00:17:08,027
+Encore debout ?
+
+292
+00:17:08,611 --> 00:17:11,760
+J'ai posté le dernier épisode
+de <i>Drapeaux Rigolos</i> il y a des heures,
+
+293
+00:17:11,885 --> 00:17:14,576
+et personne n'a mis de commentaire.
+
+294
+00:17:16,744 --> 00:17:18,830
+Tout ce travail pour rien.
+
+295
+00:17:19,872 --> 00:17:21,110
+Je comprends bien.
+
+296
+00:17:21,235 --> 00:17:23,626
+Aujourd'hui, j'ai jeté
+toute une carrière à la poubelle,
+
+297
+00:17:23,792 --> 00:17:26,337
+et tout ce qu'il reste,
+c'est une bouteille de champagne
+
+298
+00:17:26,462 --> 00:17:29,766
+et un stylo coquin que Raj a pris
+quand il croyait que personne regardait.
+
+299
+00:17:32,236 --> 00:17:33,802
+Ça n'a rien à voir.
+
+300
+00:17:33,927 --> 00:17:35,889
+Tu n'as pas idée
+de ce que je ressens.
+
+301
+00:17:36,688 --> 00:17:37,838
+T'es triste ?
+
+302
+00:17:40,141 --> 00:17:41,352
+Tu me connais bien.
+
+303
+00:17:45,383 --> 00:17:47,859
+- Quelqu'un a commenté.
+- Il a dit quoi ?
+
+304
+00:17:48,025 --> 00:17:51,223
+"Dommage que t'arrêtes.
+J'aimais bien, je crois."
+
+305
+00:17:51,826 --> 00:17:53,636
+T'as entendu ?
+
+306
+00:17:55,424 --> 00:17:57,202
+Les gens ont le cœur brisé !
+
+307
+00:17:59,370 --> 00:18:01,573
+Je ne peux pas priver
+le monde de ça !
+
+308
+00:18:02,179 --> 00:18:04,260
+<i>Drapeaux Rigolos</i> est de retour !
+
+309
+00:18:06,076 --> 00:18:08,996
+- Félicitations.
+- Ça se fête !
+
+310
+00:18:12,966 --> 00:18:14,552
+C'était pas pour toi !
+
+311
+00:18:14,718 --> 00:18:17,347
+Je ne vais pas la boire.
+Je voulais entendre le plop.
+
+312
+00:18:19,167 --> 00:18:21,356
+Même si je m'y attendais,
+ça fait peur.
+
+313
+00:18:41,311 --> 00:18:42,788
+{\pub}Qu'est-ce que vous faites là ?
+
+314
+00:18:42,954 --> 00:18:46,827
+Je ne devais pas vous appeler,
+mais il me fallait annoncer la nouvelle.
+
+315
+00:18:46,952 --> 00:18:50,296
+<i>Drapeaux Rigolos</i> fait son retour,
+et vous pouvez venir dans le prochain.
+
+316
+00:18:50,462 --> 00:18:53,601
+Wil Wheaton m'a dit "mets un portail".
+J'aurais dû l'écouter.
+
+317
+00:18:55,047 --> 00:18:56,719
+Écoute-moi un peu.
+
+318
+00:18:56,885 --> 00:18:58,710
+Comme vous êtes né en Allemagne,
+
+319
+00:18:58,835 --> 00:19:01,776
+on pourrait parler
+des drapeaux allemands.
+
+320
+00:19:01,901 --> 00:19:04,852
+Vous vous déguisez en croix gammée ?
+

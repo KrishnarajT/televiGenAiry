@@ -1,0 +1,1900 @@
+1
+00:00:01,252 --> 00:00:04,086
+I didn't understand your e-mail.
+
+2
+00:00:04,088 --> 00:00:07,156
+Uh, can you repeat that?
+You're breaking up.
+
+3
+00:00:07,158 --> 00:00:10,259
+I didn't understand your e-mail.
+
+4
+00:00:10,261 --> 00:00:13,229
+Ah. Yeah, I had to get
+a little creative
+
+5
+00:00:13,231 --> 00:00:17,667
+because the S, R and M keys
+on my laptop stopped working.
+
+6
+00:00:17,669 --> 00:00:20,670
+"Deaw Aby,
+could you pleathe dwive be
+
+7
+00:00:20,672 --> 00:00:25,274
+to the twain thtow
+thubtibe tobowow?"
+
+8
+00:00:26,244 --> 00:00:29,245
+So, is that a yes?
+
+9
+00:00:29,247 --> 00:00:31,781
+Sheldon, why don't you get
+a new computer?
+
+10
+00:00:31,783 --> 00:00:33,716
+You know that one's out-of-date.
+
+11
+00:00:33,718 --> 00:00:35,952
+Oh, but I like this computer.
+
+12
+00:00:35,954 --> 00:00:39,622
+The video is failing,
+and the sound is cutting out.
+
+13
+00:00:39,624 --> 00:00:42,024
+I'm sorry, I didn't get that.
+
+14
+00:00:42,026 --> 00:00:44,260
+The video is failing,
+
+15
+00:00:44,262 --> 00:00:46,395
+and the sound is cutting out.
+
+16
+00:00:46,397 --> 00:00:50,600
+I'm sorry, one more time.
+The sound is cutting out.
+
+17
+00:00:54,172 --> 00:00:55,505
+I can't read that!
+
+18
+00:00:55,507 --> 00:00:57,640
+The video is failing!
+
+19
+00:00:57,642 --> 00:01:00,877
+Get a new computer.
+
+20
+00:01:00,879 --> 00:01:02,044
+What?
+
+21
+00:01:02,046 --> 00:01:04,146
+Get a new computer.
+
+22
+00:01:04,148 --> 00:01:05,882
+What?
+
+23
+00:01:08,620 --> 00:01:09,619
+Hello?
+
+24
+00:01:09,621 --> 00:01:11,787
+Get a new computer!
+
+25
+00:01:11,789 --> 00:01:15,424
+♪ Our whole universe
+was in a hot, dense state ♪
+
+26
+00:01:15,426 --> 00:01:18,761
+♪ Then nearly 14 billion years
+ago expansion started... Wait! ♪
+
+27
+00:01:18,763 --> 00:01:20,396
+♪ The Earth began to cool ♪
+
+28
+00:01:20,398 --> 00:01:22,932
+♪ The autotrophs began to drool,
+Neanderthals developed tools ♪
+
+29
+00:01:22,934 --> 00:01:25,601
+♪ We built the Wall ♪
+♪ We built the pyramids ♪
+
+30
+00:01:25,603 --> 00:01:28,271
+♪ Math, Science, History,
+unraveling the mystery ♪
+
+31
+00:01:28,273 --> 00:01:30,172
+♪ That all started
+with a big bang ♪
+
+32
+00:01:30,174 --> 00:01:32,141
+♪ Bang! ♪
+
+33
+00:01:32,165 --> 00:01:36,165
+♪ The Big Bang Theory 9x19 ♪
+The Solder Excursion Diversion
+Original Air Date on March
+
+34
+00:01:36,166 --> 00:01:38,024
+== sync, corrected by elderman ==
+@elder_man
+
+35
+00:01:40,696 --> 00:01:42,095
+This is cool.
+
+36
+00:01:42,097 --> 00:01:44,164
+When was the last time you
+and I built something together?
+
+37
+00:01:44,166 --> 00:01:46,866
+Scientifically?
+A little over a year ago.
+
+38
+00:01:46,868 --> 00:01:49,169
+LEGOs? Last week in my room.
+
+39
+00:01:49,171 --> 00:01:51,705
+If there was a Nobrize
+for Millennium Falcons
+
+40
+00:01:51,707 --> 00:01:54,674
+that fall apart when
+you pick them up, we'd be set.
+
+41
+00:01:54,676 --> 00:01:55,954
+Hey, guys!
+
+42
+00:01:55,955 --> 00:01:56,475
+Hey.
+
+43
+00:01:56,611 --> 00:01:57,711
+What are you doing here?
+
+44
+00:01:57,713 --> 00:01:59,346
+We heard there were
+some sexy scientists
+
+45
+00:01:59,348 --> 00:02:01,247
+working hard all weekend.
+Yeah,
+
+46
+00:02:01,249 --> 00:02:04,718
+so we brought you some lunch and
+we are gonna go look for 'em.
+
+47
+00:02:04,720 --> 00:02:06,753
+Soup, sandwiches
+and emasculation,
+
+48
+00:02:06,755 --> 00:02:08,989
+just like my mom
+used to make.
+
+49
+00:02:08,991 --> 00:02:10,223
+So, how's it goin'?
+
+50
+00:02:10,225 --> 00:02:11,725
+Good. Slow.
+
+51
+00:02:11,727 --> 00:02:13,460
+There's a lot of tedious setup,
+but once we get through that
+
+52
+00:02:13,462 --> 00:02:14,461
+it should go quicker.
+
+53
+00:02:14,463 --> 00:02:16,196
+Is there anything
+we can do to help?
+
+54
+00:02:16,198 --> 00:02:18,331
+You know what,
+this part isn't that technical.
+
+55
+00:02:18,333 --> 00:02:19,432
+You actually could.
+
+56
+00:02:19,434 --> 00:02:22,736
+Wow, really? Called my bluff.
+All righty then.
+
+57
+00:02:22,738 --> 00:02:24,738
+Can we really help?
+
+58
+00:02:24,740 --> 00:02:26,239
+While we finish soldering
+these boards, it'd be great
+
+59
+00:02:26,241 --> 00:02:28,775
+if you guys could wrap these
+pipe fittings with Teflon tape.
+
+60
+00:02:28,777 --> 00:02:29,776
+I'll show you
+how to do one.
+
+61
+00:02:29,778 --> 00:02:31,411
+Hey, w-wouldn't it be funny
+
+62
+00:02:31,413 --> 00:02:32,979
+if after all your years
+of hard work,
+
+63
+00:02:32,981 --> 00:02:36,016
+I'm the one who makes
+a scientific breakthrough?
+
+64
+00:02:39,354 --> 00:02:42,589
+He doesn't think
+that's funny.
+
+65
+00:02:56,371 --> 00:02:58,738
+I got here
+as quickly as I could.
+
+66
+00:02:58,740 --> 00:03:01,041
+You're too late.
+
+67
+00:03:19,895 --> 00:03:22,128
+Sheldon, this is silly.
+
+68
+00:03:22,130 --> 00:03:25,465
+You got emotional
+when that lab monkey died.
+
+69
+00:03:25,467 --> 00:03:29,402
+That lab monkey told me
+he loved me in sign language.
+
+70
+00:03:39,648 --> 00:03:40,947
+Great.
+
+71
+00:03:40,949 --> 00:03:44,284
+Now I'm gonna have that song
+in my head all day.
+
+72
+00:03:45,187 --> 00:03:46,586
+Look, I'm-I'm sorry
+
+73
+00:03:46,588 --> 00:03:48,922
+for your loss, but I think
+
+74
+00:03:48,924 --> 00:03:51,791
+I have something
+that might make you feel better.
+
+75
+00:03:51,793 --> 00:03:54,961
+I got you a new computer!
+
+76
+00:03:56,698 --> 00:03:59,065
+How could you do that?
+
+77
+00:03:59,067 --> 00:04:00,900
+Do what?
+
+78
+00:04:00,902 --> 00:04:04,104
+Choosing a new laptop is
+an incredibly personal ritual.
+
+79
+00:04:04,106 --> 00:04:05,472
+You have taken away
+
+80
+00:04:05,474 --> 00:04:08,341
+weeks of agonizing thought,
+tedious research,
+
+81
+00:04:08,343 --> 00:04:11,711
+sleepless nights filled
+with indecision. I j...
+
+82
+00:04:12,547 --> 00:04:14,714
+Haven't I lost enough today?
+
+83
+00:04:16,017 --> 00:04:20,620
+Well, the guy at the store said
+this one is great.
+
+84
+00:04:20,622 --> 00:04:22,589
+Oh! Oh, the guy!
+
+85
+00:04:22,591 --> 00:04:24,557
+Oh, pardon me.
+
+86
+00:04:24,559 --> 00:04:26,192
+I-I didn't realize
+you'd spoken to the guy.
+
+87
+00:04:26,194 --> 00:04:27,760
+Yeah, tell me,
+
+88
+00:04:27,762 --> 00:04:30,330
+did the guy choose one
+with a 4K display
+
+89
+00:04:30,332 --> 00:04:31,731
+and a Thunderbolt port?
+
+90
+00:04:31,733 --> 00:04:32,932
+Yes.
+Yeah?
+
+91
+00:04:32,934 --> 00:04:34,100
+D-Did the guy make sure
+
+92
+00:04:34,102 --> 00:04:36,870
+that this has a one-terabyte
+solid-state drive?
+
+93
+00:04:36,872 --> 00:04:38,404
+Yes.
+Yeah? Oh, well,
+
+94
+00:04:38,406 --> 00:04:41,608
+was this guy Rick from
+Computer Solutions on Colorado?
+
+95
+00:04:41,610 --> 00:04:42,575
+Yes.
+
+96
+00:04:42,577 --> 00:04:43,943
+Yeah, well,
+he does know his stuff.
+
+97
+00:04:46,982 --> 00:04:48,815
+After you wrap the body
+in reflective tape,
+
+98
+00:04:48,817 --> 00:04:50,984
+the ends get Teflon tape
+so we can get a tight seal.
+
+99
+00:04:50,986 --> 00:04:53,119
+Like this? Oh.
+Yeah, perfect.
+
+100
+00:04:53,121 --> 00:04:54,854
+And it helps to have
+small, delicate fingers.
+
+101
+00:04:54,856 --> 00:04:56,456
+So don't be discouraged
+if you can't do it as fast
+
+102
+00:04:56,458 --> 00:04:58,091
+as me and Howard.
+
+103
+00:04:59,427 --> 00:05:00,793
+I don't know
+if we have enough solder
+
+104
+00:05:00,795 --> 00:05:02,028
+to finish
+these circuit boards.
+
+105
+00:05:02,030 --> 00:05:03,259
+We had a full spool yesterday.
+
+106
+00:05:03,260 --> 00:05:04,061
+What can I say,
+
+107
+00:05:04,065 --> 00:05:06,666
+I play hard,
+I solder even harder.
+
+108
+00:05:08,236 --> 00:05:10,236
+Sometimes he solders at home
+with his shirt off.
+
+109
+00:05:10,238 --> 00:05:12,238
+It's like a beer commercial.
+
+110
+00:05:14,943 --> 00:05:16,943
+Well, we got to make a run
+to the hardware store.
+
+111
+00:05:16,945 --> 00:05:19,245
+How can you call yourself a
+scientist and run out of solder?
+
+112
+00:05:19,247 --> 00:05:22,048
+Well, funny story.
+So, we have plenty
+
+113
+00:05:22,050 --> 00:05:23,983
+of the 60/40
+tin-to-lead ratio solder,
+
+114
+00:05:23,985 --> 00:05:26,645
+but the spools look a lot
+like the 63/37 tin-to...
+
+115
+00:05:26,646 --> 00:05:27,285
+Honey, honey,
+
+116
+00:05:27,289 --> 00:05:30,690
+honey, let me stop you.
+That is-is not a funny story.
+
+117
+00:05:31,826 --> 00:05:33,560
+You want to come with us?
+
+118
+00:05:33,562 --> 00:05:35,085
+I'm kind of getting
+into the groove here.
+
+119
+00:05:35,086 --> 00:05:35,706
+Yeah, you guys run
+
+120
+00:05:35,730 --> 00:05:38,551
+to the store and let the women
+handle the science for a change.
+
+121
+00:05:38,552 --> 00:05:39,230
+Okay.
+
+122
+00:05:39,234 --> 00:05:41,267
+We'll be back
+as soon as we can.
+
+123
+00:05:41,269 --> 00:05:44,537
+Okay, so what...
+
+124
+00:05:44,539 --> 00:05:46,739
+is solder?
+
+125
+00:05:48,910 --> 00:05:51,878
+I suppose I should
+set this up.
+
+126
+00:05:51,880 --> 00:05:55,515
+Or would you like
+to rob me of that, too?
+
+127
+00:05:55,517 --> 00:05:58,484
+Knock it off or I'll start
+making W-H sounds
+
+128
+00:05:58,486 --> 00:06:01,521
+for words
+that just have a W.
+
+129
+00:06:01,523 --> 00:06:02,155
+You wouldn't.
+
+130
+00:06:02,157 --> 00:06:05,491
+"Hwatch" me.
+
+131
+00:06:06,394 --> 00:06:07,794
+Fine. I'm sorry.
+
+132
+00:06:07,796 --> 00:06:09,662
+Thank you for
+the thoughtful gift.
+
+133
+00:06:09,664 --> 00:06:11,264
+I really do appreciate it.
+
+134
+00:06:11,266 --> 00:06:15,668
+As you know, I had become
+attached to my old laptop.
+
+135
+00:06:15,670 --> 00:06:17,203
+But I'm sure, in time,
+that this one will...
+
+136
+00:06:17,205 --> 00:06:19,138
+Jeepers creepers,
+
+137
+00:06:19,140 --> 00:06:21,341
+that started up fast!
+
+138
+00:06:21,343 --> 00:06:23,376
+I thought you might
+like it.
+
+139
+00:06:23,378 --> 00:06:25,578
+Look at the 4K resolution.
+
+140
+00:06:25,580 --> 00:06:27,347
+Next time we Skype,
+I'm gonna count
+
+141
+00:06:27,349 --> 00:06:30,350
+all those nostril hairs.
+
+142
+00:06:30,352 --> 00:06:32,986
+Or you could just look
+into my eyes.
+
+143
+00:06:32,988 --> 00:06:35,088
+But you only have two eyes.
+
+144
+00:06:35,090 --> 00:06:38,224
+You got a lot of nostril hairs.
+
+145
+00:06:38,226 --> 00:06:40,717
+Well, you know,
+as long as you're happy.
+
+146
+00:06:40,741 --> 00:06:42,263
+Oh.
+
+147
+00:06:42,264 --> 00:06:43,730
+I am.
+
+148
+00:06:43,732 --> 00:06:46,366
+And Rick said you could bring in
+your old one to recycle it.
+
+149
+00:06:46,368 --> 00:06:49,269
+Oh. Uh, no, no, no, thank you.
+
+150
+00:06:49,271 --> 00:06:50,870
+Oh, but he said
+you can get store credit.
+
+151
+00:06:50,872 --> 00:06:53,539
+Well, no, I just...
+I-I don't want to recycle it.
+
+152
+00:06:53,541 --> 00:06:55,141
+And I don't want store credit.
+
+153
+00:06:55,143 --> 00:06:56,042
+But why wouldn't...
+
+154
+00:06:56,044 --> 00:06:57,877
+Can we please change
+the subject?
+
+155
+00:06:57,879 --> 00:07:00,446
+O-Okay.
+
+156
+00:07:00,448 --> 00:07:03,783
+How 'bout we change it to why
+you're being weird about this?
+
+157
+00:07:03,785 --> 00:07:04,884
+I'm not being weird.
+
+158
+00:07:04,886 --> 00:07:07,120
+I...
+
+159
+00:07:07,122 --> 00:07:09,122
+It's hard to explain.
+
+160
+00:07:09,124 --> 00:07:13,026
+Sheldon, just tell me.
+
+161
+00:07:13,895 --> 00:07:15,928
+It might be easier to show you.
+
+162
+00:07:15,930 --> 00:07:18,097
+Okay.
+
+163
+00:07:18,967 --> 00:07:21,534
+We'd have to take your car.
+
+164
+00:07:21,536 --> 00:07:23,703
+All right.
+
+165
+00:07:26,074 --> 00:07:29,709
+And I'm gonna need you to sign
+a nondisclosure agreement.
+
+166
+00:07:30,679 --> 00:07:34,047
+Well, I signed one
+before we slept together.
+
+167
+00:07:34,049 --> 00:07:36,215
+Why not now?
+
+168
+00:07:40,255 --> 00:07:43,122
+Penny says they're having fun
+working on the prototype.
+
+169
+00:07:43,124 --> 00:07:46,793
+Remember when her fun was
+nightclubs and drinking games?
+
+170
+00:07:46,795 --> 00:07:49,429
+I know. I'm lowering
+the bar so slowly.
+
+171
+00:07:49,431 --> 00:07:52,565
+This time next year
+she'll have a coin collection.
+
+172
+00:07:52,567 --> 00:07:53,966
+Excuse me.
+
+173
+00:07:53,968 --> 00:07:56,235
+You guys interested in a free
+screening of an upcoming movie?
+
+174
+00:07:56,237 --> 00:07:57,136
+Oh. Sorry, we can't.
+
+175
+00:07:57,138 --> 00:07:59,105
+Well, hang on.
+What movie is it?
+
+176
+00:07:59,107 --> 00:08:01,908
+Oh, I can't tell you.
+But it does star Will Smith.
+
+177
+00:08:01,910 --> 00:08:03,776
+Wait.
+
+178
+00:08:03,778 --> 00:08:05,211
+I bet it's Suicide Squad.
+
+179
+00:08:05,213 --> 00:08:07,013
+Let's check it out.
+
+180
+00:08:07,015 --> 00:08:08,214
+What about the girls?
+
+181
+00:08:08,216 --> 00:08:10,016
+Penny just said
+they're having fun.
+
+182
+00:08:10,018 --> 00:08:12,552
+Honestly, you want to wrap tape
+around a bunch of pipe fittings
+
+183
+00:08:12,554 --> 00:08:14,020
+all afternoon?
+
+184
+00:08:14,989 --> 00:08:16,222
+Okay, we'll take 'em.
+
+185
+00:08:16,224 --> 00:08:18,057
+Okay.
+But, I swear,
+
+186
+00:08:18,059 --> 00:08:20,059
+if it's Will Smith
+in Shark Tale 2,
+
+187
+00:08:20,061 --> 00:08:23,429
+it better be at least as good
+as the original.
+
+188
+00:08:24,666 --> 00:08:26,332
+I mean, it's crazy,
+isn't it?
+
+189
+00:08:26,334 --> 00:08:28,468
+I moved here from Nebraska
+to be an actress,
+
+190
+00:08:28,470 --> 00:08:31,437
+and now I'm sitting
+in an engineering lab at Caltech
+
+191
+00:08:31,439 --> 00:08:35,641
+helping to build a prototype
+for a high-tech guidance system.
+
+192
+00:08:35,643 --> 00:08:37,643
+It is crazy. It's also crazy
+
+193
+00:08:37,645 --> 00:08:41,147
+that I've made 14 of these
+and you've made three.
+
+194
+00:08:44,085 --> 00:08:46,552
+Hey. Where are the guys?
+
+195
+00:08:46,554 --> 00:08:47,954
+Oh, they went to the store
+to get solder,
+
+196
+00:08:47,956 --> 00:08:51,557
+which is metal you melt
+to make science things.
+
+197
+00:08:52,460 --> 00:08:54,060
+Since when
+do you work on weekends?
+
+198
+00:08:54,062 --> 00:08:55,561
+I'm an astrophysicist.
+
+199
+00:08:55,563 --> 00:08:57,830
+The stars don't take a day off.
+
+200
+00:08:57,832 --> 00:09:00,633
+You were home alone
+and had no one to play with?
+
+201
+00:09:00,635 --> 00:09:03,903
+Well, the cleaning lady was
+there, but she doesn't like me.
+
+202
+00:09:05,073 --> 00:09:06,439
+You need any help?
+
+203
+00:09:06,441 --> 00:09:09,075
+Not with
+Lightning McQueen here.
+
+204
+00:09:09,077 --> 00:09:10,810
+I think we're good.
+
+205
+00:09:10,812 --> 00:09:12,378
+Okay. That's cool.
+
+206
+00:09:12,380 --> 00:09:14,714
+I guess everybody's involved
+in this project but me.
+
+207
+00:09:14,716 --> 00:09:17,483
+So... see ya.
+
+208
+00:09:20,155 --> 00:09:21,187
+I feel bad.
+
+209
+00:09:21,189 --> 00:09:22,255
+Should we have asked him
+to stay?
+
+210
+00:09:22,257 --> 00:09:24,424
+Yes.
+
+211
+00:09:27,595 --> 00:09:29,996
+Will you please tell me
+where we're going?
+
+212
+00:09:29,998 --> 00:09:33,666
+Sorry, you're on
+a need-to-know basis.
+
+213
+00:09:34,602 --> 00:09:35,902
+I'm driving the car.
+
+214
+00:09:35,904 --> 00:09:38,271
+I need to know.
+
+215
+00:09:38,273 --> 00:09:39,338
+Right.
+
+216
+00:09:39,340 --> 00:09:41,040
+So where are we going?
+
+217
+00:09:41,042 --> 00:09:44,544
+No, I meant turn right,
+and you missed it.
+
+218
+00:09:44,546 --> 00:09:47,213
+Maybe you do need to know.
+
+219
+00:09:51,553 --> 00:09:52,752
+What are we gonna tell
+the girls?
+
+220
+00:09:52,754 --> 00:09:53,920
+It's not a problem.
+
+221
+00:09:53,922 --> 00:09:55,054
+I mean without lying.
+
+222
+00:09:55,056 --> 00:09:57,423
+And now you've made it
+a problem.
+
+223
+00:09:57,425 --> 00:09:59,492
+Come on. We're
+a couple of smart guys.
+
+224
+00:09:59,494 --> 00:10:01,360
+I'm sure we can come up
+with a way to explain this
+
+225
+00:10:01,362 --> 00:10:03,029
+that doesn't make us
+look bad.
+
+226
+00:10:04,899 --> 00:10:06,833
+Oh!
+
+227
+00:10:06,835 --> 00:10:08,634
+The boys had to drive
+all the way to San Bernardino
+
+228
+00:10:08,636 --> 00:10:10,470
+for the solder and got a flat.
+
+229
+00:10:13,575 --> 00:10:15,975
+They bought it.
+
+230
+00:10:15,977 --> 00:10:17,543
+But we're gonna have to
+
+231
+00:10:17,545 --> 00:10:19,178
+put the spare on
+before we go back.
+
+232
+00:10:19,180 --> 00:10:20,880
+Oh, you're good at this.
+
+233
+00:10:20,882 --> 00:10:23,216
+Well, I lie a lot.
+
+234
+00:10:24,052 --> 00:10:25,718
+Hey, guys, thank you
+
+235
+00:10:25,720 --> 00:10:27,653
+for being a part of our
+test screening. You're about
+
+236
+00:10:27,655 --> 00:10:30,356
+to be one of the first audiences
+to see Suicide Squad.
+
+237
+00:10:30,358 --> 00:10:32,325
+Hey!
+
+238
+00:10:32,327 --> 00:10:33,593
+You were right.
+
+239
+00:10:33,595 --> 00:10:34,727
+Oh, I keep telling you...
+
+240
+00:10:34,729 --> 00:10:38,264
+good things happen
+to bad people.
+
+241
+00:10:38,266 --> 00:10:40,299
+Uh, we're gonna get started
+in a couple minutes. Enjoy.
+
+242
+00:10:40,301 --> 00:10:42,368
+Who are you texting?
+
+243
+00:10:42,370 --> 00:10:44,804
+Raj. He really wants
+to see this movie.
+
+244
+00:10:44,806 --> 00:10:46,772
+Oh, he'll never
+make it in time.
+
+245
+00:10:46,774 --> 00:10:49,642
+I know.
+I want to make him feel bad.
+
+246
+00:10:51,012 --> 00:10:54,480
+"Ha, ha. Leonard and I are
+about to see Suicide Squad.
+
+247
+00:10:54,482 --> 00:10:58,317
+Spoiler alert: when I see you
+I'm gonna spoil it."
+
+248
+00:10:58,319 --> 00:11:00,186
+You're a good friend.
+
+249
+00:11:07,829 --> 00:11:10,162
+Okay.
+
+250
+00:11:11,299 --> 00:11:15,968
+Would you ladies please
+leave the room for a moment?
+
+251
+00:11:15,970 --> 00:11:17,904
+Why?
+
+252
+00:11:17,906 --> 00:11:21,874
+I need to rub my genitals
+on their prototype.
+
+253
+00:11:21,876 --> 00:11:24,176
+What's going on?
+
+254
+00:11:24,178 --> 00:11:26,546
+Leonard and Howard
+don't have a flat.
+
+255
+00:11:26,548 --> 00:11:28,748
+They went to the movies. Look.
+
+256
+00:11:29,684 --> 00:11:31,417
+Son of a bitch.
+Un-freakin' believable.
+
+257
+00:11:31,419 --> 00:11:33,686
+Oh. You know what?
+I'm gonna let them know
+
+258
+00:11:33,688 --> 00:11:35,988
+that I'm here with you
+and that they're busted.
+
+259
+00:11:35,990 --> 00:11:37,290
+No. You know what? Don't. Don't.
+
+260
+00:11:37,292 --> 00:11:38,791
+Let's let them think
+they're getting away with it.
+
+261
+00:11:38,793 --> 00:11:41,861
+Yeah, let's see how deep a hole
+they can dig for themselves.
+
+262
+00:11:41,863 --> 00:11:43,329
+Mm-hmm.
+Interesting.
+
+263
+00:11:43,331 --> 00:11:45,464
+I mean, it's not testicles
+on a cryostat,
+
+264
+00:11:45,466 --> 00:11:47,667
+but I like it.
+
+265
+00:11:55,851 --> 00:11:58,018
+Why do you have
+a storage unit?
+
+266
+00:11:58,020 --> 00:11:59,987
+Just wait.
+
+267
+00:11:59,989 --> 00:12:02,089
+How long have you had it?
+
+268
+00:12:03,726 --> 00:12:04,925
+Just wait.
+
+269
+00:12:05,462 --> 00:12:07,662
+Do you want me to hold
+that computer?
+
+270
+00:12:07,664 --> 00:12:10,498
+Just wai... You know what?
+Actually, yes, thank you.
+
+271
+00:12:18,441 --> 00:12:21,743
+Welcome to my Fortress of Shame.
+
+272
+00:12:26,783 --> 00:12:28,016
+I'm sorry.
+
+273
+00:12:28,018 --> 00:12:30,318
+What-what am I looking at?
+
+274
+00:12:30,320 --> 00:12:33,655
+It's basically everything
+I've ever owned.
+
+275
+00:12:33,657 --> 00:12:36,457
+Um, every book,
+
+276
+00:12:36,459 --> 00:12:40,461
+every T-shirt, every piece
+of broken electronics.
+
+277
+00:12:40,463 --> 00:12:43,631
+Just... all of it.
+
+278
+00:12:46,536 --> 00:12:49,137
+All of it?
+
+279
+00:12:49,139 --> 00:12:51,039
+I have a Ziploc bag
+
+280
+00:12:51,041 --> 00:12:54,209
+filled with all
+my old Ziploc bags.
+
+281
+00:13:00,183 --> 00:13:02,917
+Okay.
+
+282
+00:13:02,919 --> 00:13:04,986
+Well...
+
+283
+00:13:04,988 --> 00:13:07,055
+I would like to tell you
+
+284
+00:13:07,057 --> 00:13:09,824
+that there is
+
+285
+00:13:09,826 --> 00:13:13,795
+nothing here to be ashamed of.
+
+286
+00:13:15,031 --> 00:13:17,198
+So I'm gonna need a minute.
+
+287
+00:13:22,005 --> 00:13:24,906
+All right, how are we gonna
+play this when they return?
+
+288
+00:13:24,908 --> 00:13:26,374
+I know.
+
+289
+00:13:26,376 --> 00:13:29,544
+You guys should totally
+be making out with me.
+
+290
+00:13:31,681 --> 00:13:34,082
+Sweetie, I know you think
+jokes like that are funny,
+
+291
+00:13:34,084 --> 00:13:35,817
+but do you really think
+you could handle
+
+292
+00:13:35,819 --> 00:13:37,252
+making out with both of us?
+
+293
+00:13:38,922 --> 00:13:40,255
+No, ma'am.
+
+294
+00:13:42,859 --> 00:13:45,260
+Okay. Okay,
+how about this?
+
+295
+00:13:45,262 --> 00:13:46,361
+They don't know
+you're here with us,
+
+296
+00:13:46,363 --> 00:13:48,596
+so you hide in the closet.
+When they show up,
+
+297
+00:13:48,598 --> 00:13:50,164
+we'll hear
+whatever their dumb story is
+
+298
+00:13:50,166 --> 00:13:52,000
+about where they were,
+we'll pretend to believe them,
+
+299
+00:13:52,002 --> 00:13:54,736
+and just when they think they
+got away with it, you jump out.
+
+300
+00:13:54,738 --> 00:13:56,638
+Yeah, that's pretty good.
+I love it!
+
+301
+00:13:56,640 --> 00:13:58,873
+I'll be all like, "Busted!"
+
+302
+00:13:58,875 --> 00:14:00,341
+And they'll be like, "What?"
+
+303
+00:14:00,343 --> 00:14:03,378
+And then we'll all be like,
+"Oh, yeah!"
+
+304
+00:14:04,781 --> 00:14:06,114
+Yeah, I-I get it.
+
+305
+00:14:06,116 --> 00:14:08,316
+I wouldn't make out
+with me, either.
+
+306
+00:14:10,654 --> 00:14:13,621
+In here is every clock radio
+I've ever owned.
+
+307
+00:14:13,623 --> 00:14:15,523
+Calculators, VHS tapes.
+
+308
+00:14:15,525 --> 00:14:16,925
+Yeah. Oh.
+
+309
+00:14:16,927 --> 00:14:19,127
+Sporting equipment.
+
+310
+00:14:21,131 --> 00:14:23,364
+Y-You have sporting equipment?
+
+311
+00:14:23,366 --> 00:14:25,700
+Well, oh, it's just a...
+it's a... a golf ball
+
+312
+00:14:25,702 --> 00:14:27,702
+that my brother
+threw at my head.
+
+313
+00:14:27,704 --> 00:14:30,471
+You can still
+feel the dent.
+
+314
+00:14:30,473 --> 00:14:33,741
+It's right next to
+the hockey puck dent.
+
+315
+00:14:36,112 --> 00:14:38,680
+Okay, why do you have
+a bin of pinecones?
+
+316
+00:14:38,682 --> 00:14:41,115
+I used to collect
+them as a child.
+
+317
+00:14:41,117 --> 00:14:43,418
+The spiral of scales open in
+
+318
+00:14:43,420 --> 00:14:45,153
+the Fibonacci sequence.
+
+319
+00:14:45,155 --> 00:14:47,055
+A fact that,
+when you tell your brother,
+
+320
+00:14:47,057 --> 00:14:49,991
+gets a golf ball
+thrown at your head.
+
+321
+00:14:52,295 --> 00:14:56,864
+So, why do you feel
+you need to save these things?
+
+322
+00:14:56,866 --> 00:14:59,100
+I'd like to say it's nostalgia,
+
+323
+00:14:59,102 --> 00:15:02,170
+but every time I think
+of throwing anything away,
+
+324
+00:15:02,172 --> 00:15:03,738
+my ears start to ring,
+
+325
+00:15:03,740 --> 00:15:05,940
+and I get butterflies
+in my stomach.
+
+326
+00:15:05,942 --> 00:15:07,408
+And then it feels like
+
+327
+00:15:07,410 --> 00:15:09,610
+the butterflies
+get eaten by rats,
+
+328
+00:15:09,612 --> 00:15:11,846
+and then, the-the rats
+get eaten by...
+
+329
+00:15:11,848 --> 00:15:12,814
+Okay.
+
+330
+00:15:12,816 --> 00:15:14,449
+I get it. I get it.
+
+331
+00:15:14,451 --> 00:15:17,352
+It ends with dinosaurs.
+
+332
+00:15:19,389 --> 00:15:22,156
+I'm sorry
+if you think less of me.
+
+333
+00:15:23,059 --> 00:15:24,993
+I don't.
+
+334
+00:15:24,995 --> 00:15:26,794
+Really?
+
+335
+00:15:26,796 --> 00:15:28,796
+'Cause every time
+I come in here,
+
+336
+00:15:28,798 --> 00:15:30,698
+I think less of me.
+
+337
+00:15:30,700 --> 00:15:32,066
+Why?
+
+338
+00:15:32,068 --> 00:15:33,901
+Because I'm a fraud.
+
+339
+00:15:33,903 --> 00:15:35,336
+No. I purport
+
+340
+00:15:35,338 --> 00:15:37,171
+to be a man of the mind.
+
+341
+00:15:37,173 --> 00:15:40,908
+I've been such a-a vocal
+champion of The Singularity,
+
+342
+00:15:40,910 --> 00:15:42,744
+but how can I leave
+my body behind
+
+343
+00:15:42,746 --> 00:15:45,013
+and become one
+with the Internet
+
+344
+00:15:45,015 --> 00:15:47,715
+when I've never even thrown
+a toothbrush away?
+
+345
+00:15:49,919 --> 00:15:51,719
+It's okay, Sheldon.
+
+346
+00:15:51,721 --> 00:15:55,156
+You know, I... I've saved
+a lot of weird things, too.
+
+347
+00:15:55,158 --> 00:15:57,358
+Like what?
+
+348
+00:15:57,360 --> 00:15:59,293
+Well, um,
+
+349
+00:15:59,295 --> 00:16:02,697
+did you know
+I have a microscope slide
+
+350
+00:16:02,699 --> 00:16:04,132
+with a little bit of tissue
+
+351
+00:16:04,134 --> 00:16:07,135
+from the first brain
+I ever dissected?
+
+352
+00:16:07,137 --> 00:16:09,337
+I have an old teddy bear
+
+353
+00:16:09,339 --> 00:16:11,939
+I secretly wiped my nose on
+for years.
+
+354
+00:16:18,848 --> 00:16:21,416
+It's not a contest.
+
+355
+00:16:23,686 --> 00:16:26,254
+Okay, here they come.
+Go hide.
+
+356
+00:16:26,256 --> 00:16:28,322
+Oh, man, when I come out
+of the closet,
+
+357
+00:16:28,324 --> 00:16:30,925
+I'm gonna nail those guys!
+
+358
+00:16:33,029 --> 00:16:35,029
+Yeah, I heard it. Shut up.
+
+359
+00:16:40,470 --> 00:16:41,769
+Hey.
+Hi.
+
+360
+00:16:41,771 --> 00:16:43,805
+Hey, what's this?
+
+361
+00:16:43,807 --> 00:16:45,740
+Listen, we did a stupid thing.
+
+362
+00:16:45,742 --> 00:16:49,544
+We went to a movie and
+lied about it, but we feel bad
+
+363
+00:16:49,546 --> 00:16:51,245
+and want to make it up
+to you.
+
+364
+00:16:51,247 --> 00:16:53,014
+So, these are for you,
+and if you're not too mad,
+
+365
+00:16:53,016 --> 00:16:54,241
+we'd love to take
+you guys to dinner.
+
+366
+00:16:54,242 --> 00:16:54,770
+Yeah.
+
+367
+00:16:54,784 --> 00:16:57,185
+Anywhere you want.
+Oh. Well,
+
+368
+00:16:57,187 --> 00:16:59,287
+- thank you for being honest.
+- Yeah. You know,
+
+369
+00:16:59,289 --> 00:17:00,755
+I want to be upset, but we did
+
+370
+00:17:00,757 --> 00:17:02,223
+kind of have fun
+working on the prototype.
+
+371
+00:17:02,225 --> 00:17:04,392
+Don't forgive them!
+Stay mad at them!
+
+372
+00:17:05,795 --> 00:17:07,862
+What is he doing
+in there?
+
+373
+00:17:07,864 --> 00:17:10,998
+Busting you!
+
+374
+00:17:12,268 --> 00:17:13,668
+It's okay.
+They apologized.
+
+375
+00:17:13,670 --> 00:17:14,836
+Yeah, it's fine.
+
+376
+00:17:14,838 --> 00:17:18,973
+Well this is kind
+of anti-climactic.
+
+377
+00:17:19,976 --> 00:17:21,576
+You know what
+wasn't anti-climactic?
+
+378
+00:17:21,578 --> 00:17:23,277
+The end of the movie. Get this.
+
+379
+00:17:23,279 --> 00:17:25,346
+No spoilers! No spoilers!
+
+380
+00:17:26,216 --> 00:17:28,382
+And he's back
+in the closet.
+
+381
+00:17:29,752 --> 00:17:32,320
+Ready for dinner?
+
+382
+00:17:32,322 --> 00:17:34,522
+Yeah.
+
+383
+00:17:36,526 --> 00:17:38,259
+Should we invite Raj?
+
+384
+00:17:38,261 --> 00:17:40,595
+Yes.
+
+385
+00:17:42,765 --> 00:17:45,032
+So, no one else knows
+about this?
+
+386
+00:17:45,034 --> 00:17:47,235
+Only you.
+
+387
+00:17:48,838 --> 00:17:51,439
+Thank you for trusting me.
+
+388
+00:17:51,441 --> 00:17:53,441
+What good is having
+a girlfriend
+
+389
+00:17:53,443 --> 00:17:56,177
+if you can't unload your
+psychological sewage on her?
+
+390
+00:17:57,580 --> 00:18:00,181
+That's me,
+your emotional outhouse.
+
+391
+00:18:01,918 --> 00:18:03,818
+You know,
+
+392
+00:18:03,820 --> 00:18:07,488
+if you ever decide you want
+to do something about this,
+
+393
+00:18:07,490 --> 00:18:09,157
+I'm-I'm here for you.
+
+394
+00:18:09,159 --> 00:18:11,425
+Thank you.
+
+395
+00:18:11,427 --> 00:18:13,728
+I wouldn't even know
+how to begin.
+
+396
+00:18:13,730 --> 00:18:16,364
+Baby steps, I guess.
+
+397
+00:18:16,366 --> 00:18:18,833
+Mm.
+
+398
+00:18:25,308 --> 00:18:28,442
+I suppose I could try
+getting rid of the golf ball.
+
+399
+00:18:29,245 --> 00:18:31,179
+Oh. Okay.
+
+400
+00:18:32,182 --> 00:18:35,016
+I will always have the dent
+to remember it by.
+
+401
+00:18:50,667 --> 00:18:52,366
+You did it.
+
+402
+00:18:52,368 --> 00:18:54,569
+Do you feel okay?
+
+403
+00:18:55,605 --> 00:18:57,772
+Actually, yes.
+
+404
+00:18:58,975 --> 00:19:00,408
+I do.
+
+405
+00:19:01,311 --> 00:19:03,110
+Well, I'm proud of you.
+
+406
+00:19:03,112 --> 00:19:05,313
+Oh. Thanks.
+
+407
+00:19:22,295 --> 00:19:26,030
+I'm glad I told you
+about the storage unit.
+
+408
+00:19:26,032 --> 00:19:27,932
+Well, I feel closer to you now.
+
+409
+00:19:28,587 --> 00:19:30,754
+Oh, I feel closer to you, too.
+
+410
+00:19:30,756 --> 00:19:32,022
+You know,
+
+411
+00:19:32,024 --> 00:19:35,659
+it's still a couple
+of hours until my bedtime.
+
+412
+00:19:42,434 --> 00:19:45,068
+What did you have in mind?
+
+413
+00:19:45,070 --> 00:19:47,504
+You look amazing.
+
+414
+00:19:50,976 --> 00:19:55,545
+I mean,
+this resolution is remarkable.
+
+415
+00:19:56,482 --> 00:20:00,017
+I really had to go home
+for this?
+
+416
+00:20:00,019 --> 00:20:04,354
+Yes, but it's like
+you're right here in the room.
+
+417
+00:20:04,356 --> 00:20:07,457
+And yet, I'm not.
+
+418
+00:20:07,459 --> 00:20:11,028
+But I feel like I could
+reach out and touch you.
+
+419
+00:20:11,030 --> 00:20:13,196
+And yet, you can't.
+
+420
+00:20:15,000 --> 00:20:16,867
+I know!
+
+421
+00:20:19,685 --> 00:20:26,185
+== sync, corrected by elderman ==
+@elder_man
+

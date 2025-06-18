@@ -1,0 +1,1612 @@
+1
+00:00:02,669 --> 00:00:04,144
+- T'as tort.
+- Non.
+
+2
+00:00:04,269 --> 00:00:05,775
+- Mais si !
+- Mais non.
+
+3
+00:00:06,506 --> 00:00:08,829
+À ton avis, les images animées,
+sur Internet,
+
+4
+00:00:08,954 --> 00:00:10,970
+on appelle ça
+des "guif" ou des "jif" ?
+
+5
+00:00:11,136 --> 00:00:12,836
+Le "g", c'est pour <i>graphic</i>,
+
+6
+00:00:12,961 --> 00:00:14,473
+donc je dirais "guif".
+
+7
+00:00:15,085 --> 00:00:17,413
+Le gus qui les a inventés
+dit que c'est "jif".
+
+8
+00:00:17,538 --> 00:00:20,156
+Attends, tu veux dire
+le gus ou le "jusse" ?
+
+9
+00:00:22,221 --> 00:00:24,111
+{\pos(192,205)}Vous avez le droit
+à trois propositions
+
+10
+00:00:24,236 --> 00:00:26,235
+pour deviner la raison
+de ma frustration.
+
+11
+00:00:26,401 --> 00:00:28,990
+{\pos(192,225)}Quelque chose s'est pas passé
+comme tu le voulais.
+
+12
+00:00:31,215 --> 00:00:32,700
+Les nouvelles vont vite.
+
+13
+00:00:34,117 --> 00:00:37,972
+{\pos(192,225)}Des scientifiques triés sur le volet
+ont été invités à un symposium
+
+14
+00:00:38,097 --> 00:00:40,791
+{\pos(192,225)}dans l'ancienne demeure
+de Richard Feynman, mais pas moi.
+
+15
+00:00:42,598 --> 00:00:45,421
+{\pos(192,225)}Ça n'a rien à voir
+avec l'estime qu'ils te portent.
+
+16
+00:00:45,587 --> 00:00:48,576
+{\pos(192,225)}Oui, ne t'inquiète pas,
+ils te trouvent juste chiant.
+
+17
+00:00:50,206 --> 00:00:52,094
+Tu dis ça pour me remonter le moral.
+
+18
+00:00:53,511 --> 00:00:56,023
+{\pos(192,225)}Tu peux passer
+le reste de la journée à bouder...
+
+19
+00:00:56,148 --> 00:00:57,149
+{\pos(192,225)}Entendu.
+
+20
+00:00:58,586 --> 00:01:01,103
+Il y avait une deuxième option,
+mais qu'importe.
+
+21
+00:01:02,048 --> 00:01:03,148
+Giggity Team
+
+22
+00:01:04,268 --> 00:01:06,418
+www.u-sub.net
+www.giggityteam.fr
+
+23
+00:01:09,423 --> 00:01:12,015
+benji1000, BJAM1M, hemhel
+
+24
+00:01:24,714 --> 00:01:27,964
+{\pub}{\fad(400,400)}Saison 8 - Épisode 20
+<i>The Fortification Implementation</i>
+
+25
+00:01:32,306 --> 00:01:34,006
+J'ai un cadeau pour toi.
+
+26
+00:01:34,557 --> 00:01:36,722
+Ça en fait, des cookies.
+
+27
+00:01:36,888 --> 00:01:38,229
+Je suis indien.
+
+28
+00:01:38,354 --> 00:01:40,601
+Je résiste pas
+aux enfants qui quémandent.
+
+29
+00:01:42,299 --> 00:01:44,188
+Comment ça va, avec la maison ?
+
+30
+00:01:44,354 --> 00:01:47,723
+Bien, l'avocat a trouvé mon père
+et lui a fait signer les papiers.
+
+31
+00:01:47,848 --> 00:01:49,485
+J'ai pas eu à lui parler.
+
+32
+00:01:49,651 --> 00:01:51,153
+Je sais même pas où il est.
+
+33
+00:01:52,288 --> 00:01:54,156
+{\pos(192,205)}T'es pas du tout curieux ?
+
+34
+00:01:55,850 --> 00:01:58,577
+Et s'il était en prison ?
+Ou si c'était un espion ?
+
+35
+00:01:59,049 --> 00:02:01,288
+Ou s'il reprenait
+les chansons des Beatles ?
+
+36
+00:02:02,664 --> 00:02:04,932
+{\pos(192,205)}S'il a ton nez
+et ta coupe de cheveux,
+
+37
+00:02:05,057 --> 00:02:06,794
+{\pos(192,205)}il ferait un parfait Ringo.
+
+38
+00:02:09,692 --> 00:02:11,037
+{\pos(192,205)}Merci d'avoir accepté.
+
+39
+00:02:11,162 --> 00:02:13,734
+{\pos(192,205)}C'est cool, j'ai jamais participé
+à un podcast.
+
+40
+00:02:13,859 --> 00:02:15,386
+Celui de Wil est très bien.
+
+41
+00:02:15,552 --> 00:02:18,838
+{\pos(192,205)}Il a eu plein d'invités prestigieux :
+Jonathan Frakes, Brent Spiner,
+
+42
+00:02:18,963 --> 00:02:20,891
+Michael Dorn, Gates McFadden...
+
+43
+00:02:21,322 --> 00:02:22,893
+C'est des mecs de <i>Star Trek</i>.
+
+44
+00:02:24,144 --> 00:02:26,605
+Je m'en suis douté,
+vu que j'en connais aucun.
+
+45
+00:02:28,381 --> 00:02:31,470
+{\pos(192,205)}C'est mérité, vu que je t'invite
+et que je suis venu jusqu'ici.
+
+46
+00:02:32,402 --> 00:02:33,487
+Désolée.
+
+47
+00:02:33,653 --> 00:02:36,240
+{\pos(192,205)}Ça va se passer
+comme une émission de divertissement.
+
+48
+00:02:36,406 --> 00:02:37,908
+On va prendre des appels,
+
+49
+00:02:38,074 --> 00:02:40,871
+on discutera du tournage
+de <i>L'attaque du gorille mutant 2</i>...
+
+50
+00:02:40,996 --> 00:02:41,912
+Que du bon.
+
+51
+00:02:42,300 --> 00:02:44,540
+- C'est sympa !
+- T'as combien d'auditeurs ?
+
+52
+00:02:44,706 --> 00:02:47,876
+{\pos(192,205)}La plupart télécharge le podcast.
+En direct, je dirais quelques milliers.
+
+53
+00:02:48,299 --> 00:02:51,687
+{\pos(192,205)}Plusieurs milliers de gens
+t'écoutent parler de trucs de geeks ?
+
+54
+00:02:55,133 --> 00:02:57,720
+Ça entre par les oreilles,
+et ça va droit au cœur.
+
+55
+00:03:01,188 --> 00:03:02,508
+Tu me passes le sel ?
+
+56
+00:03:05,023 --> 00:03:07,460
+C'est pas comme si j'avais été invité
+chez Richard Feynman
+
+57
+00:03:07,585 --> 00:03:09,607
+et que j'avais mieux à faire.
+
+58
+00:03:10,488 --> 00:03:12,443
+{\pos(192,50)}Tu vas faire la tête
+toute la soirée ?
+
+59
+00:03:12,848 --> 00:03:14,448
+Je ne suis pas voyant.
+
+60
+00:03:16,827 --> 00:03:20,082
+{\pos(192,50)}Tu crois que ce serait possible
+qu'un astéroïde percute la Terre
+
+61
+00:03:20,207 --> 00:03:22,581
+{\pos(192,205)}et détruise la maison de Feynman
+et ses occupants ?
+
+62
+00:03:25,872 --> 00:03:28,316
+Alors mets ta ceinture,
+car c'est soirée grincheux.
+
+63
+00:03:29,636 --> 00:03:33,548
+Selon un article du Pacte de Relation
+sur lequel tu as insisté,
+
+64
+00:03:33,673 --> 00:03:36,050
+on n'a pas le droit de bouder
+pendant la soirée rencard.
+
+65
+00:03:36,561 --> 00:03:39,619
+Tu sais bien que j'ai mis ça
+pour tes problèmes féminins.
+
+66
+00:03:42,193 --> 00:03:43,682
+Ça s'applique aussi à toi.
+
+67
+00:03:44,645 --> 00:03:46,393
+J'avais prévu que tu m'en parles.
+
+68
+00:03:47,983 --> 00:03:50,025
+J'ai trouvé une solution.
+
+69
+00:03:54,833 --> 00:03:55,834
+Voilà.
+
+70
+00:04:01,369 --> 00:04:04,039
+Tout ce que tu as à savoir,
+c'est que je souris.
+
+71
+00:04:05,787 --> 00:04:07,888
+Bien que, je dois l'admettre,
+je souris un peu
+
+72
+00:04:08,013 --> 00:04:09,708
+car cette astuce est ingénieuse.
+
+73
+00:04:13,571 --> 00:04:16,738
+Tu as réfléchi à la manière
+dont tu allais redécorer cette pièce ?
+
+74
+00:04:17,266 --> 00:04:20,012
+Je pensais arracher la moquette,
+
+75
+00:04:20,137 --> 00:04:21,553
+enlever ce papier-peint,
+
+76
+00:04:21,719 --> 00:04:22,963
+acheter un lustre...
+
+77
+00:04:23,088 --> 00:04:26,433
+Tu sais, en abattant ce mur,
+tu aurais une belle surface.
+
+78
+00:04:27,749 --> 00:04:30,218
+Ça peut faire peur,
+mais ça pourrait être sympa...
+
+79
+00:04:30,947 --> 00:04:32,597
+Un brasero d'intérieur.
+
+80
+00:04:35,836 --> 00:04:37,816
+Hé, j'ai grandi ici.
+
+81
+00:04:37,941 --> 00:04:40,114
+Personne ne va abattre
+quoi que ce soit.
+
+82
+00:04:42,179 --> 00:04:45,043
+Quand il sera à la Comic-Con,
+je ferai venir un boulet de démolition.
+
+83
+00:04:48,786 --> 00:04:51,667
+- Je peux vous aider ?
+- C'est toi, Howard Wolowitz ?
+
+84
+00:04:53,376 --> 00:04:57,159
+C'est un peu bizarre, mais un avocat
+voulait contacter mon père
+
+85
+00:04:57,284 --> 00:04:59,633
+car il est toujours
+copropriétaire de cette maison.
+
+86
+00:05:01,234 --> 00:05:03,971
+- Qui est ton père ?
+- Sam Wolowitz.
+
+87
+00:05:05,969 --> 00:05:07,583
+Sam Wolowitz est mon père.
+
+88
+00:05:08,099 --> 00:05:08,892
+Je sais.
+
+89
+00:05:10,579 --> 00:05:13,814
+Attends, si on a le même père...
+
+90
+00:05:15,023 --> 00:05:17,109
+Tu veux dire
+que t'es mon demi-frère ?
+
+91
+00:05:17,749 --> 00:05:18,944
+Je crois bien.
+
+92
+00:05:20,403 --> 00:05:23,073
+Bernadette, il se passe
+des choses bizarres, par ici !
+
+93
+00:05:26,745 --> 00:05:29,554
+J'ai commencé à me dire
+que ça allait être un mauvais film
+
+94
+00:05:29,679 --> 00:05:32,319
+quand j'ai regardé le script
+et que j'ai vu le titre.
+
+95
+00:05:34,089 --> 00:05:37,439
+<i>L'attaque du gorille mutant 2 :
+singe voir, singe tuer</i>.
+
+96
+00:05:38,653 --> 00:05:41,603
+Spoiler : quand le singe
+vous a vu, il vous tue.
+
+97
+00:05:44,816 --> 00:05:46,385
+On me donne un petit mot.
+
+98
+00:05:46,510 --> 00:05:47,828
+Je vais vous le lire.
+
+99
+00:05:48,604 --> 00:05:50,808
+"Wil, tu veux du Coca Light ?
+
+100
+00:05:52,966 --> 00:05:54,643
+"On a aussi des jus de fruits."
+
+101
+00:05:57,500 --> 00:05:59,114
+Je voulais pas vous déranger.
+
+102
+00:06:00,945 --> 00:06:04,503
+Cette voix est celle de Leonard,
+le fiancé de Penny.
+
+103
+00:06:04,628 --> 00:06:06,241
+Et si tu nous rejoignais ?
+
+104
+00:06:06,901 --> 00:06:07,701
+Sûr ?
+
+105
+00:06:08,399 --> 00:06:09,268
+Génial !
+
+106
+00:06:09,393 --> 00:06:10,871
+Pendant qu'il s'installe,
+
+107
+00:06:11,208 --> 00:06:12,456
+prenons un appel.
+
+108
+00:06:12,622 --> 00:06:14,124
+Bonjour, vous êtes à l'antenne
+
+109
+00:06:14,290 --> 00:06:16,460
+avec Penny et Wil
+de <i>L'attaque du gorille mutant</i>.
+
+110
+00:06:16,761 --> 00:06:19,838
+<i>En fait, j'ai pas de question.
+Mais je suis vraiment fan du film.</i>
+
+111
+00:06:20,004 --> 00:06:21,465
+<i>J'ai dû le voir dix fois.</i>
+
+112
+00:06:22,477 --> 00:06:26,136
+Désolée pour la première fois,
+mais les autres, c'est de votre faute.
+
+113
+00:06:28,066 --> 00:06:29,153
+Merci beaucoup.
+
+114
+00:06:29,278 --> 00:06:31,642
+Tu sais, certains vouent
+une sorte de culte au film.
+
+115
+00:06:31,808 --> 00:06:32,810
+Ah bon ?
+
+116
+00:06:32,976 --> 00:06:34,968
+Lors d'une convention
+de science-fiction,
+
+117
+00:06:35,093 --> 00:06:37,439
+j'ai vu une femme
+costumée en singe mutant.
+
+118
+00:06:39,107 --> 00:06:41,256
+Si elle était avec un Indien
+déguisé en banane,
+
+119
+00:06:41,381 --> 00:06:43,119
+c'était mes amis, Howard et Raj.
+
+120
+00:06:45,335 --> 00:06:47,407
+Accueillons notre premier invité,
+
+121
+00:06:47,573 --> 00:06:48,992
+c'est mon ami,
+
+122
+00:06:49,158 --> 00:06:51,328
+il est l'auteur
+de films comme <i>Clerks</i>,
+
+123
+00:06:51,453 --> 00:06:53,037
+et aussi de podcasts et de livres
+
+124
+00:06:53,162 --> 00:06:55,958
+dans lesquels il nous rappelle
+qu'il a réalisé <i>Clerks</i>.
+
+125
+00:06:56,414 --> 00:06:57,623
+Bonjour, Kevin Smith.
+
+126
+00:06:57,748 --> 00:06:59,211
+<i>Salut, mec, tout va bien ?</i>
+
+127
+00:06:59,687 --> 00:07:01,627
+<i>C'est commencé depuis deux minutes,</i>
+
+128
+00:07:01,752 --> 00:07:04,304
+<i>et t'as pas encore parlé
+de</i> Stand By Me.
+
+129
+00:07:06,290 --> 00:07:08,762
+Salut, Kevin.
+Je suis ravie de te parler.
+
+130
+00:07:08,928 --> 00:07:09,972
+Moi aussi.
+
+131
+00:07:10,138 --> 00:07:11,932
+<i>Vous êtes trop gentils.
+Écoute, Penny.</i>
+
+132
+00:07:12,098 --> 00:07:13,448
+<i>J'ai vu ton film.</i>
+
+133
+00:07:13,573 --> 00:07:15,352
+Il est vraiment mauvais.
+
+134
+00:07:15,518 --> 00:07:16,538
+T'en fais pas.
+
+135
+00:07:16,663 --> 00:07:18,397
+T'as vu ses films ?
+
+136
+00:07:19,549 --> 00:07:22,025
+<i>Tu vas prendre une peignée, Wheaton.</i>
+
+137
+00:07:23,985 --> 00:07:25,784
+<i>Bref, j'adore le film, Penny.</i>
+
+138
+00:07:25,909 --> 00:07:27,852
+<i>T'y étais vraiment super.</i>
+
+139
+00:07:28,698 --> 00:07:29,986
+Je joue dedans aussi.
+
+140
+00:07:30,111 --> 00:07:31,410
+<i>On s'en fout.
+Penny !</i>
+
+141
+00:07:32,895 --> 00:07:34,890
+<i>Pourquoi t'es pas
+dans d'autres films ?</i>
+
+142
+00:07:35,015 --> 00:07:36,395
+<i>Je t'engagerais direct.</i>
+
+143
+00:07:36,520 --> 00:07:38,042
+- T'es sérieux ?
+- <i>Carrément.</i>
+
+144
+00:07:38,167 --> 00:07:39,835
+<i>Je prépare mon prochain film.</i>
+
+145
+00:07:41,085 --> 00:07:42,894
+<i>Très différent de mes autres films.</i>
+
+146
+00:07:43,019 --> 00:07:44,631
+<i>Ça s'appelle</i> Clerks 3.
+
+147
+00:07:46,340 --> 00:07:48,273
+<i>Viens passer une audition.</i>
+
+148
+00:07:48,398 --> 00:07:50,178
+Ce serait top.
+
+149
+00:07:50,344 --> 00:07:51,555
+T'as ton travail.
+
+150
+00:07:51,721 --> 00:07:53,181
+Je peux faire les deux.
+
+151
+00:07:53,637 --> 00:07:55,642
+Je crois pas que tu puisses.
+
+152
+00:07:56,106 --> 00:07:58,020
+Je crois pas
+t'avoir demandé ton avis.
+
+153
+00:07:58,442 --> 00:07:59,688
+<i>Bien envoyé, Penny.</i>
+
+154
+00:08:01,676 --> 00:08:03,629
+Te mêle pas de ça, Kevin Smith.
+
+155
+00:08:06,001 --> 00:08:07,738
+Tu penses qu'au bout d'un moment,
+
+156
+00:08:07,904 --> 00:08:10,908
+on arrête de déprimer
+quand on est mis à l'écart ?
+
+157
+00:08:11,493 --> 00:08:12,543
+J'en doute.
+
+158
+00:08:13,085 --> 00:08:16,580
+L'évolution favorise
+les activités de groupe.
+
+159
+00:08:17,441 --> 00:08:20,250
+Je vais te dire,
+j'ai été fan de l'évolution,
+
+160
+00:08:20,375 --> 00:08:22,034
+puis j'ai évolué,
+
+161
+00:08:22,159 --> 00:08:23,809
+et je trouve ça débile.
+
+162
+00:08:25,632 --> 00:08:27,407
+Se sentir rejeté, c'est horrible.
+
+163
+00:08:27,532 --> 00:08:29,384
+Je suis bien placée pour le savoir.
+
+164
+00:08:30,127 --> 00:08:31,517
+Tiens donc.
+
+165
+00:08:31,947 --> 00:08:34,139
+Même dans ton exemple,
+t'es toute seule.
+
+166
+00:08:36,513 --> 00:08:38,624
+Quand mon école a été
+infestée de poux,
+
+167
+00:08:38,749 --> 00:08:40,403
+tout le monde en a eu, sauf moi.
+
+168
+00:08:40,528 --> 00:08:43,299
+J'ai voulu le leur faire croire
+en versant du sucre dans mes cheveux,
+
+169
+00:08:43,424 --> 00:08:45,349
+j'ai fait qu'attirer les abeilles.
+
+170
+00:08:47,470 --> 00:08:50,656
+Je les imagine tous,
+dans la maison de Feynman,
+
+171
+00:08:51,157 --> 00:08:53,217
+ils doivent parler de Schrödinger,
+
+172
+00:08:53,342 --> 00:08:56,203
+tout en ne parlant pas
+de Schrödinger.
+
+173
+00:08:57,023 --> 00:08:57,829
+Tu vois ?
+
+174
+00:08:58,235 --> 00:09:00,535
+Ils ratent des blagues désopilantes.
+
+175
+00:09:02,146 --> 00:09:03,946
+Tout en ne les ratant pas.
+
+176
+00:09:05,795 --> 00:09:09,443
+Quand mes idiots de frère et sœur
+construisaient des forts dans le salon,
+
+177
+00:09:09,568 --> 00:09:10,842
+je pouvais pas entrer.
+
+178
+00:09:11,008 --> 00:09:12,654
+J'en avais horreur.
+
+179
+00:09:14,013 --> 00:09:15,014
+Tu sais,
+
+180
+00:09:16,025 --> 00:09:19,164
+je peux rien faire
+pour ton invitation au symposium,
+
+181
+00:09:19,289 --> 00:09:20,539
+mais si tu veux,
+
+182
+00:09:21,599 --> 00:09:22,771
+on fait un fort.
+
+183
+00:09:24,246 --> 00:09:25,816
+C'est pas un peu gamin ?
+
+184
+00:09:26,545 --> 00:09:28,005
+Plus que ça ?
+
+185
+00:09:32,140 --> 00:09:34,282
+Je m'occupe des couvertures,
+toi, du tuto.
+
+186
+00:09:38,237 --> 00:09:40,914
+Je manque à tous mes devoirs.
+Je vais refaire du café.
+
+187
+00:09:41,080 --> 00:09:43,083
+- Je vais le faire.
+- Non, j'y vais.
+
+188
+00:09:46,016 --> 00:09:47,212
+Josh, que fais-tu ?
+
+189
+00:09:47,378 --> 00:09:49,506
+J'étudie l'océanographie à San Diego.
+
+190
+00:09:49,672 --> 00:09:50,822
+C'est bien.
+
+191
+00:09:56,075 --> 00:09:57,973
+J'ai adoré <i>Le Monde de Nemo</i>.
+
+192
+00:09:59,182 --> 00:10:01,810
+Assez discuté.
+T'es vraiment celui que tu dis être ?
+
+193
+00:10:03,097 --> 00:10:04,146
+Pourquoi mentir ?
+
+194
+00:10:04,941 --> 00:10:06,314
+C'est pas faux.
+
+195
+00:10:08,490 --> 00:10:09,526
+Pour l'argent ?
+
+196
+00:10:10,359 --> 00:10:12,612
+Pour un rein, une cornée, son foie ?
+
+197
+00:10:14,709 --> 00:10:16,278
+Tu joues des reprises des Beatles
+
+198
+00:10:16,403 --> 00:10:18,952
+et tu veux qu'Howard fasse Ringo
+à la place de ton père.
+
+199
+00:10:21,364 --> 00:10:22,414
+Va l'aider.
+
+200
+00:10:23,082 --> 00:10:25,697
+Bien,
+mais il y a anguille sous roche.
+
+201
+00:10:25,822 --> 00:10:27,711
+Aucun lien avec ton travail.
+
+202
+00:10:29,086 --> 00:10:31,548
+Qui m'a l'air passionnant,
+je voudrais en savoir plus.
+
+203
+00:10:35,228 --> 00:10:36,229
+Ça va ?
+
+204
+00:10:36,354 --> 00:10:37,512
+Pas vraiment.
+
+205
+00:10:37,678 --> 00:10:41,857
+Ce mec débarque de nulle part,
+et tout d'un coup, j'ai un frère ?
+
+206
+00:10:41,982 --> 00:10:44,895
+Mon père a une autre famille ?
+
+207
+00:10:45,872 --> 00:10:47,022
+Je comprends.
+
+208
+00:10:47,383 --> 00:10:48,523
+Tu vas faire quoi ?
+
+209
+00:10:48,689 --> 00:10:50,418
+Je sais pas.
+
+210
+00:10:50,543 --> 00:10:52,043
+Je veux qu'il parte.
+
+211
+00:10:52,477 --> 00:10:53,987
+Je vais pas y arriver.
+
+212
+00:10:54,484 --> 00:10:56,031
+Bien, tu peux compter sur moi.
+
+213
+00:10:56,961 --> 00:10:58,620
+Merci.
+Allons-y.
+
+214
+00:11:00,466 --> 00:11:03,914
+T'as remarqué,
+ce mur a préservé notre intimité.
+
+215
+00:11:06,123 --> 00:11:09,061
+Mon frère est astronaute.
+Incroyable, c'était comment ?
+
+216
+00:11:09,186 --> 00:11:10,837
+Écoute, mec, va falloir partir...
+
+217
+00:11:11,003 --> 00:11:13,131
+Mollo, ce jeune homme a posé
+une bonne question.
+
+218
+00:11:22,682 --> 00:11:25,435
+{\pub}Si vous nous rejoignez,
+nous assistons
+
+219
+00:11:25,601 --> 00:11:27,646
+à une dispute géniale entre...
+
+220
+00:11:27,812 --> 00:11:28,939
+On se dispute pas.
+
+221
+00:11:29,105 --> 00:11:30,398
+On discute.
+
+222
+00:11:31,672 --> 00:11:32,557
+D'accord.
+
+223
+00:11:32,682 --> 00:11:35,070
+Nous assistons
+à une "conversation" géniale
+
+224
+00:11:35,236 --> 00:11:38,115
+entre ma partenaire
+dans <i>L'attaque du gorille mutant 2</i>
+
+225
+00:11:38,281 --> 00:11:39,321
+et son fiancé,
+
+226
+00:11:39,446 --> 00:11:42,119
+qui pense que les femmes
+ne doivent pas avoir de rêves.
+
+227
+00:11:44,554 --> 00:11:46,254
+Rends-moi ça.
+
+228
+00:11:48,850 --> 00:11:50,210
+Je peux bien auditionner ?
+
+229
+00:11:50,376 --> 00:11:51,586
+Et si t'as le rôle ?
+
+230
+00:11:51,949 --> 00:11:53,713
+Je sais pas, je tourne un film,
+
+231
+00:11:53,879 --> 00:11:55,298
+deviens riche et célèbre,
+
+232
+00:11:55,464 --> 00:11:58,552
+gagne des récompenses
+et vis une vie merveilleuse.
+
+233
+00:11:59,136 --> 00:12:01,096
+Avec un film de Kevin Smith ?
+
+234
+00:12:02,471 --> 00:12:03,921
+<i>Je vais raccrocher.</i>
+
+235
+00:12:05,130 --> 00:12:06,964
+Ne l'écoute pas, tu déchires.
+
+236
+00:12:07,089 --> 00:12:08,983
+T'es l'un
+de nos meilleurs réalisateurs.
+
+237
+00:12:09,108 --> 00:12:10,961
+<i>J'ai pas de rôle pour toi, Wheaton.</i>
+
+238
+00:12:12,912 --> 00:12:14,412
+C'était Kevin Smith.
+
+239
+00:12:15,945 --> 00:12:17,028
+Merci beaucoup.
+
+240
+00:12:17,363 --> 00:12:18,840
+Je veux seulement te protéger.
+
+241
+00:12:18,965 --> 00:12:21,109
+Combien de fois t'as eu le cœur brisé
+
+242
+00:12:21,234 --> 00:12:22,826
+en essayant de faire carrière ?
+
+243
+00:12:22,992 --> 00:12:26,204
+Au lieu de me protéger, réjouis-toi
+quand des bonnes choses m'arrivent.
+
+244
+00:12:26,370 --> 00:12:28,650
+Je suis toujours content pour toi.
+
+245
+00:12:28,775 --> 00:12:31,751
+Quand t'as décroché ce job
+où t'as un salaire correct.
+
+246
+00:12:31,917 --> 00:12:33,920
+Correct ?
+Je gagne le double de toi.
+
+247
+00:12:34,086 --> 00:12:35,136
+Le double ?
+
+248
+00:12:38,117 --> 00:12:40,369
+Double comme "fois deux" ?
+
+249
+00:12:42,261 --> 00:12:43,362
+Chers auditeurs,
+
+250
+00:12:43,487 --> 00:12:46,606
+Leonard a découvert que sa fiancée
+gagne bien plus d'argent que lui.
+
+251
+00:12:47,675 --> 00:12:48,745
+Écoutons.
+
+252
+00:12:49,935 --> 00:12:51,900
+J'ai passé la moitié de ma vie
+à étudier.
+
+253
+00:12:52,025 --> 00:12:55,253
+J'ai un doctorat.
+Je paye encore mes prêts étudiants.
+
+254
+00:12:55,608 --> 00:12:58,000
+Combien tu dois ?
+Je peux peut-être t'aider.
+
+255
+00:13:00,415 --> 00:13:03,658
+Wil, on peut faire une pause ?
+
+256
+00:13:03,983 --> 00:13:06,779
+Chers auditeurs,
+je secoue la tête de gauche à droite.
+
+257
+00:13:14,919 --> 00:13:16,213
+Comment ça se passe ?
+
+258
+00:13:16,379 --> 00:13:17,768
+Génial !
+
+259
+00:13:19,965 --> 00:13:21,927
+Je viens d'installer les lumières.
+
+260
+00:13:22,093 --> 00:13:25,013
+- Je peux entrer ?
+- Oui, mais entre par le côté.
+
+261
+00:13:25,179 --> 00:13:27,303
+Batman est un drap porteur.
+
+262
+00:13:33,067 --> 00:13:34,515
+Incroyable.
+
+263
+00:13:34,640 --> 00:13:35,774
+Je sais.
+
+264
+00:13:35,940 --> 00:13:38,535
+Ceci n'est pas la photo.
+C'est mon vrai visage.
+
+265
+00:13:40,937 --> 00:13:43,191
+On fait quoi ?
+C'est un fort.
+
+266
+00:13:43,316 --> 00:13:44,825
+On s'assoit par terre.
+
+267
+00:13:45,653 --> 00:13:47,346
+À la dure ? Bien.
+
+268
+00:13:51,973 --> 00:13:54,554
+Tout paraît si grand, vu d'ici.
+
+269
+00:13:56,553 --> 00:13:58,549
+C'est donc ça que ressent Leonard.
+
+270
+00:14:02,895 --> 00:14:06,404
+Ça m'étonne que t'aies pu m'entendre
+avec ce biscuit dans l'oreille !
+
+271
+00:14:07,990 --> 00:14:09,224
+Cool, non ?
+
+272
+00:14:11,469 --> 00:14:13,255
+Bon, je vais y aller.
+
+273
+00:14:14,598 --> 00:14:18,066
+T'as remarqué comme les gens disent ça
+quand tu fais tes tours ?
+
+274
+00:14:19,938 --> 00:14:21,486
+Désolé, j'ai de la route.
+
+275
+00:14:22,717 --> 00:14:24,322
+J'espère qu'on se reverra.
+
+276
+00:14:25,232 --> 00:14:26,496
+Moi aussi.
+
+277
+00:14:26,621 --> 00:14:29,536
+J'ai toujours rêvé d'avoir un frère
+avec qui jouer au baseball.
+
+278
+00:14:30,703 --> 00:14:31,832
+Continue de rêver.
+
+279
+00:14:33,205 --> 00:14:35,458
+J'ai fait le premier lancer
+à un match des Angels.
+
+280
+00:14:36,416 --> 00:14:38,358
+Il l'a fait avec un robot.
+
+281
+00:14:40,058 --> 00:14:41,926
+T'as couché avec un robot ?
+
+282
+00:14:43,473 --> 00:14:46,344
+- C'est pas ce qu'elle voulait dire.
+- Mais techniquement, oui.
+
+283
+00:14:49,346 --> 00:14:52,309
+Si tu gagnes autant d'argent,
+il est où ?
+
+284
+00:14:52,475 --> 00:14:55,018
+- À l'abri.
+- Comment ça, sous ton lit ?
+
+285
+00:14:55,143 --> 00:14:58,747
+Non, dans un portefeuille diversifié
+d'actions et d'obligations.
+
+286
+00:14:58,872 --> 00:15:00,703
+Je suis jeune, pas si conservative,
+
+287
+00:15:00,828 --> 00:15:03,156
+et le gars m'a dit
+que je pouvais prendre des risques.
+
+288
+00:15:04,306 --> 00:15:05,991
+Une minute, quel gars ?
+
+289
+00:15:06,530 --> 00:15:09,872
+- T'as pas un gars pour ça ?
+- Pour quoi faire ? J'ai pas d'argent !
+
+290
+00:15:12,099 --> 00:15:14,599
+Mon chéri, tu devrais vraiment
+gagner de l'argent.
+
+291
+00:15:16,089 --> 00:15:17,495
+Chers auditeurs...
+
+292
+00:15:17,620 --> 00:15:19,507
+C'est pas génial ?
+
+293
+00:15:20,979 --> 00:15:23,381
+Wil, je t'en prie, éteins-moi ça.
+
+294
+00:15:23,547 --> 00:15:24,548
+D'accord.
+
+295
+00:15:26,506 --> 00:15:27,825
+Nous sommes de retour.
+
+296
+00:15:29,414 --> 00:15:31,632
+Pourquoi tu t'énerves comme ça ?
+
+297
+00:15:31,757 --> 00:15:34,100
+Nos rôles ont un peu changé,
+ces derniers temps.
+
+298
+00:15:34,266 --> 00:15:35,477
+C'est la vie.
+
+299
+00:15:35,643 --> 00:15:37,729
+Je suis sûre
+que ça changera à nouveau.
+
+300
+00:15:38,498 --> 00:15:39,320
+Super.
+
+301
+00:15:39,445 --> 00:15:42,651
+Non seulement t'as gagné de l'argent,
+mais t'as aussi gagné en maturité.
+
+302
+00:15:44,104 --> 00:15:47,199
+Tu te sentirais mieux
+si je faisais un truc idiot
+
+303
+00:15:47,324 --> 00:15:51,201
+comme ne pas aller au travail un jour
+et auditionner pour un film ?
+
+304
+00:15:51,367 --> 00:15:52,819
+J'adorerais, merci bien !
+
+305
+00:15:54,995 --> 00:15:56,164
+Je vais intervenir.
+
+306
+00:15:56,330 --> 00:15:57,724
+Leonard, tout à l'heure,
+
+307
+00:15:57,849 --> 00:16:00,566
+tu étais contre le fait que Penny
+reprenne sa carrière d'actrice,
+
+308
+00:16:00,691 --> 00:16:02,333
+mais maintenant, c'est l'inverse.
+
+309
+00:16:02,458 --> 00:16:04,941
+Peut-on dire qu'elle t'a manipulé
+comme un gosse ?
+
+310
+00:16:07,193 --> 00:16:08,543
+Tout à fait, Wil.
+
+311
+00:16:12,922 --> 00:16:14,133
+Faut que je sache,
+
+312
+00:16:14,591 --> 00:16:16,351
+est-ce que le robot était sexy ?
+
+313
+00:16:17,268 --> 00:16:20,371
+En fait,
+c'était juste une main mécanique.
+
+314
+00:16:21,956 --> 00:16:23,595
+Y a pas besoin de plus, hein ?
+
+315
+00:16:25,511 --> 00:16:26,736
+T'es bien mon frère.
+
+316
+00:16:29,196 --> 00:16:31,221
+Donc, les quatre derniers forts
+
+317
+00:16:31,346 --> 00:16:34,202
+du premier concours annuel
+du meilleur fort de tous les temps,
+
+318
+00:16:34,368 --> 00:16:36,079
+ou "Fort fort", sont...
+
+319
+00:16:37,538 --> 00:16:38,539
+Fort Knox,
+
+320
+00:16:38,857 --> 00:16:40,301
+Fort Ticonderoga,
+
+321
+00:16:40,426 --> 00:16:41,643
+Fort Sumter
+
+322
+00:16:41,768 --> 00:16:42,669
+et...
+
+323
+00:16:42,835 --> 00:16:44,754
+Fort Couvertures Douces.
+
+324
+00:16:46,532 --> 00:16:47,549
+Alors...
+
+325
+00:16:47,715 --> 00:16:50,677
+Knox bat Ticonderoga
+parce qu'il est plein d'or.
+
+326
+00:16:51,718 --> 00:16:54,660
+Et Couvertures Douces bat Sumter
+parce qu'il a plus de fils.
+
+327
+00:16:58,925 --> 00:16:59,977
+22 heures.
+
+328
+00:17:00,980 --> 00:17:04,691
+- Notre soirée est finie.
+- Attends, on a pas choisi de vainqueur.
+
+329
+00:17:05,139 --> 00:17:07,110
+On sait bien que celui-là va gagner.
+
+330
+00:17:07,276 --> 00:17:08,804
+Bien sûr.
+
+331
+00:17:08,929 --> 00:17:12,057
+Fort Knox n'a pas de bibliothèque
+de physique secrète.
+
+332
+00:17:14,660 --> 00:17:16,434
+Viens, je t'aide à le demonter.
+
+333
+00:17:16,559 --> 00:17:19,388
+Attends.
+Et si, pour cette fois,
+
+334
+00:17:19,513 --> 00:17:23,146
+on suspendait les paramètres du Pacte
+pour que tu restes plus longtemps ?
+
+335
+00:17:26,002 --> 00:17:28,610
+Tant qu'à suspendre les paramètres,
+
+336
+00:17:30,457 --> 00:17:33,500
+je pourrais rester vraiment tard
+et faire une soirée pyjama.
+
+337
+00:17:36,093 --> 00:17:37,265
+Grande étape.
+
+338
+00:17:38,017 --> 00:17:39,067
+Grand fort.
+
+339
+00:17:42,980 --> 00:17:43,865
+Très bien.
+
+340
+00:17:43,990 --> 00:17:46,479
+J'autoriserai une soirée pyjama
+garçon-fille
+
+341
+00:17:46,604 --> 00:17:49,344
+tous publics et familiale.
+
+342
+00:17:52,209 --> 00:17:55,543
+Certaines scènes ne conviennent pas
+à un public jeune.
+
+343
+00:17:57,342 --> 00:17:59,114
+Accord parental souhaitable,
+
+344
+00:17:59,239 --> 00:18:01,474
+déconseillé aux moins de cinq ans.
+
+345
+00:18:04,271 --> 00:18:05,460
+C'est d'accord.
+
+346
+00:18:07,221 --> 00:18:09,506
+T'as besoin d'une brosse à dents,
+d'un pyjama ?
+
+347
+00:18:10,066 --> 00:18:14,362
+Ça t'inquiéterait d'apprendre
+que j'en ai caché il y a deux ans
+
+348
+00:18:14,487 --> 00:18:16,504
+au cas où cette situation
+se produise ?
+
+349
+00:18:19,316 --> 00:18:22,241
+Oui, mais tu sais
+que j'admire les gens prévoyants.
+
+350
+00:18:24,071 --> 00:18:26,314
+Comment tu savais
+qu'on serait dans le salon ?
+
+351
+00:18:26,480 --> 00:18:28,942
+Qui te dit que c'est le seul ?
+
+352
+00:18:42,871 --> 00:18:44,582
+{\pub}C'est quoi, tout ça ?
+
+353
+00:18:44,748 --> 00:18:46,048
+On a fait un fort !
+
+354
+00:18:48,319 --> 00:18:49,462
+C'est mes draps ?
+
+355
+00:18:49,628 --> 00:18:50,629
+Oui !
+
+356
+00:18:53,238 --> 00:18:56,095
+Amusez-vous bien, les enfants.
+Je vais dormir.
+
+357
+00:18:56,220 --> 00:18:58,805
+Tu ne veux pas voir
+comment c'est, à l'intérieur ?
+
+358
+00:18:58,971 --> 00:18:59,978
+Ça va.
+
+359
+00:19:00,347 --> 00:19:02,990
+Allez, je voulais vraiment
+refuser l'accès à quelqu'un !
+
+360
+00:19:04,693 --> 00:19:05,878
+Bon.
+
+361
+00:19:06,003 --> 00:19:08,523
+Sheldon, je peux entrer
+dans ton fort ?
+
+362
+00:19:09,184 --> 00:19:11,693
+Je veux dire non,
+mais il est trop splendide. Entre !
+
+363
+00:19:14,244 --> 00:19:15,245
+Merci.
+
+364
+00:19:15,905 --> 00:19:17,505
+Assieds-toi par terre.
+
+365
+00:19:17,923 --> 00:19:19,573
+Pas là, c'est ma place.
+

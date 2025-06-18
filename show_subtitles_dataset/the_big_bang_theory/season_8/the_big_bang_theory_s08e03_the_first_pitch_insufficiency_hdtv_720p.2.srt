@@ -1,0 +1,1344 @@
+1
+00:00:03,551 --> 00:00:06,168
+Comment ça se joue ?
+Je la lance comme une vraie balle ?
+
+2
+00:00:06,293 --> 00:00:08,305
+Oui, bien comme il faut
+sur le marbre.
+
+3
+00:00:08,430 --> 00:00:09,431
+D'accord.
+
+4
+00:00:10,336 --> 00:00:11,720
+T'es nul, Wolowitz !
+
+5
+00:00:13,692 --> 00:00:14,556
+Quoi ?
+
+6
+00:00:14,722 --> 00:00:17,057
+Je t'insulte.
+C'est le côté génial du baseball.
+
+7
+00:00:18,191 --> 00:00:19,144
+C'est vrai,
+
+8
+00:00:19,310 --> 00:00:21,723
+et vu que tu attends encore
+d'être choisi pour une partie
+
+9
+00:00:21,848 --> 00:00:24,001
+qui s'est jouée en CM2,
+tu dois être bien nul.
+
+10
+00:00:26,094 --> 00:00:28,153
+- Salut. Vous faites quoi ?
+- Baseball.
+
+11
+00:00:28,618 --> 00:00:31,406
+{\pos(192,205)}C'est pas ce que je voulais dire
+quand je vous ai dit de sortir.
+
+12
+00:00:32,449 --> 00:00:34,284
+- Il s'entraîne.
+- Pour quoi ?
+
+13
+00:00:34,693 --> 00:00:39,054
+{\pos(192,225)}Les Angels voulaient qu'un astronaute
+fasse le premier lancer,
+
+14
+00:00:39,179 --> 00:00:41,541
+- devine qui ils ont appelés ?
+- Toi ? Vraiment ?
+
+15
+00:00:41,707 --> 00:00:44,320
+Après tous ceux
+qui étaient absents, oui, moi !
+
+16
+00:00:46,337 --> 00:00:48,339
+C'est génial, félicitations !
+
+17
+00:00:48,464 --> 00:00:50,550
+Ça fait de toi le sportif du groupe.
+
+18
+00:00:50,716 --> 00:00:52,133
+{\pos(192,225)}Pas juste lui.
+
+19
+00:00:52,258 --> 00:00:55,097
+{\pos(192,225)}Dois-je te rappeler que tu parles
+à l'attrapeur, au cogneur,
+
+20
+00:00:55,263 --> 00:00:57,178
+{\pos(192,225)}au poursuiveur et au porteur d'eau
+
+21
+00:00:57,303 --> 00:00:59,415
+{\pos(192,225)}de l'équipe de quidditch
+du Parc Griffith.
+
+22
+00:01:00,476 --> 00:01:03,666
+{\pos(192,225)}Je sais, voir son copain déambuler
+avec un balai entre les jambes,
+
+23
+00:01:03,791 --> 00:01:05,236
+ça s'oublie pas.
+
+24
+00:01:06,941 --> 00:01:08,918
+{\pos(192,225)}- Allez, lance.
+- C'est parti.
+
+25
+00:01:10,394 --> 00:01:11,815
+{\pos(192,225)}T'as l'air d'un crétin !
+
+26
+00:01:12,780 --> 00:01:14,616
+Arrête, c'est blessant !
+
+27
+00:01:14,782 --> 00:01:16,470
+Tu sais pourquoi on sort pas.
+
+28
+00:01:18,425 --> 00:01:19,846
+{\pos(192,268)}{\fscx0\fscy0\fade(200,400)\t (0,300,\fscx100\fscy100)}Giggity Team
+
+29
+00:01:20,631 --> 00:01:22,781
+{\pos(192,268)}{\fscx0\fscy0\fade(200,400)\t (0,300,\fscx100\fscy100)}www.u-sub.net
+www.giggityteam.fr
+
+30
+00:01:26,294 --> 00:01:30,051
+{\fad(400,400)}benji1000, Berenice1, BJAM1M, hemhel
+
+31
+00:01:40,968 --> 00:01:44,018
+{\pub}{\fad(400,400)}{\fad(400,400)}Saison 8 - Épisode 3
+<i>The First Pitch Insufficiency</i>
+
+32
+00:01:47,574 --> 00:01:49,442
+Tu as bien aimé ma leçon ?
+
+33
+00:01:49,567 --> 00:01:51,617
+Non, et le serveur non plus.
+
+34
+00:01:53,655 --> 00:01:56,032
+Si tu sers
+du poulet de Cornouailles,
+
+35
+00:01:56,157 --> 00:01:58,618
+tu dois soit connaître
+l'histoire des Cornouailles,
+
+36
+00:01:58,743 --> 00:01:59,828
+soit l'apprendre.
+
+37
+00:02:01,301 --> 00:02:02,653
+Dur d'argumenter avec ça.
+
+38
+00:02:02,778 --> 00:02:03,694
+Je le sais,
+
+39
+00:02:03,819 --> 00:02:07,502
+j'ai vu un homme et son moulin à poivre
+échouer lamentablement.
+
+40
+00:02:12,874 --> 00:02:13,946
+{\pos(192,205)}Alors, ce dîner ?
+
+41
+00:02:14,071 --> 00:02:16,219
+Bon, j'ai pris du poulet
+de Cornouailles.
+
+42
+00:02:16,385 --> 00:02:17,909
+Pauvre serveur.
+
+43
+00:02:20,289 --> 00:02:22,601
+{\pos(192,205)}Sheldon, et si on allait au cinéma
+demain soir ?
+
+44
+00:02:22,767 --> 00:02:24,478
+Vous sortez deux soirs de suite ?
+
+45
+00:02:25,037 --> 00:02:28,570
+{\pos(192,205)}J'ai raté des rendez-vous
+lors de mon périple en train,
+
+46
+00:02:28,695 --> 00:02:32,903
+{\pos(192,205)}je suis obligé de les rattraper,
+selon les termes du Pacte de relation.
+
+47
+00:02:33,804 --> 00:02:35,004
+{\pos(192,205)}C'est trop sexy.
+
+48
+00:02:36,682 --> 00:02:38,639
+{\pos(192,205)}Mieux que ça, c'est contractuel.
+
+49
+00:02:41,244 --> 00:02:43,163
+{\pos(192,205)}Si vous êtes là demain,
+
+50
+00:02:43,288 --> 00:02:45,332
+{\pos(192,205)}j'adorerais faire
+une sortie à quatre.
+
+51
+00:02:47,175 --> 00:02:50,221
+{\pos(192,205)}Tu es conscient que ça ne comptera pas
+comme deux rendez-vous.
+
+52
+00:02:54,209 --> 00:02:56,218
+Alors venez ou pas, je m'en fiche.
+
+53
+00:03:00,388 --> 00:03:02,529
+C'est fou
+que tu aies des courbatures.
+
+54
+00:03:03,266 --> 00:03:06,269
+{\pos(192,50)}Les lanceurs professionnels aussi
+ont besoin d'un massage après le match.
+
+55
+00:03:08,267 --> 00:03:11,867
+Ils lancent des vraies balles,
+tu lançais de l'air sur une télé.
+
+56
+00:03:14,235 --> 00:03:17,365
+{\pos(192,50)}Pour info, j'ai aussi tapé super fort
+dans la main de Leonard.
+
+57
+00:03:19,116 --> 00:03:22,577
+{\pos(192,205)}Je suis surprise que tu aies accepté
+de faire ça devant un stade plein.
+
+58
+00:03:22,744 --> 00:03:25,121
+C'est le Jour de l'Espace,
+la NASA m'a demandé.
+
+59
+00:03:25,246 --> 00:03:26,498
+Je pouvais pas refuser.
+
+60
+00:03:28,088 --> 00:03:31,253
+Si tu veux, je peux t'aider.
+J'ai beaucoup joué au softball.
+
+61
+00:03:31,827 --> 00:03:33,505
+Merci, ce serait génial.
+
+62
+00:03:33,671 --> 00:03:36,987
+Et on pourrait aussi
+rendre ta course plus virile.
+
+63
+00:03:39,246 --> 00:03:40,887
+Qu'est-ce qu'elle a, ma course ?
+
+64
+00:03:41,053 --> 00:03:43,014
+Je rigole. Rien du tout.
+
+65
+00:03:51,988 --> 00:03:54,734
+Sheldon, je suis surprise
+que tu aies choisi un pub.
+
+66
+00:03:54,900 --> 00:03:56,519
+Lors de notre réunion de comité,
+
+67
+00:03:56,644 --> 00:03:59,072
+Amy voulait faire un pique-nique
+dans un parc,
+
+68
+00:03:59,197 --> 00:04:02,940
+mais j'y ai mis tant d'amendements
+que c'est tombé à l'eau.
+
+69
+00:04:04,190 --> 00:04:05,829
+Puis j'ai suggéré un pub.
+
+70
+00:04:05,954 --> 00:04:08,123
+J'étais très sceptique au début,
+
+71
+00:04:08,289 --> 00:04:11,126
+mais j'ai vu sur Internet
+qu'ils ont du pudding du Yorkshire.
+
+72
+00:04:11,704 --> 00:04:13,170
+T'aimes même pas ça.
+
+73
+00:04:13,336 --> 00:04:14,467
+Non, c'est dégueu.
+
+74
+00:04:14,592 --> 00:04:17,374
+Mais apprendre aux gens
+l'histoire du Yorkshire,
+
+75
+00:04:17,499 --> 00:04:19,009
+c'est miam-miam.
+
+76
+00:04:20,358 --> 00:04:21,761
+Après un grand débat,
+
+77
+00:04:21,927 --> 00:04:24,806
+ma proposition est passée
+avec une marge de 2 à 0.
+
+78
+00:04:26,143 --> 00:04:29,269
+Sympa de voir un couple
+tenant à garder la bureaucratie vivante.
+
+79
+00:04:31,179 --> 00:04:32,629
+Ignore-les, Amy.
+
+80
+00:04:32,754 --> 00:04:36,367
+Ils sont jaloux parce que leur relation
+ne sera jamais aussi bien que la nôtre.
+
+81
+00:04:38,409 --> 00:04:40,914
+C'est pas là qu'il dit un truc
+du genre "bazooka" ?
+
+82
+00:04:41,864 --> 00:04:45,235
+C'était pas une blague,
+je constatais juste un fait.
+
+83
+00:04:45,360 --> 00:04:49,239
+Amy et moi avons une relation
+supérieure à la vôtre.
+
+84
+00:04:49,364 --> 00:04:52,125
+Tu le penses pas vraiment, hein ?
+
+85
+00:04:53,292 --> 00:04:54,837
+Je pensais que tu savais.
+
+86
+00:04:56,671 --> 00:04:59,692
+La hiérarchie des relations par qualité
+dans notre cercle est :
+
+87
+00:04:59,817 --> 00:05:00,925
+Amy et moi,
+
+88
+00:05:01,050 --> 00:05:03,742
+Howard et Bernadette,
+Raj et sa copine,
+
+89
+00:05:03,867 --> 00:05:06,079
+Penny et le Chardonnay,
+Penny et toi.
+
+90
+00:05:09,100 --> 00:05:10,977
+Il n'y a pas de hiérarchie.
+
+91
+00:05:11,102 --> 00:05:13,980
+Et s'il y en avait,
+on serait pas les derniers.
+
+92
+00:05:14,105 --> 00:05:16,543
+Ouais, et d'ailleurs,
+je bois du Sauvignon Blanc.
+
+93
+00:05:18,637 --> 00:05:20,612
+C'est ça qui te pose problème ?
+
+94
+00:05:21,384 --> 00:05:22,614
+Du calme.
+
+95
+00:05:22,780 --> 00:05:24,282
+Ça y est, ils se disputent.
+
+96
+00:05:25,553 --> 00:05:28,150
+Elle parle jamais comme ça
+au Sauvignon Blanc.
+
+97
+00:05:32,335 --> 00:05:35,794
+T'as jamais joué au baseball,
+même pas chez les cadets ?
+
+98
+00:05:35,960 --> 00:05:39,964
+Je devais, mais le jour des essais,
+j'ai trouvé les <i>Playboy</i> de mon père.
+
+99
+00:05:42,581 --> 00:05:44,261
+J'avais mal au bras.
+
+100
+00:05:46,562 --> 00:05:50,725
+La base du lanceur à la Ligue majeure
+est à 18 mètres du marbre.
+
+101
+00:05:50,891 --> 00:05:54,899
+Super. Prends ça et dis-moi
+quand m'arrêter.
+
+102
+00:06:01,026 --> 00:06:02,237
+Encore loin ?
+
+103
+00:06:02,403 --> 00:06:03,611
+Continue.
+
+104
+00:06:06,360 --> 00:06:08,846
+- Et maintenant ?
+- Je te dirai.
+
+105
+00:06:12,280 --> 00:06:15,292
+Tu dis "stop" mais on est trop loin
+pour t'entendre ?
+
+106
+00:06:16,122 --> 00:06:17,168
+Bon, stop.
+
+107
+00:06:21,919 --> 00:06:23,508
+Tu plaisantes ?
+
+108
+00:06:23,674 --> 00:06:24,968
+Ça fait 18 mètres.
+
+109
+00:06:25,134 --> 00:06:27,595
+Impossible que ce soit 18 mètres.
+
+110
+00:06:27,761 --> 00:06:29,098
+Je le vois bien.
+
+111
+00:06:31,506 --> 00:06:35,645
+Tu sais, là, je ne te demande pas
+d'exagérer une longueur.
+
+112
+00:06:43,177 --> 00:06:44,682
+Faut que je demande.
+
+113
+00:06:45,477 --> 00:06:47,053
+Qu'est-ce qui te fait croire
+
+114
+00:06:47,178 --> 00:06:49,701
+que votre relation est fabuleuse
+et pas la nôtre ?
+
+115
+00:06:50,391 --> 00:06:53,652
+Déjà, on aime passer
+du temps ensemble.
+
+116
+00:06:57,585 --> 00:06:58,993
+Nous aussi.
+
+117
+00:06:59,118 --> 00:07:02,964
+Vous passez des heures
+à vous occuper chacun de votre côté.
+
+118
+00:07:03,131 --> 00:07:05,578
+Ça s'appelle du jeu parallèle.
+
+119
+00:07:06,851 --> 00:07:08,178
+Les enfants font ça.
+
+120
+00:07:08,597 --> 00:07:10,330
+Pas aussi bien que nous.
+
+121
+00:07:12,852 --> 00:07:15,060
+T'as vu ?
+Il doit toujours être le meilleur.
+
+122
+00:07:15,226 --> 00:07:17,270
+Et alors ?
+Qu'est-ce que ça peut te faire ?
+
+123
+00:07:17,436 --> 00:07:18,938
+Écoute-les.
+
+124
+00:07:19,104 --> 00:07:21,529
+Pas encore mariés
+et la lune de miel est terminée.
+
+125
+00:07:22,949 --> 00:07:26,779
+Et toi, tu ne peux même pas sortir
+sans regarder ton pacte de relation.
+
+126
+00:07:27,186 --> 00:07:30,677
+Si ça te dérange de baser
+une relation sur un contrat,
+
+127
+00:07:30,802 --> 00:07:35,788
+souviens-toi de 13 vaillantes colonies
+qui ont commencé un pacte de relation
+
+128
+00:07:35,913 --> 00:07:37,960
+appelé la constitution américaine.
+
+129
+00:07:38,880 --> 00:07:40,774
+Et si tu me le permets,
+
+130
+00:07:40,899 --> 00:07:43,463
+je pense que cette histoire d'amour
+est encore très chaude.
+
+131
+00:07:46,291 --> 00:07:49,330
+Heureusement que je ne porte pas
+de sous-vêtements avec le drapeau,
+
+132
+00:07:49,455 --> 00:07:51,137
+parce que je suis en feu.
+
+133
+00:07:57,917 --> 00:07:59,187
+C'est pas si dur.
+
+134
+00:07:59,353 --> 00:08:03,316
+Tu regardes où tu veux la lancer,
+tu te mets en position, et tu lances.
+
+135
+00:08:06,561 --> 00:08:07,695
+C'est ton conseil ?
+
+136
+00:08:08,249 --> 00:08:11,169
+C'est comme dire,
+"voilà comment piloter un avion."
+
+137
+00:08:11,294 --> 00:08:15,187
+"Monte dans l'avion,
+choisis ta destination et vole."
+
+138
+00:08:17,488 --> 00:08:19,624
+Lance la balle.
+Voyons comment tu t'en sors.
+
+139
+00:08:30,259 --> 00:08:31,636
+Allez, envoie.
+
+140
+00:08:56,994 --> 00:08:58,762
+Lance-la, bordel !
+
+141
+00:09:08,756 --> 00:09:10,967
+{\pub}Vous comptez vous marier quand ?
+
+142
+00:09:11,133 --> 00:09:13,501
+On n'est pas sûrs,
+je veux attendre suffisamment
+
+143
+00:09:13,626 --> 00:09:15,954
+pour prouver à ma mère
+que je suis pas enceinte.
+
+144
+00:09:17,436 --> 00:09:20,305
+- Puis-je prendre une de tes frites ?
+- Bien sûr.
+
+145
+00:09:20,983 --> 00:09:22,644
+Je peux goûter ton burger ?
+
+146
+00:09:22,769 --> 00:09:24,224
+Hors de question.
+
+147
+00:09:26,108 --> 00:09:28,526
+Quel couple parfait.
+Il lui laisse pas goûter son plat.
+
+148
+00:09:29,113 --> 00:09:32,572
+Il y a de l'avocat dedans.
+Elle y est allergique.
+
+149
+00:09:33,335 --> 00:09:36,610
+Tu es tellement jaloux de nous
+que tu veux qu'Amy meure ?
+
+150
+00:09:38,874 --> 00:09:39,996
+Je suis pas jaloux.
+
+151
+00:09:40,162 --> 00:09:42,600
+Je pense que c'est idiot
+de comparer des relations
+
+152
+00:09:42,725 --> 00:09:44,751
+comme si ça pouvait se quantifier.
+
+153
+00:09:44,917 --> 00:09:46,881
+Tout est quantifiable.
+
+154
+00:09:47,006 --> 00:09:49,164
+Cette frite ? Sept.
+
+155
+00:09:49,630 --> 00:09:51,633
+Spider-Man ? Neuf.
+
+156
+00:09:51,799 --> 00:09:54,928
+Le chiffre neuf...
+Bizarrement, seulement quatre.
+
+157
+00:09:55,845 --> 00:09:58,387
+- À quel point il est ridicule ?
+- Cent.
+
+158
+00:10:01,517 --> 00:10:05,313
+Tu donnes des valeurs arbitraires
+aux choses selon tes opinions.
+
+159
+00:10:05,479 --> 00:10:06,685
+Pas du tout.
+
+160
+00:10:06,810 --> 00:10:10,610
+Les frites ont trois variables,
+croustillant, sel et forme.
+
+161
+00:10:10,776 --> 00:10:13,441
+C'est pour ça
+qu'une frite en boucle vaut deux.
+
+162
+00:10:13,566 --> 00:10:16,851
+Si j'avais voulu des boucles,
+j'aurais mangé une perruque de clown.
+
+163
+00:10:18,936 --> 00:10:21,704
+Une relation est plus compliquée
+qu'une frite.
+
+164
+00:10:21,870 --> 00:10:25,083
+Pas selon Berscheid, Snyder et Omoto.
+
+165
+00:10:25,249 --> 00:10:27,743
+Ils ont fait quoi, ces chenapans ?
+
+166
+00:10:29,253 --> 00:10:31,900
+Ils ont développé
+l'Inventaire de Proximité Relationnel,
+
+167
+00:10:32,025 --> 00:10:34,601
+qui prévoit la stabilité d'un couple
+selon son comportement.
+
+168
+00:10:34,726 --> 00:10:37,924
+À ne pas confondre
+avec l'Inventaire de Saveur de la Frite,
+
+169
+00:10:38,049 --> 00:10:39,514
+Ça, c'est du Cooper.
+
+170
+00:10:41,092 --> 00:10:43,922
+- C'est du sérieux ?
+- Il existe depuis 25 ans,
+
+171
+00:10:44,047 --> 00:10:46,938
+et a été grandement corroboré
+par d'autres chercheurs.
+
+172
+00:10:47,104 --> 00:10:49,440
+Ça enlève un peu
+le romantisme des relations.
+
+173
+00:10:49,606 --> 00:10:51,616
+Un peu ? Ça le fait parfaitement.
+
+174
+00:10:53,318 --> 00:10:55,989
+Sheldon et moi avons eu 8,2 sur 10.
+
+175
+00:10:56,499 --> 00:10:58,345
+Bon, on va le faire tout de suite.
+
+176
+00:10:59,825 --> 00:11:01,327
+- Quoi ?
+- Ne le fais pas.
+
+177
+00:11:01,493 --> 00:11:03,495
+- Pourquoi ?
+- C'est stupide, on s'en fiche.
+
+178
+00:11:03,620 --> 00:11:06,374
+- Allez, ça va être marrant.
+- Je ne veux pas.
+
+179
+00:11:07,611 --> 00:11:08,918
+Je vais prendre un verre.
+
+180
+00:11:11,460 --> 00:11:12,538
+Désolé.
+
+181
+00:11:16,229 --> 00:11:19,345
+Compte ça comme deux rendez-vous.
+Ils sont difficiles à supporter.
+
+182
+00:11:25,198 --> 00:11:26,686
+Il s'améliore, tu crois ?
+
+183
+00:11:32,546 --> 00:11:34,193
+C'était pas loin !
+
+184
+00:11:37,480 --> 00:11:40,199
+- C'est trop tard pour annuler ?
+- Je crois bien.
+
+185
+00:11:45,701 --> 00:11:47,081
+Attention, ça arrive !
+
+186
+00:11:55,821 --> 00:11:56,879
+T'es fâchée ?
+
+187
+00:11:57,004 --> 00:11:58,760
+Non, dis pas de bêtises.
+
+188
+00:12:04,482 --> 00:12:06,862
+C'est à cause du test ou de nous ?
+
+189
+00:12:06,987 --> 00:12:10,074
+Pas besoin d'un test
+pour m'inquiéter davantage.
+
+190
+00:12:10,199 --> 00:12:11,939
+Qu'est-ce qui t'inquiète ?
+
+191
+00:12:12,496 --> 00:12:16,569
+On est fiancés, on a rien en commun,
+et ça me fait peur.
+
+192
+00:12:18,158 --> 00:12:19,572
+Moi aussi, j'ai peur.
+
+193
+00:12:19,987 --> 00:12:21,074
+Vraiment ?
+
+194
+00:12:21,240 --> 00:12:22,617
+Des fois.
+
+195
+00:12:22,783 --> 00:12:24,619
+C'est pas bon du tout !
+
+196
+00:12:26,703 --> 00:12:31,053
+Le fait que tu sois fou de moi
+était ce qui tenait notre couple !
+
+197
+00:12:34,071 --> 00:12:35,809
+Tiens, ça te rassurera peut-être.
+
+198
+00:12:36,352 --> 00:12:39,927
+On a tous les deux peur
+que notre mariage soit un échec,
+
+199
+00:12:40,052 --> 00:12:42,314
+on a donc ça en commun.
+
+200
+00:12:47,809 --> 00:12:50,520
+Et on trouve tous les deux
+que je suis pas drôle.
+
+201
+00:12:52,510 --> 00:12:54,323
+Tu vois ?
+Ça t'a pas fait rire.
+
+202
+00:12:59,528 --> 00:13:01,280
+<i>Salut, Chocapic !
+Quoi de neuf ?</i>
+
+203
+00:13:02,547 --> 00:13:03,556
+Salut, Mike.
+
+204
+00:13:04,696 --> 00:13:09,466
+La NASA m'a demandé de faire
+le premier lancer du match des Angels.
+
+205
+00:13:09,591 --> 00:13:10,748
+Un conseil ?
+
+206
+00:13:11,591 --> 00:13:12,583
+<i>Le fais pas.</i>
+
+207
+00:13:14,459 --> 00:13:15,878
+<i>Quoi de neuf, sinon ?</i>
+
+208
+00:13:16,823 --> 00:13:19,366
+- Pourquoi pas ?
+- <i>T'as rien à gagner.</i>
+
+209
+00:13:19,491 --> 00:13:21,509
+<i>Si tu lances bien,
+tout le monde s'en fout.</i>
+
+210
+00:13:22,133 --> 00:13:23,136
+<i>Si tu foires,</i>
+
+211
+00:13:23,516 --> 00:13:25,479
+<i>tu finiras sur YouTube
+comme un idiot.</i>
+
+212
+00:13:27,759 --> 00:13:31,394
+Mais c'est pour une bonne cause.
+Beaucoup d'enfants seront là.
+
+213
+00:13:31,560 --> 00:13:34,522
+<i>C'est ce que je te dis !
+Les gamins sont horribles.</i>
+
+214
+00:13:36,398 --> 00:13:39,054
+<i>Ma propre fille a tweeté
+que j'avais un nez énorme.</i>
+
+215
+00:13:41,743 --> 00:13:44,198
+- Peut-être que je lancerai bien.
+- <i>Pas sûr.</i>
+
+216
+00:13:44,902 --> 00:13:48,434
+<i>Là-haut, t'arrivais pas à me lancer
+un stylo, même en apesanteur.</i>
+
+217
+00:13:51,008 --> 00:13:52,665
+Merci pour tes encouragements.
+
+218
+00:13:52,831 --> 00:13:53,875
+<i>Quand tu veux.</i>
+
+219
+00:13:55,125 --> 00:13:56,552
+<i>Fais un câlin à ta femme.</i>
+
+220
+00:13:56,677 --> 00:13:59,797
+<i>Elle est bien plus mignonne que toi,
+je sais pas comment vous êtes ensemble.</i>
+
+221
+00:14:02,049 --> 00:14:03,249
+Il est sympa !
+
+222
+00:14:09,153 --> 00:14:10,099
+Désolée.
+
+223
+00:14:10,858 --> 00:14:12,004
+Non, c'est nous.
+
+224
+00:14:12,129 --> 00:14:14,521
+On n'aurait pas dû faire
+de comparaison.
+
+225
+00:14:15,174 --> 00:14:16,774
+Pourquoi ? On a gagné.
+
+226
+00:14:18,732 --> 00:14:21,126
+On devrait essayer
+avec Koothrappali et son chien.
+
+227
+00:14:21,251 --> 00:14:22,708
+Qu'on ait du challenge.
+
+228
+00:14:24,071 --> 00:14:25,857
+Juste une chose à ce sujet.
+
+229
+00:14:25,982 --> 00:14:28,100
+Même si Penny et moi
+sommes très différents,
+
+230
+00:14:28,225 --> 00:14:30,119
+on n'est pas forcément
+un mauvais couple.
+
+231
+00:14:30,786 --> 00:14:33,039
+Un simple test
+et tu auras la réponse.
+
+232
+00:14:33,795 --> 00:14:37,184
+Comme la fois où j'ai cru qu'il y avait
+un opossum dans mon placard.
+
+233
+00:14:37,309 --> 00:14:39,334
+Je ne suis pas resté
+les bras croisés.
+
+234
+00:14:39,459 --> 00:14:41,889
+J'ai envoyé Leonard
+avec un bâton et un sac.
+
+235
+00:14:43,533 --> 00:14:45,514
+J'ai tué ses pantoufles Chewbacca.
+
+236
+00:14:49,096 --> 00:14:51,557
+- On va faire ce test.
+- Non, je ne veux pas.
+
+237
+00:14:51,723 --> 00:14:54,556
+- Vu qu'on aura un mauvais score.
+- On s'en fout.
+
+238
+00:14:54,681 --> 00:14:57,438
+Peu importe qu'on ait dix ou deux.
+
+239
+00:14:57,604 --> 00:14:59,315
+Ou un, c'est possible.
+
+240
+00:15:01,242 --> 00:15:03,277
+Le mariage, c'est effrayant.
+
+241
+00:15:03,443 --> 00:15:04,737
+Tu as peur et moi aussi.
+
+242
+00:15:05,616 --> 00:15:07,504
+Mais j'ai toujours envie de le faire.
+
+243
+00:15:09,785 --> 00:15:12,645
+J'ai envie de te prendre par la main
+et de le faire avec toi.
+
+244
+00:15:18,208 --> 00:15:21,143
+Je serais si heureuse
+si tu disais des choses comme ça.
+
+245
+00:15:22,041 --> 00:15:24,541
+On a eu 8,2.
+Crois-moi, tu es heureuse.
+
+246
+00:15:35,373 --> 00:15:38,070
+J'aime bien la cascade
+qu'ils ont mis à côté du terrain.
+
+247
+00:15:38,195 --> 00:15:40,016
+Ça donne vraiment un genre.
+
+248
+00:15:40,731 --> 00:15:42,483
+Regardez qui parle de sport.
+
+249
+00:15:44,860 --> 00:15:46,167
+C'est sympa, non ?
+
+250
+00:15:46,292 --> 00:15:48,239
+On va voir notre ami faire un lancer,
+
+251
+00:15:48,405 --> 00:15:49,824
+on va mater le match...
+
+252
+00:15:51,532 --> 00:15:53,828
+On n'a pas dit
+qu'on regarderait tout le match.
+
+253
+00:15:55,996 --> 00:15:57,373
+Tu t'attendais à quoi ?
+
+254
+00:15:58,100 --> 00:16:00,376
+Je m'attendais à voir Howard
+faire son lancer,
+
+255
+00:16:00,501 --> 00:16:02,095
+à finir mon hot-dog,
+
+256
+00:16:02,220 --> 00:16:06,170
+et à aller à Disneyland juste en face
+pour voir la parade de Mickey.
+
+257
+00:16:07,807 --> 00:16:09,148
+Je te propose un truc.
+
+258
+00:16:09,273 --> 00:16:12,120
+Je t'achèterai une barbe à papa
+et une figurine bobble head.
+
+259
+00:16:13,709 --> 00:16:14,974
+La figurine de qui ?
+
+260
+00:16:15,540 --> 00:16:16,559
+Ça change quoi ?
+
+261
+00:16:17,459 --> 00:16:19,312
+Rien, tant que la tête gigote.
+
+262
+00:16:21,858 --> 00:16:23,994
+Je suis tellement fière de toi.
+
+263
+00:16:24,119 --> 00:16:26,194
+Merci, je suis fier de moi aussi.
+
+264
+00:16:27,561 --> 00:16:28,562
+Prêt ?
+
+265
+00:16:29,029 --> 00:16:30,129
+C'est parti.
+
+266
+00:16:33,842 --> 00:16:36,409
+- Souhaite-moi bonne chance.
+- Impressionne-les.
+
+267
+00:16:36,534 --> 00:16:40,030
+<i>Mesdames et messieurs,
+à l'occasion du Jour de l'Espace,</i>
+
+268
+00:16:40,665 --> 00:16:44,488
+<i>la première balle sera lancée
+par l'astronaute Howard Wolowitz.</i>
+
+269
+00:16:48,256 --> 00:16:49,300
+Merci.
+
+270
+00:16:49,862 --> 00:16:50,863
+Merci.
+
+271
+00:16:51,628 --> 00:16:53,017
+Il sait lancer ?
+
+272
+00:16:53,142 --> 00:16:55,590
+- Dans notre équipe de quidditch...
+- Donc non.
+
+273
+00:16:57,140 --> 00:17:01,366
+J'ai un message à adresser
+aux jeunes qui sont parmi nous.
+
+274
+00:17:02,002 --> 00:17:04,909
+Quand on m'a demandé
+de faire le premier lancer,
+
+275
+00:17:05,034 --> 00:17:07,590
+une petite voix dans ma tête
+
+276
+00:17:07,715 --> 00:17:10,089
+m'a dit que je n'y arriverai pas.
+
+277
+00:17:10,481 --> 00:17:13,515
+Je me suis entraîné encore et encore,
+
+278
+00:17:13,640 --> 00:17:14,948
+et vous savez quoi ?
+
+279
+00:17:15,528 --> 00:17:16,878
+Cette petite voix
+
+280
+00:17:18,256 --> 00:17:19,257
+avait raison.
+
+281
+00:17:21,790 --> 00:17:25,508
+Et c'est alors que je me suis rappelé
+que je n'étais pas un sportif.
+
+282
+00:17:25,994 --> 00:17:27,630
+Je suis un scientifique.
+
+283
+00:17:28,124 --> 00:17:31,924
+Voilà pourquoi le premier lancer
+sera effectué
+
+284
+00:17:32,049 --> 00:17:34,303
+par un appareil scientifique.
+
+285
+00:17:34,469 --> 00:17:38,265
+Mesdames et messieurs,
+filles et garçons, je vous présente
+
+286
+00:17:38,431 --> 00:17:42,892
+un prototype fonctionnel
+du Mars Rover !
+
+287
+00:17:48,650 --> 00:17:50,574
+Je place la balle...
+
+288
+00:17:51,770 --> 00:17:52,822
+et il la lance !
+
+289
+00:18:04,708 --> 00:18:07,003
+Pourquoi il va si lentement ?
+
+290
+00:18:07,169 --> 00:18:09,839
+Parce que je suis un idiot
+et que j'ai pas pensé à tout !
+
+291
+00:18:11,289 --> 00:18:12,467
+Nouveau plan.
+
+292
+00:18:12,887 --> 00:18:14,093
+On va à Disneyland,
+
+293
+00:18:14,259 --> 00:18:16,512
+on joue à cache-cache
+sur l'île de Tom Sawyer,
+
+294
+00:18:16,678 --> 00:18:19,067
+et on revient à temps
+pour voir la fin du lancer.
+
+295
+00:18:29,482 --> 00:18:31,967
+Pendant qu'on attend
+que la balle arrive,
+
+296
+00:18:32,092 --> 00:18:34,219
+voici quelques anecdotes
+à propos de Mars.
+
+297
+00:18:34,344 --> 00:18:35,845
+T'es nul, Wolowitz !
+
+298
+00:18:38,783 --> 00:18:41,037
+C'est une très juste déclaration !
+
+299
+00:19:01,161 --> 00:19:03,383
+{\pub}Le huer ne le fera pas accélérer !
+

@@ -1,0 +1,1424 @@
+1
+00:00:01,876 --> 00:00:05,840
+2-1-6-4-2-0-1-9-8-9.
+
+2
+00:00:06,006 --> 00:00:09,510
+Et ça, mademoiselle,
+sont les décimales 991 à 1000 de Pi.
+
+3
+00:00:10,411 --> 00:00:12,842
+En fait, je ne t'ai rien demandé.
+
+4
+00:00:14,468 --> 00:00:17,144
+Regarde, c'est le numéro
+du <i>Scientific American</i>
+
+5
+00:00:17,269 --> 00:00:20,217
+- où ils parlent de notre article.
+- Fais voir !
+
+6
+00:00:21,078 --> 00:00:23,866
+{\pos(192,205)}Je suis pas vraiment fan
+des interviews.
+
+7
+00:00:23,991 --> 00:00:28,141
+{\pos(192,225)}J'aime les moments où je parle,
+mais pas ceux où l'autre personne parle.
+
+8
+00:00:31,758 --> 00:00:33,984
+{\pos(192,225)}Ils ne parlent pas de Leonard.
+
+9
+00:00:34,475 --> 00:00:35,939
+{\pos(192,225)}C'est impossible.
+
+10
+00:00:36,064 --> 00:00:40,275
+{\pos(192,225)}Ils disent "Dr Cooper et son équipe".
+T'as parlé de lui, au moins ?
+
+11
+00:00:40,400 --> 00:00:42,954
+{\pos(192,225)}J'ai juste répondu
+à des questions sur la théorie.
+
+12
+00:00:43,079 --> 00:00:46,679
+{\pos(192,225)}Puis je les ai remerciés
+de ne pas mettre de cartes parfumées
+
+13
+00:00:46,804 --> 00:00:48,254
+{\pos(192,225)}dans leur magazine.
+
+14
+00:00:49,673 --> 00:00:50,923
+{\pos(192,225)}Pauvre Leonard.
+
+15
+00:00:51,278 --> 00:00:52,227
+Pourquoi ?
+
+16
+00:00:52,352 --> 00:00:55,768
+{\pos(192,225)}La théorie à laquelle il a pensé
+a été publiée dans <i>Scientific American</i>.
+
+17
+00:00:55,893 --> 00:00:58,376
+- Il va être content.
+- Probablement pas.
+
+18
+00:00:58,501 --> 00:01:00,227
+T'as peut-être raison.
+
+19
+00:01:00,579 --> 00:01:01,823
+C'est un nigaud.
+
+20
+00:01:03,334 --> 00:01:07,318
+Tu le prendrais comment si on te disait
+que t'étais "dans son équipe" ?
+
+21
+00:01:07,484 --> 00:01:08,903
+Je serais furieux.
+
+22
+00:01:09,880 --> 00:01:11,516
+Tu vois où je veux en venir ?
+
+23
+00:01:12,587 --> 00:01:14,587
+Qui ne demande rien n'a rien ?
+
+24
+00:01:16,607 --> 00:01:18,779
+L'herbe est toujours plus verte
+ailleurs ?
+
+25
+00:01:18,904 --> 00:01:22,104
+- Essaie encore.
+- Je sais pas, "On est tous Groot" ?
+
+26
+00:01:23,862 --> 00:01:28,120
+Cet article, tu le dois grâce à lui,
+et ils ne le disent pas.
+
+27
+00:01:28,245 --> 00:01:29,795
+Il va mal le prendre.
+
+28
+00:01:30,197 --> 00:01:31,842
+Je n'y suis pour rien.
+
+29
+00:01:32,008 --> 00:01:35,012
+Je l'ai pas exclu,
+et j'ai pas écrit l'article.
+
+30
+00:01:35,900 --> 00:01:39,067
+Tu te souviens à Disney Land,
+quand t'as pas pu retirer l'épée
+
+31
+00:01:39,192 --> 00:01:41,268
+et qu'ils ont laissé
+un enfant le faire ?
+
+32
+00:01:41,757 --> 00:01:42,857
+Cet enfant !
+
+33
+00:01:47,078 --> 00:01:48,328
+Pauvre Leonard.
+
+34
+00:01:50,197 --> 00:01:51,529
+Voilà.
+
+35
+00:01:51,695 --> 00:01:53,777
+Cet enfant
+était un très mauvais choix.
+
+36
+00:01:53,902 --> 00:01:55,891
+Si tu pleures quand ton churro tombe,
+
+37
+00:01:56,016 --> 00:01:58,118
+t'es pas fait
+pour gouverner l'Angleterre.
+
+38
+00:02:00,503 --> 00:02:01,957
+Giggity Team
+
+39
+00:02:02,685 --> 00:02:04,835
+www.u-sub.net
+www.giggityteam.fr
+
+40
+00:02:07,393 --> 00:02:09,996
+benji1000, BJAM1M
+
+41
+00:02:23,528 --> 00:02:26,528
+{\pub}{\fad(400,400)}Saison 8 - Épisode 18
+<i>The Leftover Thermalization</i>
+
+42
+00:02:29,433 --> 00:02:32,064
+Merci de m'aider
+à ranger les affaires de ma mère.
+
+43
+00:02:32,189 --> 00:02:33,414
+C'est normal.
+
+44
+00:02:33,539 --> 00:02:37,240
+Je sais ce que ça fait
+de parcourir les affaires d'un proche.
+
+45
+00:02:37,406 --> 00:02:39,848
+Mon oncle était un adorateur
+de Krishna,
+
+46
+00:02:39,973 --> 00:02:42,327
+mais à sa mort,
+vous savez ce qu'on a trouvé ?
+
+47
+00:02:42,452 --> 00:02:44,221
+Une statue de Shiva.
+
+48
+00:02:48,168 --> 00:02:51,755
+C'était pas la nouvelle du siècle,
+mais là-bas, ça a fait du bruit.
+
+49
+00:02:54,095 --> 00:02:58,429
+{\pos(192,205)}Ta présence sera bénéfique.
+Howard ne sait pas quoi garder ou jeter.
+
+50
+00:02:59,098 --> 00:03:03,183
+{\pos(192,205)}C'est très dur, beaucoup d'affaires
+me rappellent des souvenirs agréables.
+
+51
+00:03:03,349 --> 00:03:06,399
+{\pos(192,205)}Y compris le tiroir
+rempli de paquets de ketchup ?
+
+52
+00:03:08,368 --> 00:03:10,980
+{\pos(192,205)}Ça me rappelle une fois au fast-food,
+quand elle a dit,
+
+53
+00:03:11,105 --> 00:03:13,444
+"Vite, personne regarde,
+remplis tes poches".
+
+54
+00:03:23,211 --> 00:03:24,703
+T'as déjà remarqué...
+
+55
+00:03:26,247 --> 00:03:28,818
+que y a que mon nom
+sur la facture du câble ?
+
+56
+00:03:35,300 --> 00:03:38,543
+{\pos(192,205)}Tandis que sur la facture d'électricité,
+y a que ton nom, et pas le mien.
+
+57
+00:03:38,668 --> 00:03:40,137
+{\pos(192,205)}Et je l'accepte.
+
+58
+00:03:40,486 --> 00:03:42,514
+Il y a ton nom aussi
+pour l'électricité.
+
+59
+00:03:43,051 --> 00:03:44,301
+{\pos(192,205)}Ah, c'est vrai.
+
+60
+00:03:46,515 --> 00:03:47,615
+Catastrophe.
+
+61
+00:03:49,986 --> 00:03:52,858
+{\pos(192,205)}Je sais pas de quoi tu parles,
+mais je suis d'accord.
+
+62
+00:03:55,049 --> 00:03:58,489
+{\pos(192,50)}Je vais te dire quelque chose,
+mais ça va pas te plaire.
+
+63
+00:03:58,915 --> 00:03:59,907
+Quoi ?
+
+64
+00:04:01,101 --> 00:04:05,371
+Ils parlent de notre article
+dans le <i>Scientific American</i>.
+
+65
+00:04:06,077 --> 00:04:09,196
+- Ça leur a pas plu ?
+- Si, ils ont bien aimé.
+
+66
+00:04:09,321 --> 00:04:11,669
+Ils n'ont pas tari d'éloges.
+
+67
+00:04:12,442 --> 00:04:14,046
+Quel est le problème ?
+
+68
+00:04:16,040 --> 00:04:18,676
+{\pos(192,50)}Sur l'abonnement du ParuVendu,
+il n'y a que mon nom...
+
+69
+00:04:21,121 --> 00:04:24,014
+Ils ne parlent pas de toi
+dans l'article, seulement de moi.
+
+70
+00:04:25,504 --> 00:04:28,815
+{\pos(192,205)}- Ah ?
+- Oui, c'est pas juste.
+
+71
+00:04:32,202 --> 00:04:34,066
+Laisse partir la colère.
+
+72
+00:04:35,733 --> 00:04:37,522
+Détends tous tes muscles.
+
+73
+00:04:38,479 --> 00:04:42,479
+Sauf ton muscle pubo-coccygien
+et ton sphincter anal, serre-les bien.
+
+74
+00:04:45,082 --> 00:04:46,829
+C'est pas nécessaire.
+
+75
+00:04:46,995 --> 00:04:49,456
+Si, c'est ce qui retient
+l'urine et les excréments.
+
+76
+00:04:51,202 --> 00:04:54,336
+Tu devrais pas le lire,
+ça va aggraver la situation.
+
+77
+00:04:54,889 --> 00:04:56,839
+"Cooper et son équipe" ?
+
+78
+00:04:57,005 --> 00:04:59,258
+Je n'y suis vraiment pour rien.
+
+79
+00:05:01,826 --> 00:05:04,511
+Au moins, ils parlent de la théorie.
+
+80
+00:05:04,636 --> 00:05:06,223
+C'est le principal.
+
+81
+00:05:07,319 --> 00:05:08,369
+C'est vrai.
+
+82
+00:05:10,189 --> 00:05:13,539
+Comme quand Stan Lee et Steve Ditko
+ont créé Spider-Man.
+
+83
+00:05:13,664 --> 00:05:15,567
+Stan Lee récolte les honneurs,
+
+84
+00:05:15,692 --> 00:05:18,360
+mais Steve Ditko sait
+qu'il compte tout autant.
+
+85
+00:05:18,526 --> 00:05:21,238
+Même si Stan Lee
+apparaît dans tous les films Marvel.
+
+86
+00:05:21,655 --> 00:05:22,948
+Et il est plus riche.
+
+87
+00:05:23,799 --> 00:05:25,951
+Et c'est un nom dont on se souvient.
+
+88
+00:05:26,076 --> 00:05:29,913
+Quand on entend Ditko,
+ça fait penser aux dictionnaires.
+
+89
+00:05:32,927 --> 00:05:34,209
+Ça m'aide pas.
+
+90
+00:05:36,496 --> 00:05:40,326
+Je te donnerais bien d'autres d'exemples
+mais on oublie vite les gens comme toi.
+
+91
+00:05:44,347 --> 00:05:45,971
+Stuart, on est là.
+
+92
+00:05:46,433 --> 00:05:48,849
+C'est sympa de le laisser vivre ici.
+
+93
+00:05:50,018 --> 00:05:53,145
+J'ai voulu le mettre à la rue,
+mais personne n'en a voulu.
+
+94
+00:05:56,521 --> 00:05:57,941
+Y a plus de courant.
+
+95
+00:05:58,107 --> 00:06:01,403
+- Que s'est-il passé ?
+- Un problème de transformateur.
+
+96
+00:06:01,569 --> 00:06:03,697
+Tout le quartier.
+Ils répareront demain.
+
+97
+00:06:04,132 --> 00:06:05,574
+C'est arrivé quand ?
+
+98
+00:06:05,740 --> 00:06:06,992
+Dans la nuit.
+
+99
+00:06:09,857 --> 00:06:11,007
+Qu'y a-t-il ?
+
+100
+00:06:15,124 --> 00:06:16,627
+Ça se décongèle.
+
+101
+00:06:16,793 --> 00:06:18,295
+C'est que de la nourriture.
+
+102
+00:06:18,461 --> 00:06:20,707
+C'est pas que de la nourriture.
+
+103
+00:06:21,644 --> 00:06:23,967
+Ce sont les derniers plats
+que ma mère a faits.
+
+104
+00:06:24,655 --> 00:06:26,709
+C'est son dernier rôti.
+
+105
+00:06:26,834 --> 00:06:29,431
+Son dernier pain de viande.
+Son dernier...
+
+106
+00:06:31,373 --> 00:06:34,186
+Je ne sais pas du tout
+ce que c'est, mais...
+
+107
+00:06:35,503 --> 00:06:37,022
+c'est le dernier.
+
+108
+00:06:37,697 --> 00:06:38,974
+Tout va bien ?
+
+109
+00:06:40,201 --> 00:06:42,903
+Toute la nourriture de ma mère
+va être fichue.
+
+110
+00:06:43,069 --> 00:06:45,291
+Pourquoi on l'amènerait pas
+chez nous ?
+
+111
+00:06:45,416 --> 00:06:49,309
+Mauvaise idée. En plus d'assécher,
+recongeler crée des cristaux
+
+112
+00:06:49,434 --> 00:06:53,501
+dans les fibres de la viande
+qui altèrent le goût et la texture.
+
+113
+00:06:55,540 --> 00:06:58,485
+Quoi ? Je vous apprends la science
+de la cuisine.
+
+114
+00:07:01,421 --> 00:07:02,879
+On fait quoi ?
+
+115
+00:07:03,444 --> 00:07:05,467
+Je vais te dire ce qu'on va faire.
+
+116
+00:07:06,309 --> 00:07:09,224
+- On va tout manger.
+- Il y en a plus de 10 kilos !
+
+117
+00:07:09,349 --> 00:07:11,997
+T'as dit que je devais me débarrasser
+des choses.
+
+118
+00:07:12,122 --> 00:07:14,852
+T'as pas dit que ça pouvait pas passer
+par mon colon.
+
+119
+00:07:20,402 --> 00:07:22,101
+Tu sais quoi ?
+
+120
+00:07:22,572 --> 00:07:24,484
+On va inviter tout le monde à manger.
+
+121
+00:07:24,955 --> 00:07:28,407
+C'est comme si Ma nous faisait à manger
+une dernière fois.
+
+122
+00:07:30,027 --> 00:07:31,159
+Ça me plaît.
+
+123
+00:07:32,660 --> 00:07:33,783
+Moi aussi.
+
+124
+00:07:35,277 --> 00:07:39,126
+Regarde, y aura du ketchup
+pour tout recouvrir.
+
+125
+00:07:42,331 --> 00:07:45,257
+Qui peut bien lire
+<i>Scientific American</i> ?
+
+126
+00:07:48,826 --> 00:07:50,345
+C'est assez important.
+
+127
+00:07:50,511 --> 00:07:53,341
+Dans ce cas, comment ça se fait
+que ce soit juste une molécule
+
+128
+00:07:53,466 --> 00:07:54,893
+qui fasse la couverture ?
+
+129
+00:07:57,547 --> 00:07:59,679
+On peut pas parler d'autre chose ?
+
+130
+00:07:59,804 --> 00:08:02,456
+- Désolée. Qu'est-ce que je peux faire ?
+- Rien, ça va.
+
+131
+00:08:03,844 --> 00:08:05,694
+Non, je vais te remonter le moral.
+
+132
+00:08:07,533 --> 00:08:09,535
+Et voilà.
+
+133
+00:08:09,660 --> 00:08:12,360
+- Quoi ?
+- On va faire du shopping.
+
+134
+00:08:12,485 --> 00:08:15,282
+Mon bébé est triste,
+je vais lui donner le sourire.
+
+135
+00:08:16,120 --> 00:08:19,416
+Je sais que t'aimes faire du shopping,
+mais moi, je m'en fiche.
+
+136
+00:08:19,944 --> 00:08:23,128
+Même de cet hélicoptère
+qu'on dirige avec un iPad ?
+
+137
+00:08:23,733 --> 00:08:25,308
+Il a une caméra ?
+
+138
+00:08:26,734 --> 00:08:28,770
+Oui, il y en a une.
+
+139
+00:08:29,627 --> 00:08:31,025
+Bébé écoute.
+
+140
+00:08:37,110 --> 00:08:39,102
+J'ai parlé au journaliste.
+
+141
+00:08:41,571 --> 00:08:43,649
+Alors ?
+Tu lui as dit que c'était mon idée ?
+
+142
+00:08:43,815 --> 00:08:44,691
+Oui.
+
+143
+00:08:44,857 --> 00:08:46,610
+Merci.
+Il a dit quoi ?
+
+144
+00:08:46,776 --> 00:08:49,207
+Il a dit qu'ils avaient fait
+la décision éditoriale
+
+145
+00:08:49,332 --> 00:08:51,448
+de ne citer
+que le scientifique responsable.
+
+146
+00:08:51,614 --> 00:08:55,827
+Pourquoi il a pensé que c'était toi ?
+C'était mon idée !
+
+147
+00:08:55,993 --> 00:08:58,579
+Pour quatre dollars de plus,
+ils le livrent demain.
+
+148
+00:08:59,701 --> 00:09:03,504
+Je sais bien, mais le journaliste a dit
+qu'il suivait mon travail
+
+149
+00:09:03,629 --> 00:09:07,631
+depuis un moment, et s'ils en ont parlé,
+c'est parce qu'il y a mon nom.
+
+150
+00:09:07,797 --> 00:09:09,933
+J'ai commandé.
+Quatre dollars, c'est quoi ?
+
+151
+00:09:10,591 --> 00:09:13,804
+Si t'essayes de me réconforter,
+ça marche pas.
+
+152
+00:09:14,750 --> 00:09:18,855
+Et si je te dis que j'ai ajouté ton nom
+à la facture du câble ?
+
+153
+00:09:24,313 --> 00:09:27,442
+Tant mieux. J'ai attendu 20 minutes
+au téléphone et j'ai raccroché.
+
+154
+00:09:35,533 --> 00:09:38,168
+Et puis Wolowitz nous a invités
+à manger, donc...
+
+155
+00:09:40,380 --> 00:09:41,909
+On y va quand tu veux.
+
+156
+00:09:51,757 --> 00:09:54,094
+{\pub}Il a juste eu l'idée.
+
+157
+00:09:54,260 --> 00:09:55,804
+C'est quand même important.
+
+158
+00:09:55,970 --> 00:09:58,918
+Je t'en prie !
+J'ai des idées tout le temps.
+
+159
+00:09:59,403 --> 00:10:02,728
+Seaworld inversé
+où les dauphins nourrissent les humains.
+
+160
+00:10:04,395 --> 00:10:08,525
+Une taille de vêtement
+entre Medium et Large, appelée Marge.
+
+161
+00:10:09,698 --> 00:10:12,307
+Blanche neige
+du point de vue d'Atchoum.
+
+162
+00:10:12,432 --> 00:10:15,697
+Pourquoi Prof ne lui prescrit rien ?
+On le découvre enfin.
+
+163
+00:10:17,116 --> 00:10:18,827
+Son idée à lui était bonne.
+
+164
+00:10:20,691 --> 00:10:23,844
+Et Grincheux...
+C'est quoi son problème ?
+
+165
+00:10:24,237 --> 00:10:26,668
+Peut-être que sa copine
+n'est pas d'accord avec lui.
+
+166
+00:10:28,586 --> 00:10:30,825
+C'était mon idée, au départ !
+
+167
+00:10:30,950 --> 00:10:33,007
+Il n'a pas beaucoup travaillé
+dessus ?
+
+168
+00:10:33,173 --> 00:10:37,369
+Mais maintenant, il fait croire aux gens
+qu'il a tout fait.
+
+169
+00:10:37,494 --> 00:10:40,932
+Et c'est pour ça que t'auras
+un hélicoptère iPad !
+
+170
+00:10:42,683 --> 00:10:46,104
+C'est de ma faute
+si j'ai une plus grande réputation ?
+
+171
+00:10:46,270 --> 00:10:47,355
+Non.
+
+172
+00:10:47,521 --> 00:10:50,859
+C'est de ma faute si mon nom
+est avant le sien dans l'alphabet ?
+
+173
+00:10:51,025 --> 00:10:52,110
+Non.
+
+174
+00:10:52,276 --> 00:10:56,031
+C'est ma faute si j'ai pas corrigé
+quand on m'a cité comme responsable ?
+
+175
+00:10:57,112 --> 00:10:58,617
+Regarde le bel oiseau.
+
+176
+00:11:00,493 --> 00:11:03,205
+Il faut qu'il s'accapare
+toute l'attention. Quel bébé.
+
+177
+00:11:03,371 --> 00:11:04,873
+Je sais.
+
+178
+00:11:05,039 --> 00:11:07,250
+Jamais je lui prêterai
+mon hélicoptère.
+
+179
+00:11:11,128 --> 00:11:14,257
+Je commence à faire réchauffer.
+
+180
+00:11:14,423 --> 00:11:15,424
+Merci.
+
+181
+00:11:16,935 --> 00:11:20,931
+C'est la boutonnière
+du bal du lycée...
+
+182
+00:11:21,972 --> 00:11:24,552
+Une part du gâteau de ma Bar Mitzvah.
+
+183
+00:11:25,994 --> 00:11:27,677
+Elle ne jetait rien ?
+
+184
+00:11:28,562 --> 00:11:30,927
+Si je trouve mon prépuce,
+je me suicide.
+
+185
+00:11:35,035 --> 00:11:36,699
+Donc, on a...
+
+186
+00:11:36,824 --> 00:11:39,699
+trois rôtis, quatre pains de viande,
+un plat de lasagnes...
+
+187
+00:11:39,865 --> 00:11:41,535
+Non, c'est un kugel.
+
+188
+00:11:41,701 --> 00:11:43,495
+Des lasagnes juives...
+
+189
+00:11:44,954 --> 00:11:47,884
+deux gâteaux vraiment monstrueux,
+
+190
+00:11:48,009 --> 00:11:50,836
+et un énorme tupperware
+de soupe avec matzas.
+
+191
+00:11:51,801 --> 00:11:55,105
+Elle en avait toujours en réserve,
+
+192
+00:11:55,230 --> 00:11:56,902
+au cas où je sois malade.
+
+193
+00:11:57,794 --> 00:11:59,268
+Elle pensait...
+
+194
+00:11:59,393 --> 00:12:02,475
+pouvoir tout guérir avec sa cuisine.
+
+195
+00:12:03,131 --> 00:12:05,937
+Même la fois
+où j'ai eu une intoxication alimentaire.
+
+196
+00:12:07,772 --> 00:12:09,173
+À cause d'elle.
+
+197
+00:12:12,583 --> 00:12:13,441
+Ça va ?
+
+198
+00:12:15,008 --> 00:12:16,444
+Oui, ça va.
+
+199
+00:12:17,034 --> 00:12:19,032
+- En route.
+- C'est parti.
+
+200
+00:12:24,494 --> 00:12:27,497
+Je ne pourrai plus lui parler.
+
+201
+00:12:35,921 --> 00:12:37,649
+Tu veux qu'on annule ?
+
+202
+00:12:39,162 --> 00:12:40,802
+Non, je veux faire ça.
+
+203
+00:12:42,101 --> 00:12:43,763
+Courage, hein.
+
+204
+00:12:47,141 --> 00:12:49,352
+Je ne vous promets rien !
+
+205
+00:12:53,010 --> 00:12:55,071
+- C'est sympa d'être venus.
+- Bien sûr.
+
+206
+00:12:55,196 --> 00:12:56,818
+C'est très joli.
+
+207
+00:12:56,984 --> 00:13:00,113
+Une demi-douzaine de menorahs,
+ça crée une ambiance.
+
+208
+00:13:02,531 --> 00:13:05,452
+T'as pensé à ce qui se passerait
+si Howard vendait la maison ?
+
+209
+00:13:05,618 --> 00:13:07,054
+Et y a plus d'ambiance.
+
+210
+00:13:10,104 --> 00:13:13,691
+Salutations particulières à Leonard,
+à qui on a besoin de faire référence.
+
+211
+00:13:16,170 --> 00:13:17,005
+Subtil.
+
+212
+00:13:17,171 --> 00:13:18,340
+Mais t'as compris.
+
+213
+00:13:22,968 --> 00:13:27,140
+Je voulais vous dire
+que ce n'est pas une soirée triste.
+
+214
+00:13:27,306 --> 00:13:30,528
+On veut passer le genre de dîner
+auquel on a été conviés tant de fois.
+
+215
+00:13:30,653 --> 00:13:33,240
+De la bonne bouffe,
+des bons amis, et parfois,
+
+216
+00:13:33,365 --> 00:13:36,066
+des brûlures d'estomac
+qui nous font souhaiter notre mort.
+
+217
+00:13:37,906 --> 00:13:41,655
+- Besoin d'aide en cuisine ?
+- Non, ça ira, mettez-vous à l'aise.
+
+218
+00:13:43,286 --> 00:13:46,409
+Hé, vous deux, on est là pour Howard.
+
+219
+00:13:46,575 --> 00:13:49,619
+- Oui, comportez-vous bien.
+- Évidemment.
+
+220
+00:13:54,104 --> 00:13:57,128
+Il paraît que vous travaillez ensemble,
+comment ça se passe ?
+
+221
+00:14:01,753 --> 00:14:05,158
+- C'est vraiment trop bon.
+- Et pas un seul légume en vue.
+
+222
+00:14:05,912 --> 00:14:06,972
+C'est faux,
+
+223
+00:14:07,138 --> 00:14:08,431
+y a de la tomate.
+
+224
+00:14:11,183 --> 00:14:14,543
+Plein de gens formidables à table,
+éclairés par des bougies...
+
+225
+00:14:14,668 --> 00:14:17,358
+On se croirait dans un salon français
+du XVIIIe siècle.
+
+226
+00:14:17,969 --> 00:14:19,109
+C'est vrai.
+
+227
+00:14:19,903 --> 00:14:23,133
+Penny, un salon littéraire
+est un rassemblement d'intellectuels
+
+228
+00:14:23,258 --> 00:14:25,901
+qui se divertissaient
+par des conversations éclairées
+
+229
+00:14:26,026 --> 00:14:27,742
+sur les problèmes de l'époque.
+
+230
+00:14:27,908 --> 00:14:29,523
+Comme <i>The View</i>.
+
+231
+00:14:31,745 --> 00:14:34,753
+Sheldon, <i>The View</i> est un talk-show
+présenté par des femmes.
+
+232
+00:14:36,750 --> 00:14:39,385
+Je le sais.
+C'est avec Whoopi Goldberg.
+
+233
+00:14:39,510 --> 00:14:41,923
+Elle a joué Guinan
+dans <i>Star Trek : Nouvelle Génération</i>.
+
+234
+00:14:42,798 --> 00:14:44,843
+<i>Nouvelle Génération</i>
+fait référence à...
+
+235
+00:14:45,009 --> 00:14:46,011
+Tais-toi.
+
+236
+00:14:48,345 --> 00:14:51,141
+J'aimerais proposer
+un sujet de discussion.
+
+237
+00:14:51,307 --> 00:14:52,767
+Je t'en prie, Rajesh.
+
+238
+00:14:52,933 --> 00:14:54,974
+L'héroïne d'<i>Hunger Games</i>
+est une femme.
+
+239
+00:14:55,099 --> 00:14:56,980
+Pour Marvel, Thor est une femme.
+
+240
+00:14:57,980 --> 00:14:59,024
+Thor ?
+
+241
+00:14:59,506 --> 00:15:02,234
+Tu sais, Thor, le dieu du tonnerre.
+
+242
+00:15:04,637 --> 00:15:07,782
+Bref, je disais donc,
+est-ce un signe que notre société
+
+243
+00:15:07,948 --> 00:15:10,076
+s'approche de l'égalité des sexes ?
+
+244
+00:15:11,026 --> 00:15:13,496
+De plus en plus de femmes
+lisent des <i>comics</i>.
+
+245
+00:15:13,662 --> 00:15:16,863
+C'est vrai, j'ai dû mettre
+une lunette sur les WC du magasin.
+
+246
+00:15:18,918 --> 00:15:21,986
+On ne saura si c'est vrai
+que lorsque Thor aura un bébé
+
+247
+00:15:22,111 --> 00:15:25,216
+et que les Avengers accepteront
+qu'elle tire son lait au travail.
+
+248
+00:15:26,509 --> 00:15:30,305
+Je me demande s'il faut être un bébé
+pour profiter de la poitrine de Thor.
+
+249
+00:15:31,286 --> 00:15:32,307
+Nouveau sujet.
+
+250
+00:15:32,889 --> 00:15:34,727
+Les salons : un vieux truc dépassé,
+
+251
+00:15:34,852 --> 00:15:38,269
+ou un truc intéressant rendu stupide
+par une discussion sur les super-héros ?
+
+252
+00:15:38,394 --> 00:15:39,356
+Débattez.
+
+253
+00:15:41,399 --> 00:15:43,487
+Je crois que le sujet importe peu.
+
+254
+00:15:43,612 --> 00:15:46,930
+L'important
+est de mener une discussion
+
+255
+00:15:47,055 --> 00:15:49,487
+de manière raisonnée et pertinente.
+
+256
+00:15:49,612 --> 00:15:51,368
+Tout dépend de l'exécution.
+
+257
+00:15:51,534 --> 00:15:54,954
+Évidemment, tu privilégies ça
+plutôt que l'idée-même des salons.
+
+258
+00:15:55,120 --> 00:15:56,623
+Nouveau sujet.
+
+259
+00:15:56,789 --> 00:15:59,584
+Quelle est le plus important,
+une idée ou son exécution ?
+
+260
+00:16:00,129 --> 00:16:01,127
+Sympa.
+
+261
+00:16:01,293 --> 00:16:04,297
+C'est bien, Leonard,
+quelle notion adorable.
+
+262
+00:16:04,463 --> 00:16:05,673
+Comme si tu disais,
+
+263
+00:16:05,839 --> 00:16:08,235
+"J'aimerais parler à mon oncle
+qui est à Chicago",
+
+264
+00:16:08,360 --> 00:16:10,957
+et que moi, j'inventais le téléphone.
+
+265
+00:16:12,241 --> 00:16:13,176
+Un instant.
+
+266
+00:16:13,301 --> 00:16:16,101
+Leonard, c'est ton oncle.
+Il te dit "Cassé !".
+
+267
+00:16:19,144 --> 00:16:20,227
+Ça va.
+
+268
+00:16:20,352 --> 00:16:23,036
+On est des adultes,
+on discute intelligemment.
+
+269
+00:16:23,161 --> 00:16:25,360
+Moi, en tout cas.
+T'en penses quoi, Howard ?
+
+270
+00:16:25,526 --> 00:16:29,989
+De mon point de vue d'ingénieur,
+je privilégie l'exécution d'une idée.
+
+271
+00:16:30,155 --> 00:16:34,077
+Je passe mes journées à essayer
+de transformer une idée en réalité.
+
+272
+00:16:34,243 --> 00:16:36,334
+Bien dit, vieille branche.
+
+273
+00:16:36,459 --> 00:16:39,214
+Je pensais que l'éloquence était morte,
+mais elle est là.
+
+274
+00:16:39,339 --> 00:16:42,760
+À ranger dans le top des discours,
+après Gettysburg et <i>J'ai fait un rêve</i>.
+
+275
+00:16:43,961 --> 00:16:47,674
+C'est un génie, maintenant ?
+Tu te moques sans cesse des ingénieurs.
+
+276
+00:16:47,840 --> 00:16:49,803
+Voyons, sa mère vient de mourir !
+
+277
+00:16:51,731 --> 00:16:53,371
+- T'es ridicule.
+- Toi aussi.
+
+278
+00:16:53,971 --> 00:16:56,724
+Si je voulais écouter des disputes,
+j'irais dans mon vrai salon.
+
+279
+00:16:57,451 --> 00:16:59,416
+Beaucoup auraient pu
+avoir cette idée,
+
+280
+00:16:59,541 --> 00:17:02,605
+mais peu de monde auraient pu
+la démontrer par les calculs.
+
+281
+00:17:02,771 --> 00:17:04,978
+Beaucoup de gens n'ont pas eu l'idée.
+
+282
+00:17:05,103 --> 00:17:07,944
+En fait, le monde entier, sauf moi.
+
+283
+00:17:08,110 --> 00:17:11,739
+Apparemment, Leonard se croit supérieur
+à la Terre entière !
+
+284
+00:17:11,905 --> 00:17:14,051
+Y compris ceux qui défendent
+notre liberté.
+
+285
+00:17:14,176 --> 00:17:17,245
+Je sais pas toi, mais moi,
+je soutiens nos soldats.
+
+286
+00:17:19,469 --> 00:17:22,083
+- Et nos soldates.
+- T'as déjà ruiné Thor, vas-y mollo.
+
+287
+00:17:24,543 --> 00:17:27,839
+Je devrais accepter le fait
+que tu monopolises tout le mérite ?
+
+288
+00:17:28,005 --> 00:17:29,507
+J'ai rien monopolisé.
+
+289
+00:17:29,632 --> 00:17:33,052
+Pas comme toi et les lasagnes bizarres
+avec des raisins secs.
+
+290
+00:17:33,218 --> 00:17:35,169
+T'en veux ?
+Tu peux en avoir.
+
+291
+00:17:35,294 --> 00:17:37,515
+Sheldon, Leonard,
+venez immédiatement.
+
+292
+00:17:43,609 --> 00:17:46,029
+Elle m'a appelé en premier,
+tu dois être effondré.
+
+293
+00:17:48,051 --> 00:17:49,814
+Je sais pas ce que vous croyez faire,
+
+294
+00:17:49,939 --> 00:17:51,988
+mais mon mari traverse
+une période difficile.
+
+295
+00:17:52,154 --> 00:17:54,614
+On mange les restes
+de ce que sa mère a cuisiné,
+
+296
+00:17:54,739 --> 00:17:57,216
+et vous pensiez vous battre avec
+comme des enfants ?
+
+297
+00:17:57,341 --> 00:17:59,735
+Peu importe votre dispute,
+mettez-la en veilleuse.
+
+298
+00:17:59,860 --> 00:18:03,710
+Allez vous comporter en bons amis,
+ou vous n'aurez pas de dessert.
+
+299
+00:18:08,038 --> 00:18:10,088
+Regarde-moi quand je te parle !
+
+300
+00:18:10,213 --> 00:18:14,010
+Vous avez déjà remarqué
+que Bernadette parle comme ma mère ?
+
+301
+00:18:15,842 --> 00:18:17,992
+- Je ne trouve pas.
+- Pas du tout.
+
+302
+00:18:33,237 --> 00:18:36,366
+{\pub}Je crois
+que j'ai jamais mangé autant.
+
+303
+00:18:36,532 --> 00:18:39,664
+C'est pour ça que mon peuple
+a erré dans le désert pendant 40 ans.
+
+304
+00:18:39,789 --> 00:18:41,889
+Il fallait bien ça pour digérer.
+
+305
+00:18:43,955 --> 00:18:46,133
+Penny, pendant 40 ans,
+le peuple d'Israël...
+
+306
+00:18:46,258 --> 00:18:47,259
+Ta gueule.
+
+307
+00:18:49,353 --> 00:18:51,506
+C'est bien
+que vous vous disputiez plus.
+
+308
+00:18:51,672 --> 00:18:54,772
+Je me concentre
+pour essayer de roter sans vomir.
+
+309
+00:18:57,804 --> 00:19:00,098
+<i>Physics Today</i>
+a mentionné notre article.
+
+310
+00:19:00,264 --> 00:19:03,643
+- Qu'est-ce qu'ils disent ?
+- Peu importe. Ils parlent de Leonard ?
+
+311
+00:19:03,809 --> 00:19:04,811
+Oui.
+
+312
+00:19:08,105 --> 00:19:09,983
+Bonne nouvelle,
+j'ai trouvé des Gaviscon.
+
