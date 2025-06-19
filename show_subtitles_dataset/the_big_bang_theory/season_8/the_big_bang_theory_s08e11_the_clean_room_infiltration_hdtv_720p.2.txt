@@ -1,0 +1,1435 @@
+1
+00:00:03,031 --> 00:00:05,005
+Comment ça va, tes parents ?
+
+2
+00:00:05,171 --> 00:00:07,513
+Pas génial, ils ont pris
+des avocats de divorce.
+
+3
+00:00:08,008 --> 00:00:11,799
+En parlant d'avocats,
+si jamais j'en ai besoin d'un,
+
+4
+00:00:11,924 --> 00:00:14,014
+je n'engagerais pas Miss Hulk.
+
+5
+00:00:16,573 --> 00:00:20,229
+Ça avait presque un rapport.
+Bien joué, Sheldon.
+
+6
+00:00:21,505 --> 00:00:23,155
+Miss Hulk est avocate ?
+
+7
+00:00:23,607 --> 00:00:25,234
+Dans un cabinet à New York.
+
+8
+00:00:25,400 --> 00:00:28,648
+{\pos(192,210)}Mais c'est la seule mutante
+du cabinet.
+
+9
+00:00:28,773 --> 00:00:30,488
+Entre vous, moi et les murs,
+
+10
+00:00:30,613 --> 00:00:33,659
+je pense qu'elle a été engagée
+par discrimination positive.
+
+11
+00:00:35,201 --> 00:00:36,788
+{\pos(192,230)}Bref, Papa va venir ici,
+
+12
+00:00:36,913 --> 00:00:39,498
+{\pos(192,230)}je pourrai pas organiser
+le dîner de Noël, cette année.
+
+13
+00:00:39,664 --> 00:00:42,800
+{\pos(192,230)}Vu que tu ne peux pas,
+je serais contente de le faire.
+
+14
+00:00:42,925 --> 00:00:44,378
+Tu peux amener ton père.
+
+15
+00:00:45,054 --> 00:00:46,088
+C'est sympa.
+
+16
+00:00:46,254 --> 00:00:48,924
+{\pos(192,230)}J'ai toujours voulu organiser
+un Noël victorien traditionnel.
+
+17
+00:00:49,090 --> 00:00:51,820
+{\pos(192,230)}Jeux de salons, oie,
+pudding aux figues...
+
+18
+00:00:54,784 --> 00:00:56,069
+Le pudding anglais.
+
+19
+00:00:56,194 --> 00:01:00,401
+T'es tout content d'avoir du pudding,
+et on te sert un cake aux raisins secs.
+
+20
+00:01:01,655 --> 00:01:03,856
+- Je ne viens pas.
+- Si, tu viens.
+
+21
+00:01:04,022 --> 00:01:05,324
+Pourquoi me hais-tu ?
+
+22
+00:01:06,695 --> 00:01:08,314
+Je ne te hais pas, je t'aime.
+
+23
+00:01:09,262 --> 00:01:11,655
+Il y a beaucoup de raisins secs,
+pour de l'amour.
+
+24
+00:01:14,491 --> 00:01:17,495
+{\pos(192,230)}Bonne chance pour les enthousiasmer
+avec un dîner à thème.
+
+25
+00:01:17,661 --> 00:01:20,873
+{\pos(192,230)}J'ai abandonné quand ils n'ont pas réagi
+à mon Tom Hanks-giving.
+
+26
+00:01:23,296 --> 00:01:25,961
+- Un Noël victorien, c'est sympa.
+- C'est vrai.
+
+27
+00:01:26,127 --> 00:01:27,787
+- Oui.
+- Vous êtes nuls !
+
+28
+00:01:30,244 --> 00:01:31,836
+Giggity Team
+
+29
+00:01:32,431 --> 00:01:34,583
+www.u-sub.net
+www.giggityteam.fr
+
+30
+00:01:36,175 --> 00:01:39,219
+benji1000, Berenice1, hemhel
+
+31
+00:01:52,602 --> 00:01:55,602
+{\pub}{\fad(400,400)}Saison 8 - Épisode 11
+<i>The Clean Room Infiltration</i>
+
+32
+00:02:00,277 --> 00:02:02,696
+Tu sais ce qui est top,
+avec les salles blanches ?
+
+33
+00:02:02,821 --> 00:02:04,740
+Pas d'allergies.
+Regarde ça.
+
+34
+00:02:07,943 --> 00:02:09,958
+Ça fait beaucoup d'oxygène.
+
+35
+00:02:11,951 --> 00:02:13,249
+Allons chez Amy.
+
+36
+00:02:13,817 --> 00:02:15,575
+T'y crois, toi, qu'à une époque,
+
+37
+00:02:15,700 --> 00:02:19,765
+{\pos(192,210)}on avait besoin de réseaux de télescopes
+pour trouver des particules cosmiques ?
+
+38
+00:02:19,931 --> 00:02:22,893
+{\pos(192,210)}Et nous voilà, à construire
+notre propre détecteur électrifié,
+
+39
+00:02:23,059 --> 00:02:24,524
+{\pos(192,210)}on déchire.
+
+40
+00:02:26,740 --> 00:02:29,919
+{\pos(192,210)}Je sais, si on était célibataires,
+on serait à fond sur ce matos.
+
+41
+00:02:31,744 --> 00:02:34,616
+{\pos(192,210)}Les filles aiment les mecs
+habillés en sac poubelle.
+
+42
+00:02:44,436 --> 00:02:46,041
+Comment il est rentré ?
+
+43
+00:02:46,207 --> 00:02:48,085
+- T'as fermé les portes ?
+- Et toi ?
+
+44
+00:02:48,251 --> 00:02:50,395
+{\pos(192,210)}C'est une catastrophe !
+
+45
+00:02:50,520 --> 00:02:54,527
+{\pos(192,210)}Vu que c'est une salle aseptisée,
+et que cette pourriture volante est là ?
+
+46
+00:02:56,615 --> 00:02:58,470
+On fait quoi, on appelle quelqu'un ?
+
+47
+00:02:58,636 --> 00:03:01,348
+Et dire qu'on a compromis
+l'équipement ?
+
+48
+00:03:01,514 --> 00:03:05,102
+- Faisons-le vite sortir.
+- Comment on l'attrape ?
+
+49
+00:03:05,268 --> 00:03:09,607
+Si on éteint toutes les lumières
+sauf une, il s'en approchera.
+
+50
+00:03:10,962 --> 00:03:12,526
+C'est pas un papillon de nuit !
+
+51
+00:03:14,434 --> 00:03:18,324
+{\pos(192,50)}Me crie pas dessus,
+j'aurai pas de meilleures idées.
+
+52
+00:03:18,490 --> 00:03:22,141
+{\pos(192,50)}Si je reste calme, j'aurai des perles
+comme "éteins les lumières" ?
+
+53
+00:03:23,411 --> 00:03:26,540
+{\pos(192,210)}Super, on s'engueule.
+C'est ce qu'il attend !
+
+54
+00:03:29,326 --> 00:03:32,171
+Alors, Dr Koothrappali, long vol ?
+
+55
+00:03:32,529 --> 00:03:34,632
+- 20 heures.
+- C'est dur.
+
+56
+00:03:34,798 --> 00:03:35,803
+Pas du tout.
+
+57
+00:03:35,928 --> 00:03:38,687
+Savez-vous qu'en traversant le monde
+sans votre femme,
+
+58
+00:03:38,812 --> 00:03:40,666
+vous ne priez pas pour un crash ?
+
+59
+00:03:43,840 --> 00:03:45,977
+Peut-on changer de sujet ?
+
+60
+00:03:46,102 --> 00:03:46,894
+Désolé.
+
+61
+00:03:48,186 --> 00:03:50,882
+- Et vous et Leonard ?
+- Génial, tout va bien.
+
+62
+00:03:51,314 --> 00:03:53,651
+- Vous vous êtes fiancés.
+- Oui.
+
+63
+00:03:53,817 --> 00:03:55,615
+- Que je vous raconte...
+- Papa !
+
+64
+00:03:57,473 --> 00:04:00,406
+Désolé, je suis sûr
+que vous n'allez pas vous détester.
+
+65
+00:04:05,099 --> 00:04:06,442
+Leonard, alors ?
+
+66
+00:04:07,364 --> 00:04:08,365
+Quoi ?
+
+67
+00:04:09,106 --> 00:04:10,042
+Comment ?
+
+68
+00:04:11,209 --> 00:04:12,535
+Je fais au plus vite.
+
+69
+00:04:13,270 --> 00:04:15,089
+Je dois aller à l'université.
+
+70
+00:04:15,255 --> 00:04:16,215
+Pourquoi ?
+
+71
+00:04:16,381 --> 00:04:18,724
+Un problème avec notre expérience.
+
+72
+00:04:18,849 --> 00:04:20,928
+Un oiseau est dans la salle blanche.
+
+73
+00:04:22,136 --> 00:04:23,357
+Je t'accompagne ?
+
+74
+00:04:23,482 --> 00:04:25,861
+Non, tu as eu un long vol,
+reste ici te reposer.
+
+75
+00:04:25,986 --> 00:04:28,394
+Me reposer... facile à dire.
+
+76
+00:04:28,560 --> 00:04:30,622
+Ta mère nettoie pas
+ton compte bancaire.
+
+77
+00:04:31,689 --> 00:04:33,961
+Elle a jamais rien nettoyé
+pendant 40 ans.
+
+78
+00:04:35,492 --> 00:04:37,731
+- Tu le laisses ici ?
+- Repos, qu'il dit.
+
+79
+00:04:37,856 --> 00:04:38,987
+Ouais, à plus.
+
+80
+00:04:50,960 --> 00:04:52,560
+Merci de m'amener...
+
+81
+00:05:03,520 --> 00:05:04,471
+Pourquoi ?
+
+82
+00:05:04,821 --> 00:05:08,403
+En 10 minutes, le Père Noël est venu,
+a embrassé Maman,
+
+83
+00:05:08,528 --> 00:05:10,519
+et a écrasé Grand-mère avec un rêne.
+
+84
+00:05:11,728 --> 00:05:15,158
+Un de mes oncles alcooliques l'a fait,
+mais personne ne chante à son propos.
+
+85
+00:05:16,776 --> 00:05:19,572
+Tu l'aimerais davantage
+si tu le voyais comme un super-héros
+
+86
+00:05:19,697 --> 00:05:22,072
+dont le pouvoir est de rendre
+les enfants joyeux.
+
+87
+00:05:22,238 --> 00:05:23,949
+Mon oncle en était aussi accusé.
+
+88
+00:05:25,175 --> 00:05:26,956
+Mais c'était légal en Oklahoma.
+
+89
+00:05:28,847 --> 00:05:30,055
+Nouveau sujet.
+
+90
+00:05:30,509 --> 00:05:31,707
+Parlons cadeaux.
+
+91
+00:05:32,082 --> 00:05:33,333
+Qu'as-tu pour Amy ?
+
+92
+00:05:33,499 --> 00:05:35,002
+On ne s'offre rien.
+
+93
+00:05:35,968 --> 00:05:38,162
+Allez, tu dois lui offrir
+quelque chose.
+
+94
+00:05:38,475 --> 00:05:39,631
+Pourquoi ?
+
+95
+00:05:39,797 --> 00:05:41,800
+Elle sait que je n'aime pas Noël,
+
+96
+00:05:41,925 --> 00:05:44,511
+et elle me force à le fêter
+chaque année.
+
+97
+00:05:44,677 --> 00:05:47,773
+Non seulement je vais
+à ce stupide dîner à contrecœur,
+
+98
+00:05:47,898 --> 00:05:52,144
+mais il y avait du gui au marché
+et elle m'a embrassé dessous, en public.
+
+99
+00:05:52,435 --> 00:05:55,457
+Comme si on était les stars
+d'un porno de Tijuana.
+
+100
+00:05:57,306 --> 00:05:59,276
+Elle est enthousiaste pour les fêtes.
+
+101
+00:05:59,643 --> 00:06:03,120
+Certes, mais elle se fiche complètement
+de ce que je ressens.
+
+102
+00:06:03,713 --> 00:06:05,574
+Je devrais lui donner une leçon.
+
+103
+00:06:06,523 --> 00:06:07,367
+Comment ?
+
+104
+00:06:09,139 --> 00:06:10,903
+Ce devra être un acte odieux,
+
+105
+00:06:11,537 --> 00:06:14,500
+quelque chose qui la rendra
+aussi triste que moi.
+
+106
+00:06:15,921 --> 00:06:16,960
+J'ai trouvé.
+
+107
+00:06:18,511 --> 00:06:19,861
+Quelle bonne idée...
+
+108
+00:06:21,543 --> 00:06:22,341
+Quoi ?
+
+109
+00:06:22,644 --> 00:06:24,407
+Je vais lui acheter un cadeau.
+
+110
+00:06:27,466 --> 00:06:29,326
+Faut que tu m'expliques.
+
+111
+00:06:29,884 --> 00:06:32,833
+L'acte d'offrir un cadeau
+repose sur un contrat social implicite.
+
+112
+00:06:33,309 --> 00:06:36,139
+Si j'arrive avec un cadeau
+et qu'elle n'en a pas pour moi,
+
+113
+00:06:36,264 --> 00:06:37,696
+elle se sentira très mal.
+
+114
+00:06:39,336 --> 00:06:40,943
+Vous serez tristes tous les deux.
+
+115
+00:06:43,277 --> 00:06:46,740
+Elle se sentira si coupable
+qu'on ne célébrera plus les fêtes.
+
+116
+00:06:48,056 --> 00:06:51,578
+Donc ton plan machiavélique,
+c'est d'offrir un cadeau à ta copine ?
+
+117
+00:06:51,744 --> 00:06:52,745
+Tout à fait.
+
+118
+00:06:53,329 --> 00:06:56,083
+Alors reste dans mes petits papiers,
+ou je t'offre un cadeau.
+
+119
+00:07:02,854 --> 00:07:04,549
+Voilà, voilà le plan.
+
+120
+00:07:04,868 --> 00:07:06,593
+Je mets de la bouffe dans le sac,
+
+121
+00:07:06,759 --> 00:07:09,721
+et quand il atterrit dans le sac
+pour manger, on referme.
+
+122
+00:07:10,080 --> 00:07:11,295
+Du saucisson ?
+
+123
+00:07:12,782 --> 00:07:14,310
+J'ai trouvé que ça, ça ira.
+
+124
+00:07:14,435 --> 00:07:16,728
+Si le pigeon est défoncé
+ou si c'est un camionneur.
+
+125
+00:07:19,731 --> 00:07:20,941
+Tu proposes quoi ?
+
+126
+00:07:21,107 --> 00:07:23,861
+Je te l'ai déjà dit,
+appelons le service d'entretien.
+
+127
+00:07:24,160 --> 00:07:27,044
+Et admettre qu'on a contaminé
+la salle blanche ?
+
+128
+00:07:27,488 --> 00:07:29,741
+Non, admettre que toi,
+tu l'as contaminée.
+
+129
+00:07:29,907 --> 00:07:32,265
+Pourquoi tu crois
+que c'est de ma faute ?
+
+130
+00:07:32,390 --> 00:07:36,039
+Tu fais tout le temps des bourdes
+que t'essaies de masquer ensuite.
+
+131
+00:07:36,447 --> 00:07:37,745
+Par exemple ?
+
+132
+00:07:38,293 --> 00:07:40,415
+Quand t'as retourné le Mars Rover,
+
+133
+00:07:40,540 --> 00:07:43,860
+que t'as perdu le chien de Koothrappali
+ou que t'as failli voler un bébé.
+
+134
+00:07:45,362 --> 00:07:47,164
+Les deux voitures se ressemblaient,
+
+135
+00:07:47,289 --> 00:07:50,596
+et il pleurait pas avant que sa mère
+me frappe avec ses clés.
+
+136
+00:07:51,630 --> 00:07:54,141
+Bon, mets le saucisson
+dans le sac poubelle.
+
+137
+00:07:54,307 --> 00:07:56,560
+Tu pourrais éviter
+ce ton condescendant ?
+
+138
+00:07:56,726 --> 00:07:59,813
+Je pourrais, mais ton plan contient
+les mots "sac poubelle" et "saucisson" !
+
+139
+00:08:02,011 --> 00:08:03,066
+Qu'y a-t-il ?
+
+140
+00:08:03,232 --> 00:08:06,403
+Ce génie veut attraper un oiseau
+avec un sac poubelle et du saucisson.
+
+141
+00:08:12,469 --> 00:08:14,411
+T'aurais dû le mettre dans le sac.
+
+142
+00:08:24,169 --> 00:08:27,466
+{\pub}Excusez ma curiosité, mais allez-vous
+fréquenter d'autres femmes ?
+
+143
+00:08:27,829 --> 00:08:30,061
+C'est un peu tôt.
+Vous pensiez à quelqu'un ?
+
+144
+00:08:32,843 --> 00:08:35,296
+Si ça marche pas avec Leonard,
+je vous ferai signe.
+
+145
+00:08:35,782 --> 00:08:37,762
+Vous parlez beaucoup de <i>Star Trek</i> ?
+
+146
+00:08:41,773 --> 00:08:43,982
+Commençons cette soirée victorienne.
+
+147
+00:08:44,519 --> 00:08:47,653
+J'ai fait quelques recherches,
+et j'ai trouvé des jeux traditionnels.
+
+148
+00:08:47,981 --> 00:08:48,904
+Comme quoi ?
+
+149
+00:08:49,565 --> 00:08:52,651
+Il y en a un sympa
+qui s'appelle <i>Pelote de Laine</i>.
+
+150
+00:08:54,659 --> 00:08:56,272
+On prend une pelote de laine,
+
+151
+00:08:56,977 --> 00:08:59,081
+et on la met au centre de la table.
+
+152
+00:08:59,247 --> 00:09:03,164
+On s'assoit aux extrémités de la table
+et on souffle pour la faire tomber.
+
+153
+00:09:06,907 --> 00:09:08,615
+Désolée, elle est prise.
+
+154
+00:09:11,843 --> 00:09:13,428
+Je vois ce qui te dérange.
+
+155
+00:09:13,594 --> 00:09:16,523
+Tu es jaloux
+parce que j'étais ton meilleur ami
+
+156
+00:09:16,648 --> 00:09:18,767
+avant de connaître Koothrappali.
+
+157
+00:09:18,933 --> 00:09:21,228
+Enfin quelqu'un
+que tu peux commander ?
+
+158
+00:09:21,925 --> 00:09:22,979
+T'en mêle pas.
+
+159
+00:09:25,219 --> 00:09:27,064
+Peut-être que c'est mon meilleur ami
+
+160
+00:09:27,189 --> 00:09:29,489
+parce qu'il ne se croit pas
+plus malin que moi.
+
+161
+00:09:29,614 --> 00:09:31,655
+- En fait...
+- T'en mêle pas !
+
+162
+00:09:32,804 --> 00:09:34,491
+Vas-y, Raj, exprime-toi.
+
+163
+00:09:34,657 --> 00:09:37,744
+J'allais dire que vous devriez arrêter
+de vous disputer.
+
+164
+00:09:38,339 --> 00:09:40,399
+Ça craint déjà
+de voir mes parents se disputer,
+
+165
+00:09:40,524 --> 00:09:42,209
+si mes amis s'y mettent...
+
+166
+00:09:42,665 --> 00:09:44,373
+On s'en fout, du plus malin.
+
+167
+00:09:44,498 --> 00:09:45,724
+Leonard, moi...
+
+168
+00:09:46,151 --> 00:09:47,671
+ou Howard, c'est Noël.
+
+169
+00:09:51,235 --> 00:09:53,802
+Si t'es si malin que ça,
+fais-donc sortir ce pigeon.
+
+170
+00:09:53,968 --> 00:09:57,014
+- C'est toi qui l'as laissé entrer.
+- Ça peut pas être Leonard ?
+
+171
+00:09:57,476 --> 00:09:58,482
+Allons.
+
+172
+00:10:02,869 --> 00:10:04,012
+T'as vu ce pull ?
+
+173
+00:10:04,687 --> 00:10:06,065
+C'est pas assez bien.
+
+174
+00:10:06,190 --> 00:10:07,567
+Ça doit être parfait.
+
+175
+00:10:08,441 --> 00:10:11,645
+Les meilleurs cadeaux d'Howie
+montrent combien il me connaît.
+
+176
+00:10:13,278 --> 00:10:15,503
+Voyons, que sais-je d'Amy ?
+
+177
+00:10:15,982 --> 00:10:19,306
+Elle adore la littérature médiévale,
+Chaucer est son auteur préféré.
+
+178
+00:10:20,022 --> 00:10:23,665
+Et ses yeux pétillent quand elle regarde
+des vieux films français.
+
+179
+00:10:24,025 --> 00:10:28,036
+J'aime voir ses doigts danser
+quand elle entend de la harpe,
+
+180
+00:10:28,161 --> 00:10:29,910
+comme si c'était elle qui jouait.
+
+181
+00:10:31,577 --> 00:10:33,008
+Tu l'aimes vraiment.
+
+182
+00:10:34,703 --> 00:10:35,677
+Oui.
+
+183
+00:10:37,840 --> 00:10:40,898
+Allons trouver un cadeau
+qui la fera se sentir triste et inutile.
+
+184
+00:11:11,455 --> 00:11:12,297
+Gagné !
+
+185
+00:11:14,807 --> 00:11:16,801
+On dirait pas, hein ?
+
+186
+00:11:19,253 --> 00:11:22,516
+Ma femme organisait tout le temps
+des soirées à thème comme celles-ci.
+
+187
+00:11:22,849 --> 00:11:24,935
+C'est de là
+que Raj tient cette passion.
+
+188
+00:11:25,852 --> 00:11:28,827
+Il était beaucoup avec sa mère,
+quand il était petit.
+
+189
+00:11:28,952 --> 00:11:30,065
+Je travaillais dur.
+
+190
+00:11:31,460 --> 00:11:34,610
+Raj sort avec une doctoresse
+qui travaille beaucoup.
+
+191
+00:11:34,918 --> 00:11:36,654
+Il a les mêmes goûts que sa mère.
+
+192
+00:11:37,742 --> 00:11:39,478
+Ça doit vous faire sourire, non ?
+
+193
+00:11:41,970 --> 00:11:43,070
+Non ? Bon...
+
+194
+00:11:46,080 --> 00:11:48,157
+Bon, si j'ai bien compris...
+
+195
+00:11:49,792 --> 00:11:51,619
+Une photo de vous sur mes genoux
+
+196
+00:11:52,014 --> 00:11:55,674
+est une façon de punir votre amie
+pour vous avoir obligé à fêter Noël ?
+
+197
+00:11:56,491 --> 00:11:57,300
+Correct.
+
+198
+00:11:57,466 --> 00:12:00,844
+Le Père Noël pense que sortir avec vous
+est déjà une punition en soi.
+
+199
+00:12:04,358 --> 00:12:05,736
+Ça se défend.
+
+200
+00:12:06,411 --> 00:12:07,843
+Mais je veux en être sûr.
+
+201
+00:12:08,269 --> 00:12:09,479
+Souriez.
+
+202
+00:12:18,362 --> 00:12:21,257
+À trois, je déclenche l'extincteur
+dans sa direction.
+
+203
+00:12:21,382 --> 00:12:23,743
+Howard, agite la couverture
+pour le faire sortir.
+
+204
+00:12:23,909 --> 00:12:25,787
+Raj, tiens le rideau ouvert.
+
+205
+00:12:26,378 --> 00:12:30,178
+Tu crois qu'un crétin comme moi
+peut s'occuper de la couverture ?
+
+206
+00:12:31,625 --> 00:12:34,045
+- Tu veux l'extincteur ?
+- Oui.
+
+207
+00:12:34,211 --> 00:12:35,212
+Tiens.
+
+208
+00:12:39,826 --> 00:12:40,675
+Un,
+
+209
+00:12:40,800 --> 00:12:41,627
+deux,
+
+210
+00:12:41,752 --> 00:12:42,753
+trois.
+
+211
+00:12:46,266 --> 00:12:47,517
+Enlève la goupille.
+
+212
+00:12:52,137 --> 00:12:54,271
+Tu regrettes la couverture, non ?
+
+213
+00:12:57,215 --> 00:12:58,019
+À trois.
+
+214
+00:12:58,144 --> 00:12:59,487
+Un, deux,
+
+215
+00:12:59,890 --> 00:13:00,891
+trois.
+
+216
+00:13:09,372 --> 00:13:10,749
+Qu'est-ce que t'as fait ?
+
+217
+00:13:11,641 --> 00:13:13,034
+C'était un accident.
+
+218
+00:13:14,961 --> 00:13:16,713
+Du calme, c'était pas ta faute.
+
+219
+00:13:16,879 --> 00:13:18,381
+Il est peut-être sonné.
+
+220
+00:13:18,547 --> 00:13:20,008
+Il respire pas.
+
+221
+00:13:21,842 --> 00:13:22,942
+Je l'ai tué.
+
+222
+00:13:23,632 --> 00:13:25,180
+Ça recommence.
+
+223
+00:13:26,484 --> 00:13:28,099
+Comment ça ?
+
+224
+00:13:31,068 --> 00:13:32,386
+Quand j'avais dix ans,
+
+225
+00:13:32,737 --> 00:13:35,361
+je jouais dans le jardin, et...
+
+226
+00:13:36,861 --> 00:13:38,443
+je me suis assis sur un geai.
+
+227
+00:13:40,753 --> 00:13:44,044
+J'ai essayé de le ressusciter
+avec de l'électricité,
+
+228
+00:13:46,200 --> 00:13:47,244
+mais il a brûlé.
+
+229
+00:13:50,717 --> 00:13:53,375
+Le pire,
+c'est que ça sentait trop bon.
+
+230
+00:13:55,167 --> 00:13:57,003
+J'ai trouvé un article.
+
+231
+00:13:57,169 --> 00:13:59,130
+On peut ranimer les oiseaux.
+
+232
+00:13:59,296 --> 00:14:00,674
+Super, fais-le.
+
+233
+00:14:00,840 --> 00:14:02,342
+Tu l'as tué !
+Fais-le, toi.
+
+234
+00:14:02,508 --> 00:14:04,302
+- Je vais le faire.
+- Non.
+
+235
+00:14:04,468 --> 00:14:06,929
+Je dois le faire.
+C'est ma faute.
+
+236
+00:14:13,185 --> 00:14:16,022
+"Bouche à bec
+et légères pressions pulmonaires."
+
+237
+00:14:16,188 --> 00:14:19,288
+Souffle pas trop fort.
+Si tu l'éclates, je vais vomir.
+
+238
+00:14:22,277 --> 00:14:23,154
+Alors ?
+
+239
+00:14:23,507 --> 00:14:25,407
+Je sens le goût du saucisson.
+
+240
+00:14:29,410 --> 00:14:31,663
+Attends.
+Son aile a bougé.
+
+241
+00:14:32,042 --> 00:14:33,623
+Il cligne des yeux.
+Il vit !
+
+242
+00:14:33,789 --> 00:14:35,082
+Un miracle de Noël !
+
+243
+00:14:35,249 --> 00:14:37,711
+J'aurais dit Hanoucca, mais ça me va.
+
+244
+00:14:38,919 --> 00:14:40,505
+On va te sortir.
+Tire le rideau.
+
+245
+00:14:48,642 --> 00:14:51,433
+Quelqu'un devrait vraiment
+fermer la porte.
+
+246
+00:14:58,573 --> 00:14:59,899
+C'est bien ça.
+
+247
+00:15:00,066 --> 00:15:01,526
+La salle est souillée.
+
+248
+00:15:01,692 --> 00:15:03,645
+Il faudra changer tous les filtres,
+
+249
+00:15:03,770 --> 00:15:05,680
+ça prendra des semaines.
+
+250
+00:15:06,489 --> 00:15:09,217
+T'avais raison,
+appelle le service d'entretien.
+
+251
+00:15:09,342 --> 00:15:11,898
+- Dis-leur que c'est ma faute.
+- On est tous les deux fautifs.
+
+252
+00:15:12,023 --> 00:15:13,800
+Je vais dire que c'était moi.
+
+253
+00:15:14,455 --> 00:15:16,545
+Parle pas de moi.
+S'ils voient les fientes,
+
+254
+00:15:16,670 --> 00:15:18,626
+ils s'en prendront à l'Indien.
+
+255
+00:15:23,955 --> 00:15:26,968
+Désolé, on est toujours là.
+Tout va bien ?
+
+256
+00:15:27,397 --> 00:15:28,707
+On s'ennuie un peu.
+
+257
+00:15:28,832 --> 00:15:30,171
+Sauf à un moment,
+
+258
+00:15:30,296 --> 00:15:32,474
+quand Amy a aspiré
+une pelote de laine.
+
+259
+00:15:34,058 --> 00:15:36,102
+- Vous en avez pour longtemps ?
+- <i>Je sais pas.</i>
+
+260
+00:15:36,268 --> 00:15:39,418
+Il y a encore un oiseau.
+On va avoir un paquet d'ennuis.
+
+261
+00:15:39,980 --> 00:15:41,775
+C'est Noël,
+qui sait que vous y êtes ?
+
+262
+00:15:41,941 --> 00:15:43,777
+On a mis nos noms sur le registre.
+
+263
+00:15:43,943 --> 00:15:45,445
+Effacez-les et tirez-vous.
+
+264
+00:15:45,611 --> 00:15:47,155
+Je peux pas faire ça.
+
+265
+00:15:47,321 --> 00:15:48,365
+Quoi ?
+
+266
+00:15:48,531 --> 00:15:50,992
+Elle suggère
+d'effacer nos noms et de partir.
+
+267
+00:15:51,158 --> 00:15:53,328
+On peut pas faire ça.
+
+268
+00:16:06,674 --> 00:16:08,343
+Ce pudding était exquis.
+
+269
+00:16:08,839 --> 00:16:10,691
+Si t'aimes les raisins secs.
+
+270
+00:16:11,737 --> 00:16:13,556
+Merci.
+Mais c'était des figues.
+
+271
+00:16:15,058 --> 00:16:16,393
+Alors, c'était très bon.
+
+272
+00:16:18,269 --> 00:16:20,355
+Ça va ?
+T'as à peine touché à ton oie.
+
+273
+00:16:20,521 --> 00:16:22,899
+Elle sentait trop le geai.
+
+274
+00:16:24,024 --> 00:16:25,276
+Je peux débarrasser ?
+
+275
+00:16:25,442 --> 00:16:27,612
+Vous m'avez sauvée
+d'une pelote de laine, laissez.
+
+276
+00:16:30,352 --> 00:16:32,300
+Et si on passait aux cadeaux ?
+
+277
+00:16:32,425 --> 00:16:33,763
+On en a pas fait.
+
+278
+00:16:33,888 --> 00:16:36,404
+- T'aimes pas faire de cadeaux.
+- C'est vrai.
+
+279
+00:16:36,529 --> 00:16:38,448
+C'est pour ça que j'offre à Amy...
+
+280
+00:16:38,573 --> 00:16:39,582
+ceci.
+
+281
+00:16:39,748 --> 00:16:41,042
+Tu m'offres un cadeau ?
+
+282
+00:16:41,634 --> 00:16:43,144
+C'est pas un cadeau.
+
+283
+00:16:43,269 --> 00:16:45,546
+Ça vient du cœur,
+c'est en rapport avec les fêtes,
+
+284
+00:16:45,713 --> 00:16:49,551
+et j'ai mangé le ticket,
+tu pourras pas l'échanger.
+
+285
+00:16:53,304 --> 00:16:55,456
+T'es sur les genoux du Père Noël.
+
+286
+00:16:55,581 --> 00:16:57,016
+C'est trop chou.
+
+287
+00:16:57,182 --> 00:16:58,629
+Évidemment.
+
+288
+00:16:58,754 --> 00:17:00,249
+C'est le cadeau parfait.
+
+289
+00:17:00,374 --> 00:17:01,859
+Comment tu te sens ?
+
+290
+00:17:01,984 --> 00:17:02,985
+Coupable ?
+
+291
+00:17:03,110 --> 00:17:04,111
+Triste ?
+
+292
+00:17:04,616 --> 00:17:06,192
+Tu voudrais être juive ?
+
+293
+00:17:08,052 --> 00:17:09,404
+Non, je l'adore.
+
+294
+00:17:09,570 --> 00:17:10,572
+Vraiment ?
+
+295
+00:17:11,133 --> 00:17:12,383
+Et maintenant ?
+
+296
+00:17:14,112 --> 00:17:17,162
+<i>Joyeuses fêtes, ma très chère Amy.</i>
+
+297
+00:17:18,467 --> 00:17:20,373
+<i>J'espère que tu le chériras</i>
+
+298
+00:17:20,785 --> 00:17:23,171
+<i>autant que je te chéris.</i>
+
+299
+00:17:25,461 --> 00:17:27,255
+Et toi, tu m'as rien offert.
+
+300
+00:17:28,714 --> 00:17:30,300
+Noël est gâché.
+
+301
+00:17:30,466 --> 00:17:31,968
+N'en parlons plus jamais.
+
+302
+00:17:33,402 --> 00:17:34,929
+C'était sympa.
+
+303
+00:17:35,926 --> 00:17:36,723
+En fait,
+
+304
+00:17:37,961 --> 00:17:39,861
+j'ai quelque chose pour toi.
+
+305
+00:17:40,781 --> 00:17:42,416
+Et notre accord ?
+
+306
+00:17:42,695 --> 00:17:44,314
+Tu m'as bien fait un cadeau.
+
+307
+00:17:44,480 --> 00:17:45,273
+Tiens.
+
+308
+00:17:49,602 --> 00:17:51,196
+Des cookies ?
+
+309
+00:17:51,900 --> 00:17:53,823
+C'est les cookies de Noël
+de ta Maminette.
+
+310
+00:17:54,786 --> 00:17:56,701
+Je lui ai demandé la recette.
+
+311
+00:18:06,735 --> 00:18:07,837
+Ils sont parfaits.
+
+312
+00:18:10,235 --> 00:18:12,175
+Ça me rappelle ses câlins.
+
+313
+00:18:15,014 --> 00:18:16,387
+Joyeux Noël, Sheldon.
+
+314
+00:18:18,063 --> 00:18:19,853
+C'est incroyable.
+
+315
+00:18:20,454 --> 00:18:21,789
+Tu es heureuse.
+
+316
+00:18:21,914 --> 00:18:23,222
+Je suis heureux.
+
+317
+00:18:24,522 --> 00:18:26,397
+Une fête qui repose sur le partage...
+
+318
+00:18:26,563 --> 00:18:28,413
+Enlève ta main de la boîte.
+
+319
+00:18:38,701 --> 00:18:41,940
+{\pub}Le jeu suivant s'appelle
+<i>Haricots bouillis</i>.
+
+320
+00:18:44,387 --> 00:18:45,687
+Mais bien sûr.
+
+321
+00:18:46,875 --> 00:18:48,863
+Une personne sort de la pièce.
+
+322
+00:18:48,988 --> 00:18:51,214
+Les autres cachent un petit objet.
+
+323
+00:18:51,715 --> 00:18:54,734
+Puis ils font rentrer
+la première personne en disant :
+
+324
+00:18:54,859 --> 00:18:58,809
+"Haricots bouillis et bacon au dîner,
+dépêche-toi, ça va refroidir."
+
+325
+00:19:03,102 --> 00:19:05,384
+Si vous trouvez ça mieux
+que Tom Hanks-giving,
+
+326
+00:19:05,509 --> 00:19:07,159
+vous êtes tous dingues.
+
